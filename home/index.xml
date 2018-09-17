@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on </title>
     <link>https://gfarnadi.github.io/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -27,8 +27,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://gfarnadi.github.io/home/about/</guid>
-      <description>Biography Gena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Biography Golnoosh Farnadi obtained a Ph.D. in Computer science from KU Leuven and Ghent University in 2017 with a dissertation on user modeling in social media. She is currently a post-doctoral researcher of the Statistical Relational Learning Group (LINQS) of Prof. Lise Getoor at the University of California, Santa Cruz. She was a visiting scholar at the University of Washington, Tacoma, Tsinguha University, and Microsoft research, Redmond.
+Her research areas are in probabilistic graphical models, social network analysis and fairness in machine learning focusing on computational social science applications in psychology, sociology and political science.</description>
     </item>
     
     <item>
