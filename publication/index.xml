@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on </title>
-    <link>https://gfarnadi.github.io/publication/</link>
-    <description>Recent content in Publications on </description>
+    <title>Publications on Golnoosh Farnadi</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Golnoosh Farnadi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://gfarnadi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lifted Hinge-Loss Markov Random Fields</title>
+      <link>/publication/aaai19/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/aaai19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Environmental Stressors on Human Trafficking</title>
+      <link>/publication/icdm18/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/icdm18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Profiling through Deep Multimodal Fusion</title>
+      <link>/publication/wsdm18/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wsdm18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fairness in Relational Domains</title>
+      <link>/publication/aies18/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/aies18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soft Quantification in Statistical Relational Learning</title>
+      <link>/publication/mlj17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mlj17/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
