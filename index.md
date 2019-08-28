@@ -47,4 +47,4 @@ Email: [farnadig@mila.quebec](farnadig@mila.quebec)
 
 [![alt text](linkedin.png)](https://www.linkedin.com/in/gfarnadi/ "LinkedIn")
 [![alt text](twitter.png)](https://twitter.com/gfarnadi "Twitter")
-[![alt text](scholar.png)](https://scholar.google.com/citations?user=4Vjp6hwAAAAJ&hl=en "Google Scholar")
+[![alt text](scholar.png| width=100)](https://scholar.google.com/citations?user=4Vjp6hwAAAAJ&hl=en "Google Scholar")
