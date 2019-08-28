@@ -25,7 +25,7 @@ Washington Tacoma, USA) and Prof. Marie-Francine Moens (KU Leuven).
 
 
 
-For the full list of my publications, please check [https://github.com/gfarnadi/gfarnadi.github.io/master/publications.md](publications).
+For the full list of my publications, please check [publications](publications.md).
 
 ### Research Visits
 
