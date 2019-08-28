@@ -1,4 +1,4 @@
-| [Home](#index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Contact](#Contact) |
+| [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | 
 
 ## Papers in international journals listed in SCI - Science Citation Index
 
