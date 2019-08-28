@@ -46,5 +46,5 @@ The Impact of Environmental Stressors on Human Trafficking. In Proceedings of th
 Email: [farnadig@mila.quebec](farnadig@mila.quebec)
 
 [![alt text](linkedin.png)](https://www.linkedin.com/in/gfarnadi/ "LinkedIn")
-[![alt text](googlescholar.jpeg)](https://scholar.google.com/citations?user=4Vjp6hwAAAAJ&hl=en "Google Scholar"){ width=50% }
+[![alt text](googlescholar.png)](https://scholar.google.com/citations?user=4Vjp6hwAAAAJ&hl=en "Google Scholar"){width=50%}
 [![alt text](twitter.png)](https://twitter.com/gfarnadi "Twitter")
