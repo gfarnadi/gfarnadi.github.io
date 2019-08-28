@@ -1,4 +1,4 @@
-###Papers in international journals listed in SCI - Science Citation Index
+## Papers in international journals listed in SCI - Science Citation Index
 
 1. Golnoosh Farnadi, Lise Getoor, Michal Kosinski, David Stillwell, Marie-Francine Moens,
 and Martine De Cock. User Profiling Using Hinge-loss Markov Random Fields.
@@ -12,7 +12,7 @@ Machine Learning Journal), 2017.
 David Stillwell, Sergio Davalos, Marie-Francine Moens, and Martine De Cock. Computational Personality Recognition in Social Media. In UMUAI (The Journal of
 Personalization Research, Special issue on Personality in Personalized Systems), 2016
 
-###Peer-reviewed Papers in Proceedings
+## Peer-reviewed Papers in Proceedings
 
 4. Golnoosh Farnadi, Behrouz Babaki, and Michel Gendreau. A Unifying Framework
 for Fairness-Aware Influence Maximization. In preparation.
