@@ -1,3 +1,5 @@
+| [Home](#index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Contact](#Contact) |
+
 ### Academics
 
 **Postdoctoral/IVADO fellow** (November 2018–September 2019) at the Polytechnique Montréal, Montreal,
