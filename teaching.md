@@ -1,20 +1,38 @@
+### Teaching 
+**Data Science (2019–2020), Mila**
+
+- Design the syllabos and the materials
+- Design the project, quezes and exercises
+- For more info, please check [data science course]().
+
 ### Teaching Assistant
 
-** Advance Machine Learning and Responsible AI (2017–2018)**
+**Advance Machine Learning and Responsible AI (2017–2018), UCSC**
 
 - Teach a tutorial on Fairness-aware AI
 
-** Text-based Information Retrieval (2016–2017)**
+**Text-based Information Retrieval (2016–2017), KU Leuven**
 
 - Supervise and teach practical session
 - Organize Invited talks from industry (Google DeepMind and Facebook AI)
 
-**  Machine Learning (2015–2016) (2016 –2017) **
+**Machine Learning (2015–2016) (2016 –2017), UW Tacoma**
 
+- Teach a theoretical and practical session on Deep Neural networks and Tensorflow
+- Design the project on user profiling in social media as a running project through the course
+- Evaluate the results of the software submissions every week
+- Grade the biweekly presentations, projects’ code and final reports
 
+**Data Mining (2014–2015), UW Tacoma**
 
+- Design the project on author profiling in social media as a running project through the course
+- Grade the projects’ code and final reports
 
+**Introduction to Java Programming (2013–2014), KU Leuven**
 
+- Design exercises
+- Supervise and teach practical sessions twice a week
+- Grade the midterm and final projects and reports
 
 
 ### Master Theses Supervision
