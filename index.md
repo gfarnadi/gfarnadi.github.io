@@ -44,5 +44,6 @@ To get more info of my teaching duties, please check [teaching](teaching.md).
 ### Contact
 
 Email: farnadig@mila.quebec
+
 Tel: +1 438 866 3285
 
