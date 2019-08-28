@@ -11,24 +11,16 @@ I obtained my Ph.D. in Computer science from KU Leuven and Ghent University in 2
 - Social Network Analysis
 - Probabilistic Graphical Models
 
-### Academics
+### News
 
-**Postdoctoral/IVADO fellow** (November 2018–September 2019) at the Polytechnique Montréal, Montreal,
-Canada. Under the supervision of Prof. Michel Gendreau
+- (September 9) I will present our recent work on "" at Montreal AI Symposium 2019 (MAIS), [more info] (http://montrealaisymposium.com/)
 
-**Post-doctoral Researcher** (July 2017–October 2018) at the University of California, Santa
-Cruz, USA. Under the supervision of Prof. Lise Getoor
+- (September 13) I will be giving an invited talk on ''Bias and Discrimination in AI'' at the MILA/IVADO summer school on Deep Learning in Montreal, [more info](https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/)
 
-**Post-doctoral Researcher** (July 2017–October 2018) at the University of California, Santa
-Cruz, USA. Under the supervision of Prof. Lise Getoor
+- (October 31) I will be giving an invited talk on ''Deep Verification'' at Trustworthy AI Symposium at Columbia University , [more info](https://datascience.columbia.edu/trustworthy-ai-symposium)
 
-**Joint Ph.D. in Computer Science** (2017) at the University of Ghent (UGent) and KU
-Leuven, Belgium. Under the supervisions of Prof. Martine De Cock, (UGent and University of
-Washington Tacoma, USA) and Prof. Marie-Francine Moens (KU Leuven).
 
-**Master’s in Computer Science** (2011). Technical University of Delft (TU Delft), The Netherlands.
-
-**Bachelor in Computer Science** (2007). Shahid Beheshti University (SBU), Tehran, Iran
+The full list is avaialble at [news](news.md).
 
 ### Publications
 
