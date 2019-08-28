@@ -1,4 +1,4 @@
-| [Home](#index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Contact](#Contact) |
+| [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) |
 
 ### Teaching 
 **Data Science (2019–2020), Mila**
