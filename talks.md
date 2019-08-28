@@ -1,3 +1,5 @@
+| [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) |
+
 ### Invited Talks
 
 - IVADO/MILA summer school on bias and discrimination in AI, Montreal, Canada,
