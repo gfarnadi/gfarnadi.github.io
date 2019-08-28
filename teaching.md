@@ -1,11 +1,11 @@
 | [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) |
 
-### Teaching 
+## Teaching 
 **Data Science (2019–2020), Mila**
 
 - All materials and details are avaialble at the [data science course](datascience.md).
 
-### Teaching Assistant
+## Teaching Assistant
 
 **Advance Machine Learning and Responsible AI (2017–2018), UCSC**
 
@@ -35,7 +35,7 @@
 - Grade the midterm and final projects and reports
 
 
-### Master Theses Supervision
+## Master Theses Supervision
 
 1. “Scalable Propagation Algorithms for Node Labeling in k-Partite Graphs” of Natalia Nebulishvili
 (Master in Computer Science, 2015-2016, University of Washington Tacoma)
