@@ -22,11 +22,15 @@ I obtained my Ph.D. in Computer science from KU Leuven and Ghent University in 2
 
 The full list is avaialble at [news](news.md).
 
-### Publications
+### Selected Publications
 
 For the full list of my publications, please check [publications](publications.md).
 
+- Yoojung Choi, Golnoosh Farnadi, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. Submitted. [Arxiv](https://arxiv.org/abs/1906.03843)
 
+- Golnoosh Farnadi, Pigi Kouki, Spencer K. Thompson, Sriram Srinivasan, and Lise Getoor. A Fairness-aware Hybrid Recommender System. In the 2nd FATREC Workshop: Responsible Recommendation at RecSys, 2018.
+
+- Sabina Tomkins, Golnoosh Farnadi, Brian Amanatullah, Steve Minton and Lise Getoor The Impact of Environmental Stressors on Human Trafficking. In proceedings of the IEEE International Conference on Data Mining series (ICDM), 2018.(Acceptance rate: 8.86%)
 
 # Contact
 
