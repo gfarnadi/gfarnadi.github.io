@@ -30,7 +30,11 @@ For the full list of my publications, please check [publications](publications.m
 
 - Golnoosh Farnadi, Pigi Kouki, Spencer K. Thompson, Sriram Srinivasan, and Lise Getoor. A Fairness-aware Hybrid Recommender System. In the 2nd FATREC Workshop: Responsible Recommendation at RecSys, 2018.
 
+- Golnoosh Farnadi, Jie Tang, Martine De Cock, and Marie-Francine Moens. User Profiling through Deep Multimodal Fusion. In Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM), 2018.(Acceptance rate: 16%)
+
 - Sabina Tomkins, Golnoosh Farnadi, Brian Amanatullah, Steve Minton and Lise Getoor The Impact of Environmental Stressors on Human Trafficking. In proceedings of the IEEE International Conference on Data Mining series (ICDM), 2018.(Acceptance rate: 8.86%)
+
+- Golnoosh Farnadi, Stephen H. Bach, Marie-Francine Moens, Lise Getoor, and Martine De Cock. Soft Quantification in Statistical Relational Learning. In MLJ (The Machine Learning Journal), 2017.
 
 # Contact
 
