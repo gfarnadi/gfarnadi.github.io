@@ -1,9 +1,7 @@
 ### Teaching 
 **Data Science (2019–2020), Mila**
 
-- Design the syllabos and the materials
-- Design the project, quezes and exercises
-- For more info, please check [data science course]().
+- All materials and details are avaialble at the [data science course]().
 
 ### Teaching Assistant
 
