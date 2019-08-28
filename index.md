@@ -43,7 +43,7 @@ The Impact of Environmental Stressors on Human Trafficking. In Proceedings of th
 
 ### Contact
 
-Email: <farnadig@mila.quebec>(farnadig@mila.quebec)
+[Email](farnadig@mila.quebec)
 
 
 
