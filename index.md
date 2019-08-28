@@ -36,6 +36,8 @@ Washington Tacoma, USA) and Prof. Marie-Francine Moens (KU Leuven).
 
 For the full list of my publications, please check [publications](publications.md).
 
+
+
 # Contact
 
 Email: farnadig@mila.quebec
