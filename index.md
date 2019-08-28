@@ -23,15 +23,15 @@ Washington Tacoma, USA) and Prof. Marie-Francine Moens (KU Leuven).
 
 ### Publications
 
-For the full list of my publications, please check gfarnadi.github.io/publications.md "publications".
+For the full list of my publications, please check <https://github.com/gfarnadi.github.io/publications.md> "publications".
 
 ### Research Visits
 
-More info is avaialble at gfarnadi.github.io/visits.md "visits".
+More info is avaialble at <https://github.com/gfarnadi.github.io/visits.md> "visits".
 
 ### Teaching
 
-To get more info of my teaching duties, please check gfarnadi.github.io/teaching.md "teaching".
+To get more info of my teaching duties, please check <https://github.com/gfarnadi.github.io/teaching.md> "teaching".
 
 ### Contact
 
