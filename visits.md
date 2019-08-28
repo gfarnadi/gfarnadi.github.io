@@ -1,3 +1,5 @@
+### Research Visits
+
 - Research scholar at the Statistical and Relational Artificial Intelligence (StarAI) lab, University of California Los Angeles (UCLA), USA, April 2019 – May 2019. I worked on fairness and monotonic learning with neural network verification . Under the supervision of Prof. Guy Van den Broeck
 
 - Research scholar at the Statistical and Relational Artificial Intelligence (StarAI) lab, University of California Los Angeles (UCLA), USA, February 2018. I worked on discrimination discovery in Bayesian networks. Under the supervision of Prof. Guy Van den Broeck
