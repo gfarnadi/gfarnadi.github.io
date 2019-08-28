@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Postdoctoral Fellow at Mila
 
-You can use the [editor on GitHub](https://github.com/gfarnadi/gfarnadi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Golnoosh Farnadi obtained a Ph.D. in Computer science from KU Leuven and Ghent University in 2017 with a dissertation on user modeling in social media. She is currently a post-doctoral fellow at Montréal Institute for Learning Algorithms (Mila) working on fairness-aware sequential decision making under uncertainty. Prior to this, she was a postdoc researcher of the Statistical Relational Learning Group (LINQS) of Prof. Lise Getoor at the University of California, Santa Cruz. She was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha University, and Microsoft research, Redmond.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Academics
 
-### Markdown
+**Postdoctoral/IVADO fellow** (November 2018–September 2019) at the Polytechnique Montréal, Montreal,
+Canada. Under the supervision of Prof. Michel Gendreau
+**Post-doctoral Researcher** (July 2017–October 2018) at the University of California, Santa
+Cruz, USA. Under the supervision of Prof. Lise Getoor
+**Post-doctoral Researcher** (July 2017–October 2018) at the University of California, Santa
+Cruz, USA. Under the supervision of Prof. Lise Getoor
+**Joint Ph.D. in Computer Science** (2017) at the University of Ghent (UGent) and KU
+Leuven, Belgium. Under the supervisions of Prof. Martine De Cock, (UGent and University of
+Washington Tacoma, USA) and Prof. Marie-Francine Moens (KU Leuven).
+**Master’s in Computer Science** (2011). Technical University of Delft (TU Delft), The Netherlands.
+**Bachelor in Computer Science** (2007). Shahid Beheshti University (SBU), Tehran, Iran
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gfarnadi/gfarnadi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: golnoosh.farnadi@gmail.com
