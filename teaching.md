@@ -3,7 +3,7 @@
 ### Teaching 
 **Data Science (2019–2020), Mila**
 
-- All materials and details are avaialble at the [data science course]().
+- All materials and details are avaialble at the [data science course](datascience.md).
 
 ### Teaching Assistant
 
