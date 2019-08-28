@@ -41,7 +41,7 @@ The Impact of Environmental Stressors on Human Trafficking. In Proceedings of th
 
 - **Golnoosh Farnadi**, Stephen H. Bach, Marie-Francine Moens, Lise Getoor, and Martine De Cock. Soft Quantification in Statistical Relational Learning. In MLJ (The Machine Learning Journal), 2017. **Winner of the Best Paper Award**
 
-### Contact
+## Contact
 
 Email: [farnadig@mila.quebec](farnadig@mila.quebec)
 
