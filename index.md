@@ -5,6 +5,14 @@
 
 I obtained my Ph.D. in Computer science from KU Leuven and Ghent University in 2017 with a dissertation on user modeling in social media. I am currently a post-doctoral fellow at Montréal Institute for Learning Algorithms (Mila) working on fairness-aware sequential decision making under uncertainty. Prior to this, I was a postdoc researcher of the Statistical Relational Learning Group (LINQS) of Prof. Lise Getoor at the University of California, Santa Cruz. I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha University, and Microsoft research, Redmond.
 
+
+### Research Interest
+
+- Fairness-aware AI
+- Relational Fairness
+- Social Network Analysis
+- Probabilistic Graphical Models
+
 ### Academics
 
 **Postdoctoral/IVADO fellow** (November 2018–September 2019) at the Polytechnique Montréal, Montreal,
