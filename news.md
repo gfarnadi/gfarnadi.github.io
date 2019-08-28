@@ -1,3 +1,5 @@
+| [Home](#index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Contact](#Contact) |
+
 ### News
 
 - (September 9) I will present our recent work on "" at Montreal AI Symposium 2019 (MAIS), [more info](http://montrealaisymposium.com/)
