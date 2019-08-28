@@ -77,17 +77,17 @@ Getoor, and Martine De Cock. Statistical Relational Learning with Soft Quantifie
 
 ## Extended Abstracts
 
-33. Golnoosh Farnadi, Behrouz Babaki, and Michel Gendreau. Deep Individual Fairness
+34. Golnoosh Farnadi, Behrouz Babaki, and Michel Gendreau. Deep Individual Fairness
 Verification. Submitted.
 
-34. Golnoosh Farnadi, Behrouz Babaki, and Michel Gendreau. Verifying Individual Fairness in Neural Networks. In Abstracts of Montreal AI Symposium (MAIS), 2019.
+35. Golnoosh Farnadi, Behrouz Babaki, and Michel Gendreau. Verifying Individual Fairness in Neural Networks. In Abstracts of Montreal AI Symposium (MAIS), 2019.
 
-31. Golnoosh Farnadi, Behrouz Babaki, and Lise Getoor. Fairness-aware Probabilistic Soft Logic. In Abstracts of the 13th Women in Machine learning workshop (WiML), 2018.
+36. Golnoosh Farnadi, Behrouz Babaki, and Lise Getoor. Fairness-aware Probabilistic Soft Logic. In Abstracts of the 13th Women in Machine learning workshop (WiML), 2018.
 
-32. Golnoosh Farnadi. Deep Multimodal Fusion Towards User Profiling. In Abstracts of the 12th Women in Machine learning workshop (WiML), 2017.
+37. Golnoosh Farnadi. Deep Multimodal Fusion Towards User Profiling. In Abstracts of the 12th Women in Machine learning workshop (WiML), 2017.
 
-33. Golnoosh Farnadi. User-Generated Content Data Fusion Framework Using Hinge-Loss Markov Random Fields. In Abstracts of the 11th Women in Machine learning workshop (WiML), 2016.
+38. Golnoosh Farnadi. User-Generated Content Data Fusion Framework Using Hinge-Loss Markov Random Fields. In Abstracts of the 11th Women in Machine learning workshop (WiML), 2016.
 
-34. Golnoosh Farnadi. Mining of Social Media. In Proceedings of EMAC (44th annual European Marketing Academy), 2015.
+39. Golnoosh Farnadi. Mining of Social Media. In Proceedings of EMAC (44th annual European Marketing Academy), 2015.
 
-35. Golnoosh Farnadi, Susana Zoghbi, Marie-Francine Moens, and Martine De Cock. Crawling a Ground Truth Dataset for Ad Personalization. In Abstracts of LTCI (5th AUGent Workshop on Language Technology and Computational Intelligence), 2012
+40. Golnoosh Farnadi, Susana Zoghbi, Marie-Francine Moens, and Martine De Cock. Crawling a Ground Truth Dataset for Ad Personalization. In Abstracts of LTCI (5th AUGent Workshop on Language Technology and Computational Intelligence), 2012
