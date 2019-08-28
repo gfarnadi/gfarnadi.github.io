@@ -1,5 +1,5 @@
-| [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | Contact |
-|---------------------------------|------------------:|---------------------|---------------------|-----------------------|---------|
+| [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Contact](#Contact) |
+|---------------------------------|------------------:|---------------------|---------------------|-----------------------|----------------------------------|
 
 ## Postdoctoral Fellow at Mila
 
@@ -28,7 +28,7 @@ Washington Tacoma, USA) and Prof. Marie-Francine Moens (KU Leuven).
 
 For the full list of my publications, please check [publications](publications.md).
 
-### Contact
+# Contact
 
 Email: farnadig@mila.quebec
 
