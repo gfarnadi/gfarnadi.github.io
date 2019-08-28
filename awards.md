@@ -1,6 +1,6 @@
 | [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) |
 
-### Honors and Awards 
+## Honors and Awards 
 
 - IVADO Fellow Postdoctoral Scholarship, 270, 000$ scholarship + 45, 000$ research fund, fully
 funded by IVADO, 2018-2021
