@@ -35,8 +35,7 @@ The Impact of Environmental Stressors on Human Trafficking. In Proceedings of
 the Beyond online data workshop at 12th international AAAI conference on web and social
 media (ICWSM), 2018.(Winner of the Best Paper Award)
 
-14. Golnoosh Farnadi, Behrouz Babaki, and Lise Getoor. Fairness in Relational Domains. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES),
-2018.
+14. Golnoosh Farnadi, Behrouz Babaki, and Lise Getoor. Fairness in Relational Domains. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES), 2018.
 
 15. Varun R Embar, Golnoosh Farnadi, Jay Pujara, and Lise Getoor. Aligning Product Taxonomies using Anchor Products. In Proceedings of the 1st Workshop on Knowledge Base Construction, Reasoning and Mining, A Workshop at WSDM, 2018.
 
