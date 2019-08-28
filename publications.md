@@ -1,3 +1,5 @@
+|[Home](#index.md)|[Publications](publications.md)|[Talks](talks.md)|[Visits](visits.md)|[Awards](awards.md|[Teaching](teaching.md)|[Contact](#Contact)|
+
 ## Papers in international journals listed in SCI - Science Citation Index
 
 1. User Profiling Using Hinge-loss Markov Random Fields. In preparation.
