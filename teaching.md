@@ -60,6 +60,7 @@ Computer Science (AI), 2013-2014, KU Leuven)
 Angel Oswaldo Vcizquez Patio (Master in Computer Science (AI), 2013-2014, KU Leuven)
 
 9. “Inferring Big 5 Personality from Online Social Networks” of Geetha Sitaraman (Master in Computer Science, 2013-2014, University of Washington Tacoma)
+
 10. “Modeling Emotion Propagation in Online Social Networks” of Shruti Balabhadruni (Master in
 Computer Science, 2013-2014, University of Washington Tacoma)
 
