@@ -13,13 +13,9 @@ I obtained my Ph.D. in Computer science from KU Leuven and Ghent University in 2
 
 ### News
 
-- (September 6) I will present our recent work on "Verifying Individual Fairness in Neural Networks" at Montreal AI Symposium 2019 (MAIS), [more info](http://montrealaisymposium.com/)
-
-- (September 13) I will be giving an invited talk on "Bias and Discrimination in AI" at the MILA/IVADO summer school on Deep Learning, Montreal, [more info](https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/)
-
-- (September 16) I will be presenting our work on "Fairness through Constrained Optimization" at Microsoft Research's AI Breakthroughs workshop, Redmond, US, [more info](https://www.microsoft.com/en-us/research/event/ai-breakthroughs-2019/)
-
 - (October 31) I will be giving an invited talk on "Deep Fairness Verification" at Trustworthy AI Symposium at Columbia University, Newyork, US, [more info](https://datascience.columbia.edu/trustworthy-ai-symposium)
+
+- (December 6) I will be giving an invited talk on "Bias and Discrimination in AI" at the 5th edition of MILA/IVADO summer school on Deep Learning, Vancouver, [more info](https://ivado.ca/en/trainings/schools/ivado-mila-deep-learning-school-5th-edition-2/)
 
 The full list is avaialble at [news](news.md).
 
@@ -31,7 +27,7 @@ For the full list of my publications, please check [publications](publications.m
 
 - **Golnoosh Farnadi**, Behrouz Babaki, and Lise Getoor. Fairness in Relational Domains. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES), 2018.
 
-- Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. To apear in the thirty-second Conference on Artificial Intelligence (AAAI), 2018. **Acceptance rate: 16.2%**
+- Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. In Proceedings of the thirty-second Conference on Artificial Intelligence (AAAI), 2018. **Acceptance rate: 16.2%**
 
 - **Golnoosh Farnadi**, Jie Tang, Martine De Cock, and Marie-Francine Moens. User Profiling through Deep Multimodal Fusion. In Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM), 2018. **Acceptance rate: 16%**
 
