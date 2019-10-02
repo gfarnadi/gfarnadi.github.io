@@ -32,7 +32,7 @@ David Stillwell, Sergio Davalos, Marie-Francine Moens, and Martine De Cock. Comp
 
 5. **Golnoosh Farnadi**, Behrouz Babaki, Margarida Carvalho. Enhancing Fairness in Kidney Exchange Program by Ranking Solutions. To appear in the NeurIPS Workshop on the Fair ML for Health, 2019.
 
-14. Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. In Proceedings of the thirty-second Conference on Artificial Intelligence (AAAI), 2018.em(Acceptance rate: 16.2%)
+14. Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. In Proceedings of the thirty-second Conference on Artificial Intelligence (AAAI), 2018. (Acceptance rate: 16.2%)
 
 15. **Golnoosh Farnadi**, Pigi Kouki, Spencer K. Thompson, Sriram Srinivasan, and Lise Getoor. A Fairness-aware Hybrid Recommender System. In the 2nd FATREC Workshop: Responsible Recommendation at RecSys, 2018.
 
