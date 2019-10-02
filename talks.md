@@ -2,6 +2,12 @@
 
 ## Invited Talks
 
+- **Microsoft Research's AI Breakthroughs workshop**, Redmond, US, September 16, 2019, **Fairness through Constrained Optimization**, [more info](https://www.microsoft.com/en-us/research/event/ai-breakthroughs-2019/)
+
+- **MILA/IVADO summer school on Deep Learning**, Montreal, Canada, September 13, 2019, **Bias and Discrimination in AI**, [more info](https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/)
+
+- **Montreal AI Symposium 2019 (MAIS)** September 6, Montreal, Canada, **Verifying Individual Fairness in Neural Networks**, [more info](http://montrealaisymposium.com/)
+
 - **IVADO/MILA summer school on bias and discrimination in AI**, Montreal, Canada,
 4 June, 2019, **Fairness Definitions**, [Info](https://ivado.ca/en/trainings/international-summer-school-on-discrimination-and-bias-in-ai/#june-4)
 
