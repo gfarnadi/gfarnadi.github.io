@@ -1,32 +1,38 @@
 | [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | 
 
+## Papers in Preperation
+1. **Golnoosh Farnadi**, Lise Getoor, Michal Kosinski, David Stillwell, Marie-Francine Moens, and Martine De Cock. User Profiling Using Hinge-loss Markov Random Fields. In preparation.
+
+2. **Golnoosh Farnadi**, and Lise Getoor. Breaking the Glass Ceiling with Fair Relational Inference. In preparation.
+
+3. Behrouz Babaki, **Golnoosh Farnadi**, and Gilles Pesant. Compiling Stochastic Constraint Programs into And-Or Decision Diagrams. In preparation.
+
+4. Aishwarya Sivaraman, **Golnoosh Farnadi**, and Guy van den Broek. Deep Isotonic Regression by Neural Network Verification. In preparation.
+
+5. Sriram Srinivasan, **Golnoosh Farnadi**, and Lise Getoor. Improving Structured Prediction through Bayesian Optimization. Submitted.
+
+6. **Golnoosh Farnadi**, Behrouz Babaki, and Michel Gendreau. A Unifying Framework for Fairness-Aware Influence Maximization. Submitted.
+
+7. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. Submitted.
+
+
 ## Papers in international journals listed in SCI - Science Citation Index
 
-1. **Golnoosh Farnadi**, Behrouz Babaki, Lise Getoor. A Declarative Approach to Fairness in Relational Domains. Submitted.
+1. **Golnoosh Farnadi**, Behrouz Babaki, Lise Getoor. A Declarative Approach to Fairness in Relational Domains. To appear in IEEE Data Engineering Journal, 2019.
 
-2. **Golnoosh Farnadi**, Lise Getoor, Michal Kosinski, David Stillwell, Marie-Francine Moens, and Martine De Cock. User Profiling Using Hinge-loss Markov Random Fields. In preparation.
+2. **Golnoosh Farnadi**, Stephen H. Bach, Marie-Francine Moens, Lise Getoor, and Martine
+De Cock. Soft Quantification in Statistical Relational Learning. In The Machine Learning Journal (MLJ), 2017.
 
-3. **Golnoosh Farnadi**, Stephen H. Bach, Marie-Francine Moens, Lise Getoor, and Martine
-De Cock. Soft Quantification in Statistical Relational Learning. In MLJ (The Machine Learning Journal), 2017.
-
-4. **Golnoosh Farnadi**, Geetha Sitaraman, Shanu Sushmita, Fabio Celli, Michal Kosinski,
-David Stillwell, Sergio Davalos, Marie-Francine Moens, and Martine De Cock. Computational Personality Recognition in Social Media. In UMUAI (The Journal of Personalization Research, Special issue on Personality in Personalized Systems), 2016
+3. **Golnoosh Farnadi**, Geetha Sitaraman, Shanu Sushmita, Fabio Celli, Michal Kosinski,
+David Stillwell, Sergio Davalos, Marie-Francine Moens, and Martine De Cock. Computational Personality Recognition in Social Media. In The Journal of Personalization Research, Special issue on Personality in Personalized Systems (UMUAI), 2016
 
 ## Peer-reviewed Papers in Proceedings
 
-5. **Golnoosh Farnadi**, and Lise Getoor. Breaking the Glass Ceiling with Fair Relational Inference. In preparation.
+4. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. To appear in the NeurIPS Workshop on ML with Guarantees, 2019.
 
-6. Behrouz Babaki, **Golnoosh Farnadi**, and Gilles Pesant. Compiling Stochastic Constraint Programs into And-Or Decision Diagrams. In preparation.
+5. **Golnoosh Farnadi**, Behrouz Babaki, Margarida Carvalho. Enhancing Fairness in Kidney Exchange Program by Ranking Solutions. To appear in the NeurIPS Workshop on the Fair ML for Health, 2019.
 
-7. Aishwarya Sivaraman, **Golnoosh Farnadi**, and Guy van den Broek. Deep Isotonic Regression by Neural Network Verification. In preparation.
-
-8. Sriram Srinivasan, **Golnoosh Farnadi**, and Lise Getoor. Improving Structured Prediction through Bayesian Optimization. In preparation.
-
-9. **Golnoosh Farnadi**, Behrouz Babaki, and Michel Gendreau. A Unifying Framework for Fairness-Aware Influence Maximization. Submitted.
-
-13. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. Submitted.
-
-14. Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. To apear in the thirty-second Conference on Artificial Intelligence (AAAI), 2018.em(Acceptance rate: 16.2%)
+14. Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. In Proceedings of the thirty-second Conference on Artificial Intelligence (AAAI), 2018.em(Acceptance rate: 16.2%)
 
 15. **Golnoosh Farnadi**, Pigi Kouki, Spencer K. Thompson, Sriram Srinivasan, and Lise Getoor. A Fairness-aware Hybrid Recommender System. In the 2nd FATREC Workshop: Responsible Recommendation at RecSys, 2018.
 
@@ -76,7 +82,7 @@ Getoor, and Martine De Cock. Statistical Relational Learning with Soft Quantifie
 ## Extended Abstracts
 
 34. **Golnoosh Farnadi**, Behrouz Babaki, and Michel Gendreau. Deep Individual Fairness
-Verification. Submitted.
+Verification. In Abstracts of the 14th Women in Machine learning workshop (WiML), 2019.
 
 35. **Golnoosh Farnadi**, Behrouz Babaki, and Michel Gendreau. Verifying Individual Fairness in Neural Networks. In Abstracts of Montreal AI Symposium (MAIS), 2019.
 
