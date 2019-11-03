@@ -5,7 +5,9 @@
 
 - (December 6) I will be giving an invited talk on "Bias and Discrimination in AI" at the 5th edition of MILA/IVADO summer school on Deep Learning, Vancouver, [more info](https://ivado.ca/en/trainings/schools/ivado-mila-deep-learning-school-5th-edition-2/)
 
-- (October 30) I will be giving an invited talk on "Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns" at Trustworthy AI Symposium at Columbia University, Newyork, US, [more info](https://datascience.columbia.edu/trustworthy-ai-symposium)
+- (November 14) I will be giving an invited talk on "Deep Individual Fairness Verification" at WiMLDS meetup, Montreal
+
+- (October 30) I will be giving an invited talk on "Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns" at Trustworthy AI Symposium at Columbia University, New York, US, [more info](https://datascience.columbia.edu/trustworthy-ai-symposium)
 
 - (September 16) I will present our work on "Fairness through Constrained Optimization" at Microsoft Research's AI Breakthroughs workshop, Redmond, US, [more info](https://www.microsoft.com/en-us/research/event/ai-breakthroughs-2019/)
 
