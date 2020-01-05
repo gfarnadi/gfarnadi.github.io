@@ -2,7 +2,9 @@
 
 ## Postdoctoral Fellow at Mila
 
-I obtained my Ph.D. in Computer science from KU Leuven and Ghent University in 2017 with a dissertation on user modeling in social media. I am currently a post-doctoral fellow at Montréal Institute for Learning Algorithms (Mila) working on fairness-aware sequential decision making under uncertainty. Prior to this, I was a postdoc researcher of the Statistical Relational Learning Group (LINQS) of Prof. Lise Getoor at the University of California, Santa Cruz. I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha University, and Microsoft research, Redmond.
+I obtained my Ph.D. in Computer science from KU Leuven and Ghent University in 2017 with a dissertation on user modeling in social media under supervision of [professor Martine de Cock](http://faculty.washington.edu/mdecock/) and [professor Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). I am currently a post-doctoral fellow at University of Montreal and Mila (Quebec Institute for Learning Algorithms) working on fairness-aware sequential decision making under uncertainty. I work with [professor Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/) and [professor Michel Gendreau](https://www.polymtl.ca/expertises/en/gendreau-michel)
+
+Prior to this, I was a postdoc researcher of the Statistical Relational Learning Group (LINQS) of professor Lise Getoor at the University of California, Santa Cruz. I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha University, and Microsoft research, Redmond.
 
 ### Research Interest
 
