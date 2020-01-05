@@ -9,11 +9,9 @@
 
 4. Aishwarya Sivaraman, **Golnoosh Farnadi**, and Guy van den Broek. Deep Isotonic Regression by Neural Network Verification. In preparation.
 
-5. Sriram Srinivasan, **Golnoosh Farnadi**, and Lise Getoor. Improving Structured Prediction through Bayesian Optimization. Submitted.
+5. **Golnoosh Farnadi**, Behrouz Babaki, and Michel Gendreau. A Unifying Framework for Fairness-Aware Influence Maximization. Submitted.
 
-6. **Golnoosh Farnadi**, Behrouz Babaki, and Michel Gendreau. A Unifying Framework for Fairness-Aware Influence Maximization. Submitted.
 
-7. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. Submitted.
 
 
 ## Papers in international journals listed in SCI - Science Citation Index
@@ -28,9 +26,13 @@ David Stillwell, Sergio Davalos, Marie-Francine Moens, and Martine De Cock. Comp
 
 ## Peer-reviewed Papers
 
-4. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. To appear in the NeurIPS Workshop on ML with Guarantees, 2019.
+4. Sriram Srinivasan, **Golnoosh Farnadi**, and Lise Getoor. Improving Structured Prediction through Bayesian Optimization. To appear in the thirty-third Conference on Artificial Intelligence (AAAI), 2020. (Acceptance rate: 16.2%) (Oral presentation)
 
-5. **Golnoosh Farnadi**, Behrouz Babaki, Margarida Carvalho. Enhancing Fairness in Kidney Exchange Program by Ranking Solutions. To appear in the NeurIPS Workshop on the Fair ML for Health, 2019.
+5. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. To appear in the thirty-third Conference on Artificial Intelligence (AAAI), 2020. (Acceptance rate: 16.2%)
+
+6. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. To appear in the NeurIPS Workshop on ML with Guarantees, 2019.
+
+7. **Golnoosh Farnadi**, Behrouz Babaki, Margarida Carvalho. Enhancing Fairness in Kidney Exchange Program by Ranking Solutions. To appear in the NeurIPS Workshop on the Fair ML for Health, 2019.
 
 14. Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. In Proceedings of the thirty-second Conference on Artificial Intelligence (AAAI), 2018. (Acceptance rate: 16.2%)
 
