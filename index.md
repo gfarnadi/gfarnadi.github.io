@@ -2,9 +2,9 @@
 
 ## Postdoctoral Fellow at Mila
 
-I obtained my Ph.D. in Computer science from KU Leuven and Ghent University in 2017 with a dissertation on user modeling in social media under supervision of [professor Martine de Cock](http://faculty.washington.edu/mdecock/) and [professor Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). I am currently a post-doctoral fellow at University of Montreal and Mila (Quebec Institute for Learning Algorithms) working on fairness-aware sequential decision making under uncertainty. I work with [professor Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/) and [professor Michel Gendreau](https://www.polymtl.ca/expertises/en/gendreau-michel)
+I obtained my Ph.D. in Computer science from KU Leuven and Ghent University in 2017 with a dissertation on user modeling in social media under the supervision of [professor Martine de Cock](http://faculty.washington.edu/mdecock/) and [professor Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). I am currently a post-doctoral IVADO fellow at University of Montreal and Mila (Quebec Institute for Learning Algorithms) working on fairness-aware sequential decision making under uncertainty. I work with [professor Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/) and [professor Michel Gendreau](https://www.polymtl.ca/expertises/en/gendreau-michel)
 
-Prior to this, I was a postdoc researcher of the Statistical Relational Learning Group (LINQS) of professor Lise Getoor at the University of California, Santa Cruz. I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha University, and Microsoft research, Redmond.
+Prior to this, I was a postdoc researcher of the Statistical Relational Learning Group (LINQS) of [professor Lise Getoor](https://getoor.soe.ucsc.edu/home) at the University of California, Santa Cruz. I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha University, and Microsoft research, Redmond.
 
 ### Research Interest
 
@@ -15,11 +15,12 @@ Prior to this, I was a postdoc researcher of the Statistical Relational Learning
 
 ### News
 
-- (October 30) I will be giving an invited talk on "Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns" at Trustworthy AI Symposium at Columbia University, New York, US, [more info](https://datascience.columbia.edu/trustworthy-ai-symposium)
+- (December 6) Invited speaker, "Bias and Discrimination in AI" at the 5th edition of MILA/IVADO summer school on Deep Learning, Vancouver, [more info](https://ivado.ca/en/trainings/schools/ivado-mila-deep-learning-school-5th-edition-2/)
 
-- (November 14) I will be giving an invited talk on "Deep Individual Fairness Verification" at WiMLDS meetup, Montreal
+- (November 14) Invited speaker, "Deep Individual Fairness Verification" at WiMLDS meetup, Montreal
 
-- (December 6) I will be giving an invited talk on "Bias and Discrimination in AI" at the 5th edition of MILA/IVADO summer school on Deep Learning, Vancouver, [more info](https://ivado.ca/en/trainings/schools/ivado-mila-deep-learning-school-5th-edition-2/)
+- (October 30) Invited speaker, "Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns" at Trustworthy AI Symposium at Columbia University, New York, US, [more info](https://datascience.columbia.edu/trustworthy-ai-symposium)
+
 
 The full list is avaialble at [news](news.md).
 
