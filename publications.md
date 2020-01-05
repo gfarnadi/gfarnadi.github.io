@@ -16,13 +16,13 @@
 
 ## Papers in international journals listed in SCI - Science Citation Index
 
-1. **Golnoosh Farnadi**, Behrouz Babaki, Lise Getoor. A Declarative Approach to Fairness in Relational Domains. To appear in IEEE Data Engineering Journal, 2019.
+1. **Golnoosh Farnadi**, Behrouz Babaki, Lise Getoor. A Declarative Approach to Fairness in Relational Domains. In IEEE Data Engineering Journal,  pp.36-48, 2019.
 
 2. **Golnoosh Farnadi**, Stephen H. Bach, Marie-Francine Moens, Lise Getoor, and Martine
-De Cock. Soft Quantification in Statistical Relational Learning. In The Machine Learning Journal (MLJ), 2017.
+De Cock. Soft Quantification in Statistical Relational Learning. In The Machine Learning Journal (MLJ), 106, no. 12, pp.1971-1991, 2017.
 
 3. **Golnoosh Farnadi**, Geetha Sitaraman, Shanu Sushmita, Fabio Celli, Michal Kosinski,
-David Stillwell, Sergio Davalos, Marie-Francine Moens, and Martine De Cock. Computational Personality Recognition in Social Media. In The Journal of Personalization Research, Special issue on Personality in Personalized Systems (UMUAI), 2016
+David Stillwell, Sergio Davalos, Marie-Francine Moens, and Martine De Cock. Computational Personality Recognition in Social Media. In The Journal of Personalization Research, Special issue on Personality in Personalized Systems (UMUAI), 26, no. 2-3, pp.109-142, 2016
 
 ## Peer-reviewed Papers
 
