@@ -12,8 +12,6 @@
 5. **Golnoosh Farnadi**, Behrouz Babaki, and Michel Gendreau. A Unifying Framework for Fairness-Aware Influence Maximization. Submitted.
 
 
-
-
 ## Papers in international journals listed in SCI - Science Citation Index
 
 1. **Golnoosh Farnadi**, Behrouz Babaki, Lise Getoor. A Declarative Approach to Fairness in Relational Domains. In IEEE Data Engineering Journal,  pp.36-48, 2019.
