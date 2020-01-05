@@ -26,7 +26,7 @@ De Cock. Soft Quantification in Statistical Relational Learning. In The Machine 
 3. **Golnoosh Farnadi**, Geetha Sitaraman, Shanu Sushmita, Fabio Celli, Michal Kosinski,
 David Stillwell, Sergio Davalos, Marie-Francine Moens, and Martine De Cock. Computational Personality Recognition in Social Media. In The Journal of Personalization Research, Special issue on Personality in Personalized Systems (UMUAI), 2016
 
-## Peer-reviewed Papers in Proceedings
+## Peer-reviewed Papers
 
 4. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. To appear in the NeurIPS Workshop on ML with Guarantees, 2019.
 
