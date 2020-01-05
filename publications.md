@@ -26,9 +26,9 @@ David Stillwell, Sergio Davalos, Marie-Francine Moens, and Martine De Cock. Comp
 
 ## Peer-reviewed Papers
 
-4. Sriram Srinivasan, **Golnoosh Farnadi**, and Lise Getoor. Improving Structured Prediction through Bayesian Optimization. To appear in the thirty-third Conference on Artificial Intelligence (AAAI), 2020. (Acceptance rate: 16.2%) (Oral presentation)
+4. Sriram Srinivasan, **Golnoosh Farnadi**, and Lise Getoor. Improving Structured Prediction through Bayesian Optimization. To appear in the thirty-third Conference on Artificial Intelligence (AAAI), 2020. (Oral presentation)
 
-5. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. To appear in the thirty-third Conference on Artificial Intelligence (AAAI), 2020. (Acceptance rate: 16.2%)
+5. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. To appear in the thirty-third Conference on Artificial Intelligence (AAAI), 2020. 
 
 6. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. To appear in the NeurIPS Workshop on ML with Guarantees, 2019.
 
