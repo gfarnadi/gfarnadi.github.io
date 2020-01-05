@@ -2,6 +2,12 @@
 
 ## Honors and Awards 
 
+- ML with Guarantees **Travel Grant Winner** (covering travel and accommodation in Vancouver), 2019
+
+- WiML **Travel Grant Winner** (covering travel and accommodation in Vancouver), 2019
+
+- FairAI4Health **Travel Grant Winner** (covering travel and workshop registration in Vancouver), 2019
+
 - IVADO Fellow **Postdoctoral Scholarship**, 270, 000$ scholarship + 45, 000$ research fund, fully
 funded by IVADO, 2018-2021
 
