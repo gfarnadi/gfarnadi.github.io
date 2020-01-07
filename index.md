@@ -19,6 +19,8 @@ Prior to this, I was a postdoc researcher of the Statistical Relational Learning
 
 - (November 14) Invited speaker, "Deep Individual Fairness Verification" at WiMLDS meetup, Montreal
 
+- (November 11) I am pleased to announce that two of our papers got accepted at AAAI2020!
+
 - (October 30) Invited speaker, "Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns" at Trustworthy AI Symposium at Columbia University, New York, US, [more info](https://datascience.columbia.edu/trustworthy-ai-symposium)
 
 
