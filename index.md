@@ -30,11 +30,11 @@ The full list is avaialble at [news](news.md).
 
 For the full list of my publications, please check [publications](publications.md).
 
-- Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. Submitted. [Arxiv](https://arxiv.org/abs/1906.03843)
+- Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. To appeat at thirty-forth Conference on Artificial Intelligence (AAAI), 2020. [Arxiv](https://arxiv.org/abs/1906.03843)
 
-- **Golnoosh Farnadi**, Behrouz Babaki, and Lise Getoor. Fairness in Relational Domains. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES), 2018.
+- **Golnoosh Farnadi**, Behrouz Babaki, Lise Getoor. A Declarative Approach to Fairness in Relational Domains. In IEEE Data Engineering Buletin, 42, no.3, pp.36-48, 2019.
 
-- Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. In Proceedings of the thirty-second Conference on Artificial Intelligence (AAAI), 2018. **Acceptance rate: 16.2%**
+- Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. In Proceedings of the thirty-third Conference on Artificial Intelligence (AAAI), 2018. **Acceptance rate: 16.2%**
 
 - **Golnoosh Farnadi**, Jie Tang, Martine De Cock, and Marie-Francine Moens. User Profiling through Deep Multimodal Fusion. In Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM), 2018. **Acceptance rate: 16%**
 
