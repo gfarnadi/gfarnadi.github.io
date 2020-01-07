@@ -74,9 +74,9 @@ Getoor, and Martine De Cock. Statistical Relational Learning with Soft Quantifie
 
 ## Extended Abstracts/ Peer-reviewed Papers without Proceedings 
 
-27. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. To appear in the NeurIPS Workshop on ML with Guarantees, 2019.
+27. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. In the NeurIPS Workshop on ML with Guarantees, 2019.
 
-28. **Golnoosh Farnadi**, Behrouz Babaki, Margarida Carvalho. Enhancing Fairness in Kidney Exchange Program by Ranking Solutions. To appear in the NeurIPS Workshop on the Fair ML for Health, 2019.
+28. **Golnoosh Farnadi**, Behrouz Babaki, Margarida Carvalho. Enhancing Fairness in Kidney Exchange Program by Ranking Solutions. In the NeurIPS Workshop on the Fair ML for Health, 2019.
 
 29. **Golnoosh Farnadi**, Behrouz Babaki, and Michel Gendreau. Deep Individual Fairness
 Verification. In Abstracts of the 14th Women in Machine learning workshop (WiML), 2019.
