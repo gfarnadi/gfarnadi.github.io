@@ -2,6 +2,9 @@
 
 ## Academics
 
+**Postdoctoral/IVADO fellow** (November 2019–Current) at the Université de Montréal/Mila, Montreal,
+Canada. Under the supervision of Prof. Simon Lacoste-Julien (co-supervised by Prof. Michel Gendreau)
+
 **Postdoctoral/IVADO fellow** (November 2018–September 2019) at the Polytechnique Montréal, Montreal,
 Canada. Under the supervision of Prof. Michel Gendreau
 
