@@ -29,6 +29,8 @@ Washington Tacoma, USA) and Prof. Marie-Francine Moens (KU Leuven).
 
 ## Volunteer works
 
+- Mentor volunteer at 14th Women in Machine learning workshop (WiML), (9 Dec 2019)
+
 - Organizer of IVADO/MILA summer school on bais and discrimination in AI, (3-6 June 2019)
 
 - Organizer of a reading group on Neural Networks at KU Leuven (Fall 2015)
