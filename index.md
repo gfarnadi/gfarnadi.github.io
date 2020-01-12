@@ -34,7 +34,7 @@ For the full list of my publications, please check [publications](publications.m
 
 - **Golnoosh Farnadi**, Behrouz Babaki, Lise Getoor. A Declarative Approach to Fairness in Relational Domains. In IEEE Data Engineering Buletin, 42, no.3, pp.36-48, 2019.
 
-- Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. In Proceedings of the thirty-third Conference on Artificial Intelligence (AAAI), 2018. **Acceptance rate: 16.2%**
+- Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. In Proceedings of the thirty-third Conference on Artificial Intelligence (AAAI), 2019. **Acceptance rate: 16.2%**
 
 - **Golnoosh Farnadi**, Jie Tang, Martine De Cock, and Marie-Francine Moens. User Profiling through Deep Multimodal Fusion. In Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM), 2018. **Acceptance rate: 16%**
 
