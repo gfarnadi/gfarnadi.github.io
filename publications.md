@@ -27,7 +27,7 @@ David Stillwell, Sergio Davalos, Marie-Francine Moens, and Martine De Cock. Comp
 
 5. Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. To appear in the thirty-third Conference on Artificial Intelligence (AAAI), 2020. 
 
-6. Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. In Proceedings of the thirty-second Conference on Artificial Intelligence (AAAI), 2018. (Acceptance rate: 16.2%)
+6. Sriram Srinivasan, Behrouz Babaki, **Golnoosh Farnadi**, and Lise Getoor. Lifted HingeLoss Markov Random Fields. In Proceedings of the thirty-second Conference on Artificial Intelligence (AAAI), 2019. (Acceptance rate: 16.2%)
 
 7. **Golnoosh Farnadi**, Pigi Kouki, Spencer K. Thompson, Sriram Srinivasan, and Lise Getoor. A Fairness-aware Hybrid Recommender System. In the 2nd FATREC Workshop: Responsible Recommendation at RecSys, 2018.
 
