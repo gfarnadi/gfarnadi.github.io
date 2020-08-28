@@ -9,7 +9,8 @@ Prior to this, I was a postdoc researcher of the Statistical Relational Learning
 ### Research Interest
 
 - Fairness-aware AI
-- Relational Fairness
+- Machine Learning
+- Constrained Optimization
 - Social Network Analysis
 - Probabilistic Graphical Models
 
