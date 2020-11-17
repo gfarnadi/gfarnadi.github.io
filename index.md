@@ -1,6 +1,6 @@
 | [About me](aboutme.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | 
 
-## Postdoctoral Fellow at Mila
+## Assistant Professor at MILA/HEC Montréal
 
 I am an Assistant Professor of Machine Learning at MILA (Quebec Institute for Learning Algorithms)/HEC Montréal (U. Montreal's business school. 
 
