@@ -2,7 +2,7 @@
 
 ## Assistant Professor at MILA/HEC Montréal
 
-I am an Assistant Professor of Machine Learning at MILA (Quebec Institute for Learning Algorithms)/HEC Montréal (U. Montreal's business school. 
+I am an Assistant Professor of Machine Learning at MILA (Quebec Institute for Learning Algorithms)/HEC Montréal (U. Montreal's business school). 
 
 Prior to this, from 2018-2020, I was a a post-doctoral IVADO fellow at University of Montreal and MILA working on fairness-aware sequential decision making under uncertainty with [professor Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/) and [professor Michel Gendreau](https://www.polymtl.ca/expertises/en/gendreau-michel). From 2017-2018, I was a postdoc researcher of the Statistical Relational Learning Group (LINQS) of [professor Lise Getoor](https://getoor.soe.ucsc.edu/home) at the University of California, Santa Cruz. 
 
