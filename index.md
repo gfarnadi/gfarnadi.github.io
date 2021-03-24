@@ -3,7 +3,7 @@
 ## Assistant Professor at HEC Montréal
 ## Adjunct professor at University of Montréal
 ## Core Faculty member at MILA
-## CANADA CIFAR AI Chair
+## Canada CIFAR AI (CCAI) chair holder
 
 I am an Assistant Professor of Machine Learning at HEC Montréal (U. Montreal's business school), and Adjunct professor at University Montréal. I am a core faculty member at MILA (Quebec Institute for Learning Algorithms) and hold Canada CIFAR AI chair.
 
