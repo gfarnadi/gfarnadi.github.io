@@ -13,8 +13,9 @@ I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha Uni
 ### Research Interest
 
 - Fairness-aware AI
-- Machine Learning
+- Privacy-preserving Machine Learning
 - Constrained Optimization
+- Deep Learning
 - Probabilistic Graphical Models
 - Social Network Analysis
 
