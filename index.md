@@ -36,6 +36,14 @@ I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha Uni
 
 The full list is avaialble at [news](news.md).
 
+### Media
+
+- My interview with Emmanuel Delacour published at CScience IA, [article](http://www.cscience.ca/2021/03/04/rendre-lia-plus-juste-un-algorithme-a-la-fois/)
+
+- An article about "10 best free online Responsible AI courses in 2021" including MILA/IVADO MOOC on Bias and Discrimination in AI, [article](https://thegoodai.co/2021/02/18/10-best-free-online-responsible-ai-courses-in-2021/)
+
+- An article about my CIFAR AI chair published at HEC Montreal, [article](https://www.hec.ca/nouvelles/2021/une-chaire-en-intelligence-artificielle-Canada-CIFAR-attribuee-a-Golnoosh-Farnadi.html)
+
 ### Selected Publications
 
 For the full list of my publications, please check [publications](publications.md).
