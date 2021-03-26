@@ -26,6 +26,8 @@ I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha Uni
 
 - (April 23) I've been invited as a speaker at **TechAide 2021** conference, [more info](https://mila.quebec/en/techaide-ai-conference/)
 
+- (April 21)  I've been invited as a panelist at **KCJ panel on AI ethics**!
+
 - (March 10) I've been selected to receive **Google scholar Award** (60k USD), Thank you Google! 
 
 - (January 20) I've been appointed one of the **Canada CIFAR AI (CCAI) Chairs**! Thank you CIFAR and MILA!, [more info](https://www.hec.ca/nouvelles/2021/une-chaire-en-intelligence-artificielle-Canada-CIFAR-attribuee-a-Golnoosh-Farnadi.html)
