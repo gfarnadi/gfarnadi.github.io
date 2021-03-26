@@ -20,20 +20,27 @@ I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha Uni
 
 ### News
 
-- (December 6) Invited speaker, "Bias and Discrimination in AI" at the 5th edition of MILA/IVADO summer school on Deep Learning, Vancouver, [more info](https://ivado.ca/en/trainings/schools/ivado-mila-deep-learning-school-5th-edition-2/)
+- (April 27) I've been invited as a keynote speaker at Symposium on Intelligent Data Analysis (IDA 2021), [more info](https://ida2021.org/)
 
-- (November 14) Invited speaker, "Deep Individual Fairness Verification" at WiMLDS meetup, Montreal
+- (April 26) I've been invited as a lecturer at the 6th edition of MILA/IVADO summer school on Deep Learning, Vancouver, [more info](https://ivado.ca/en/events/6th-ivado-mila-deep-learning-school/)
 
-- (November 11) I am pleased to announce that two of our papers got accepted at AAAI2020!
+- (April 23) I've been invited as a speaker at TechAide 2021 conference, [more info](https://mila.quebec/en/techaide-ai-conference/)
 
-- (October 30) Invited speaker, "Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns" at Trustworthy AI Symposium at Columbia University, New York, US, [more info](https://datascience.columbia.edu/trustworthy-ai-symposium)
+- (March 10) I've been selected to receive Google scholar Award (60k USD), Thank you Google! 
 
+- (January 20) I've been appointed one of the Canada CIFAR AI Chairs! Thank you CIFAR and MILA!, [more info](https://www.hec.ca/nouvelles/2021/une-chaire-en-intelligence-artificielle-Canada-CIFAR-attribuee-a-Golnoosh-Farnadi.html)
+
+- (January 19) I've been invited as a panelist at AICAN panel discussion on policy innovation for responsible AI, [more info](https://events.cifar.ca/website/18516/eng/agenda/tw)
 
 The full list is avaialble at [news](news.md).
 
 ### Selected Publications
 
 For the full list of my publications, please check [publications](publications.md).
+
+- **Golnoosh Farnadi**, Behrouz Babaki, William St-Arnaud, and Margarida Carvalho. Individual Fairness in Kidney Exchange Programs. To apear in the proceedings of the thirty-fifth Conference on Artificial Intelligence (AAAI), 2021.
+
+- Aishwarya Sivaraman, **Golnoosh Farnadi**, Todd Millstein, and Guy van den Broek.  Counterexample-Guided Learning of Monotonic Neural Networks. In the proceedings of the thirty-fourth Conference on Neural Information Processing Systems (NeurIPS), 2020.
 
 - Yoojung Choi, **Golnoosh Farnadi**, Behrouz Babaki, and Guy van den Broek. Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns. To appeat at thirty-forth Conference on Artificial Intelligence (AAAI), 2020. [Arxiv](https://arxiv.org/abs/1906.03843)
 
