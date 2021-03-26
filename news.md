@@ -4,15 +4,17 @@
 
 ## 2021
 
-- ()
+- (April 27) I've been invited as a keynote speaker at Symposium on Intelligent Data Analysis (**IDA 2021**), [more info](https://ida2021.org/)
 
-- ()
+- (April 26) I've been invited as a lecturer at the 6th edition of **MILA/IVADO summer school on Deep Learning**, Vancouver, [more info](https://ivado.ca/en/events/6th-ivado-mila-deep-learning-school/)
 
-- ()
+- (April 23) I've been invited as a speaker at **TechAide 2021** conference, [more info](https://mila.quebec/en/techaide-ai-conference/)
 
-- ()
+- (March 10) I've been selected to receive **Google scholar Award** (60k USD), Thank you Google! 
 
-- ()
+- (January 20) I've been appointed one of the **Canada CIFAR AI (CCAI) Chairs**! Thank you CIFAR and MILA!, [more info](https://www.hec.ca/nouvelles/2021/une-chaire-en-intelligence-artificielle-Canada-CIFAR-attribuee-a-Golnoosh-Farnadi.html)
+
+- (January 19) I've been invited as a panelist at **AICAN panel** discussion on policy innovation for responsible AI, [more info](https://events.cifar.ca/website/18516/eng/agenda/tw)
 
 ## 2020
 
