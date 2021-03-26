@@ -44,6 +44,8 @@ The full list is avaialble at [news](news.md).
 
 - An article about my CIFAR AI chair published at HEC Montreal, [article](https://www.hec.ca/nouvelles/2021/une-chaire-en-intelligence-artificielle-Canada-CIFAR-attribuee-a-Golnoosh-Farnadi.html)
 
+- My interview with Chloe Gibert published at CScience IA, [article](https://www.cscience.ca/2020/09/09/biais-et-discriminations-une-formation-a-la-rescousse/)
+
 ### Selected Publications
 
 For the full list of my publications, please check [publications](publications.md).
