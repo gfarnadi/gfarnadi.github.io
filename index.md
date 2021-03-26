@@ -1,4 +1,4 @@
-| [About me](aboutme.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Students](student.md) | 
+| [About me](aboutme.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
 
 ## Assistant Professor at HEC Montréal/University of Montréal/MILA
 I am an Assistant Professor of Machine Learning at HEC Montréal (U. Montreal's business school), and Adjunct professor at University Montréal. I am a core faculty member at MILA (Quebec Institute for Learning Algorithms) and hold Canada CIFAR AI chair.
