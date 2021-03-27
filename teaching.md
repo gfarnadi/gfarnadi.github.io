@@ -1,6 +1,9 @@
 | [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
 
 ## Teaching 
+**Trustworthy Machine Learning (2021-2022), HEC Montreal/Mila**
+-coming soon!
+
 **Data Science (2019–2020), Mila**
 
 - All materials and details are avaialble at the [data science course](https://ift6758.github.io/).
