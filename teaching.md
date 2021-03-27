@@ -2,7 +2,8 @@
 
 ## Teaching 
 **Trustworthy Machine Learning (2021-2022), HEC Montreal/Mila**
--coming soon!
+
+- Coming soon!
 
 **Data Science (2019–2020), Mila**
 
