@@ -22,7 +22,7 @@ I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha Uni
 
 - (April 27) I've been invited as a keynote speaker at Symposium on Intelligent Data Analysis (**IDA 2021**), [more info](https://ida2021.org/)
 
-- (April 26) I've been invited as a lecturer at the 6th edition of **MILA/IVADO summer school on Deep Learning**, Vancouver, [more info](https://ivado.ca/en/events/6th-ivado-mila-deep-learning-school/)
+- (April 26) I've been invited as a lecturer at the 6th edition of **MILA/IVADO summer school on Deep Learning**, online, [more info](https://ivado.ca/en/events/6th-ivado-mila-deep-learning-school/)
 
 - (April 23) I've been invited as a speaker at **TechAide 2021** conference, [more info](https://mila.quebec/en/techaide-ai-conference/)
 
