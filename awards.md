@@ -2,6 +2,8 @@
 
 ## Honors and Awards 
 
+- **Google Facultly award**, 60,000 USD, 2021
+
 - ML with Guarantees **Travel Grant Winner** (covering travel and accommodation in Vancouver), 2019
 
 - WiML **Travel Grant Winner** (covering travel and accommodation in Vancouver), 2019
