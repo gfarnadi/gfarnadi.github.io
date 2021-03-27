@@ -22,7 +22,7 @@
 
 - (September 3) I've been invited as a panelist at Picture a Scientist, MILA
 
-- (August 21) I've been invited as a plenary talk speaket at NAFIPS2020, Seattle, USA,  Bias and Discrimination in machine learning 
+- (August 21) I've been invited as a plenary talk speaket at NAFIPS2020, Seattle, USA,  Bias and Discrimination in machine learning, [more info](https://nafips2020.digipen.edu/speakers/) 
 
 - (June 18)I've been invited as a panelist at ICESCO Webinar on Artificial Intelligence and Education
 
