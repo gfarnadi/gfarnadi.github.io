@@ -18,15 +18,15 @@
 
 ## 2020
 
-- ()
+- (September 18) I've been invited as a panelist at Gender gap in Data science, HEC Montreal, Montreal, Canada
 
-- ()
+- (September 3) I've been invited as a panelist at Picture a Scientist, MILA
 
-- ()
+- (August 21) I've been invited as a plenary talk speaket at NAFIPS2020, Seattle, USA,  Bias and Discrimination in machine learning 
 
-- ()
+- (June 18)I've been invited as a panelist at ICESCO Webinar on Artificial Intelligence and Education
 
-- ()
+- (June. 17) I've been invited as a speaker at NextAI, Montreal, Canada, 17 June, 2020}, Bias and Discrimination in machine learning
 
 
 ## 2019
