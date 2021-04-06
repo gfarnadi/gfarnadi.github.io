@@ -38,6 +38,8 @@ The full list is avaialble at [news](news.md).
 
 ### Media
 
+- My interview with Jean-François Venne published at LEDEVOIR, [article](https://www.ledevoir.com/societe/science/597968/humaine-trop-humaine-l-intelligence-artificielle)
+
 - My interview with Emmanuel Delacour published at CScience IA, [article](http://www.cscience.ca/2021/03/04/rendre-lia-plus-juste-un-algorithme-a-la-fois/)
 
 - An article about "10 best free online Responsible AI courses in 2021" including MILA/IVADO MOOC on Bias and Discrimination in AI, [article](https://thegoodai.co/2021/02/18/10-best-free-online-responsible-ai-courses-in-2021/)
