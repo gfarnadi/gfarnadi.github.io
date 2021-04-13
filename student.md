@@ -17,3 +17,4 @@ Please **do not email** me directly about doing a PhD, masters or internship wit
 - [Kiarash Mohammadi](https://is.mpg.de/person/kmohammadi), MSc, Fall 2021
 - [Jisoo Lee](https://jisoolee0123.github.io/), PhD, Fall 2021
 - [Dylan Troop](https://www.linkedin.com/in/dtroop/?originalSubdomain=ca), PhD, Fall 2021
+- [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, Fall 2021
