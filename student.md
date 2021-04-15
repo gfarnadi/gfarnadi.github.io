@@ -18,3 +18,4 @@ Please **do not email** me directly about doing a PhD, masters or internship wit
 - [Jisoo Lee](https://jisoolee0123.github.io/), PhD, Fall 2021
 - [Dylan Troop](https://www.linkedin.com/in/dtroop/?originalSubdomain=ca), PhD, Fall 2021
 - [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, Fall 2021
+- [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, Winter 2021
