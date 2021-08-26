@@ -5,7 +5,7 @@
 
 - Coming soon!
 
-**Machine Learning 1 (2022-2023), HEC Montreal/Mila**
+**Machine Learning 1 (2021-2022), HEC Montreal/Mila**
 
 - All materials and details are avaialble at the [machine learning course](XXXX).
 
