@@ -1,9 +1,13 @@
 | [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
 
 ## Teaching 
-**Trustworthy Machine Learning (2021-2022), HEC Montreal/Mila**
+**Trustworthy Machine Learning (2022-2023), HEC Montreal/Mila**
 
 - Coming soon!
+
+**Machine Learning 1 (2022-2023), HEC Montreal/Mila**
+
+- All materials and details are avaialble at the [aachine learning course](XXXX).
 
 **Data Science (2019–2020), Mila**
 
