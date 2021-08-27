@@ -13,16 +13,18 @@ Please **do not email** me directly about doing a PhD, masters or internship wit
 ### PhD
 - William St-Arnaud, PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 - [Dylan Troop](https://www.linkedin.com/in/dtroop/?originalSubdomain=ca), PhD, UdeM, Fall 2021
-### Research MSc
+
+### MSc
 - [Kiarash Mohammadi](https://is.mpg.de/person/kmohammadi), MSc, UdeM, Fall 2021
 - [Reecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021
-- [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, Winter 2022
+- [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
+- [Allison Meyssonnier](), MSc, HEC, Fall 2021
+
 ### Intern
-- [Maryam Molamohammadi] (), Intern, Fall 2021 (co-supervision with [Nicolas Le Roux](http://nicolas.le-roux.name/))
+- [Maryam Molamohammadi](), Intern, Fall 2021 (co-supervision with [Nicolas Le Roux](http://nicolas.le-roux.name/))
 - [Sikha Pentyala](), Intern, Fall 2021 (co-supervision with [Martine De Cock](http://faculty.washington.edu/mdecock/))
 - [Aisha Alaagib](), Intern, Fall 2021 (co-supervision with [Ulrich Aivodji](https://aivodji.github.io/))
 
 ## Previous students
-
 - [Amir Reza](https://amir9ume.github.io/), MSc, UdeM, Fall 2019 (co-supervision with [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/))
 - William St-Arnaud, MSc, UdeM, Winter 2020 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
