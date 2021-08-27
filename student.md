@@ -27,4 +27,4 @@ Please **do not email** me directly about doing a PhD, masters or internship wit
 
 ## Previous students
 - [Amir Reza](https://amir9ume.github.io/), MSc, UdeM, Fall 2019 (co-supervision with [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/))
-- William St-Arnaud, MSc, UdeM, Winter 2020 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
+
