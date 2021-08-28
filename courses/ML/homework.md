@@ -18,11 +18,11 @@ To access a guideline that will help you with submitting your homework on grades
 
 ## Capsule Quizes 
 Capsule Quizes are count for 10% of your final grade.
-- [Quize 1] (), due TBD. 
-- [Quize 2] (), due TBD. 
-- [Quize 3] (), due TBD. 
-- [Quize 4] (), due TBD. 
-- [Quize 5] (), due TBD. 
+- [Quize 1](), due TBD. 
+- [Quize 2](), due TBD. 
+- [Quize 3](), due TBD. 
+- [Quize 4](), due TBD. 
+- [Quize 5](), due TBD. 
 
 ## Homework
 Homework assignments are count for 20% of your final grade.
