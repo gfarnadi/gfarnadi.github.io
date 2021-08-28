@@ -11,7 +11,7 @@ Please **do not email** me directly about doing a PhD, masters or internship wit
 ## Current students
 
 ### PhD
-- William St-Arnaud, PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
+- [William St-Arnaud](), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 - [Dylan Troop](https://www.linkedin.com/in/dtroop/?originalSubdomain=ca), PhD, UdeM, Fall 2021
 
 ### MSc
