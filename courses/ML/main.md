@@ -1,4 +1,4 @@
-| [Home](index.md) | [MATH80629A]() | [Homework]() | [Lab]() | [Contact]()
+| [Home](index.md) | [MATH80629A]() | [Lectures]() | [Homework]() | [Lab]() | [Contact]()
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH80629A): Fall 2021
 
 ## Course Description
@@ -16,4 +16,5 @@ Please use this [form]() to provide feedback about the course.
 ## Prerequisites
 Basic knowledge of statistics, and Python programming as well as mathematical maturity will be assumed.
 
-
+## Grading
+Your final score for the course will be computed using the following weights:
