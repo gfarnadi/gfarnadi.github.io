@@ -15,8 +15,8 @@ To access a guideline that will help you with submitting your homework on grades
 
 ## Survey
 
-[Student Introduction suvery](), due **September 20, 2021**.
-[Project Team registration form](), due **September 20, 2021**.
+- [Student Introduction suvery](), due **September 20, 2021**.
+- [Project Team registration form](), due **September 20, 2021**.
 
 ## Class Handson
 - Week 1 ()
