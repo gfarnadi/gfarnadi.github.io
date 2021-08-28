@@ -17,8 +17,9 @@ Please **do not email** me directly about doing a PhD, masters or internship wit
 ### MSc
 - [Kiarash Mohammadi](https://is.mpg.de/person/kmohammadi), MSc, UdeM, Fall 2021
 - [Reecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021
-- [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
 - [Allison Meyssonnier](), MSc, HEC, Fall 2021 (co-supervision with [Marie-Claude Trudel](https://www.hec.ca/profs/marie-claude.trudel.html))
+- [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
+
 
 ### Intern
 - [Maryam Molamohammadi](), Intern, Fall 2021 (co-supervision with [Nicolas Le Roux](http://nicolas.le-roux.name/))
