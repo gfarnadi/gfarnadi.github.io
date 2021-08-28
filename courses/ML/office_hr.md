@@ -8,8 +8,8 @@ Exclusively in the event that you have a question of a sensitive, personal natur
 
 
 # Instructor
-- Golnoosh Farnadi (Speaks English)
-- office hour: Monday 11:30 am - 1 pm
+Golnoosh Farnadi (Speaks English)
+-  Office hour: Monday 11:30 am - 1 pm
 
 # Teaching Assistant
-- Pravish Sainath (Speaks French & English)
+Pravish Sainath (Speaks French & English)
