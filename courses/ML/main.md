@@ -1,4 +1,4 @@
-| [MATH80629A](courses/ML/main.md) | [Lectures](courses/ML/lectures.md) | [Homework](courses/ML/homework.md) | [Quizes](courses/ML/quizes.md) | [Lab](courses/ML/lab.md) | [Office hour](courses/ML/office_hr.md)
+| [MATH80629A](main.md) | [Lectures](lectures.md) | [Homework](homework.md) | [Quizes](quizes.md) | [Lab](lab.md) | [Office hour](office_hr.md)
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH80629A): Fall 2021
 
 ## Course Description
@@ -30,8 +30,8 @@ Further a machine-learning tutorial using python will be provided on [week #4](l
 ## Grading
 Your final score for the course will be computed using the following weights:
 
-- [Homework](courses/ML/homework.md) (20%)
-- [Capsule quizes](courses/ML/quizes.md)  (10%)
-- [Project](courses/ML/homework.md) ( (30%)
+- [Homework](homework.md) (20%)
+- [Capsule quizes](quizes.md)  (10%)
+- [Project](homework.md) ( (30%)
 - Project presentation (10%)
 - Final Exam (30%)
