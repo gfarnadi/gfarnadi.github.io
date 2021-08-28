@@ -7,7 +7,7 @@
 
 **Machine Learning 1 (2021-2022), HEC Montreal/Mila**
 
-- All materials and details are avaialble at the [machine learning course](XXXX).
+- All materials and details are avaialble at the [machine learning course](courses/ML/main.md).
 
 **Data Science (2019–2020), Mila**
 
