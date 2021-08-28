@@ -35,3 +35,14 @@ Your final score for the course will be computed using the following weights:
 - [Project](homework.md) ( (30%)
 - Project presentation (10%)
 - Final Exam (30%)
+
+## Reading
+1- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), Second Edition Hastie, Trevor, Tibshirani, Robert, Friedman, Jerome, 2009 [ESL]
+2- [Deep Learning](http://deeplearningbook.org/). Ian Goodfellow, Yoshua Bengio and, Aaron Courville. [DL]
+3- [Reinforcement Learning : An Introduction Hardcover](http://incompleteideas.net/book/the-book-2nd.html). Richard S. Sutton, Andrew G. Barto. A Bradford Book. 2nd edition [RL-Sutton-Barto]
+4- [Machine Learning](). Kevin Murphy. MIT Press. 2012. [ML-Murphy]
+5- [Recommender Systems Handbook](), Ricci, F., Rokach, L., Shapira, B., Kantor, P.B. 2011. [RSH]
+6- [Data Algorithms : Recipes for Scaling Up with Hadoop and Spark 1st Edition](). Mahmoud Parsian. O'Reilly. 2015 [DA]
+7- [Python for Data Analysis : Data Wrangling with Pandas, NumPy, and IPython](). Wes McKinney. O'Reilly. 2012 [PDA]
+8- [Pattern Recognition and Machine Learning](). Christopher Bishop. 2006 [PRML]
+9- [Advanced Analytics with Spark](). O'Reilly. Second Edition. 2017
