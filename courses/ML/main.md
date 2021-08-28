@@ -1,3 +1,4 @@
+| [Home](index.md) | [MATH80629A]() | [Homework]() | [Lab]() | [Contact]()
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH80629A)
 
 # FALL 2021-2022
@@ -11,5 +12,10 @@ The plan is to survey different machine learning techniques (supervised, unsuper
 ## Course Format
 Due to the online nature of the semester, this course will be given as a [flipped classroom](). It is an instructional strategy where students learn the material before they come to class. The material will be a mix of readings and video capsules. Class time is reserved for more active activities such as problem solving, demonstrations, and questions-answering. In addition, class time will contain a short summary of the week's material.
 
+## Feedback
+Please use this [form]() to provide feedback about the course.
+
+## Prerequisites
+Basic knowledge of statistics, and Python programming as well as mathematical maturity will be assumed.
 
 
