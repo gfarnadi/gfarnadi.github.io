@@ -12,25 +12,24 @@ ___
 
 ___
 3- Week 3 (September 13): **Machine learning fundamentals** 
-- [Class summary]()
-- [Exercises (colab)](), [Answers (colab)]()
-- If you do not want to use colab, here are the two files you need to download: 1a) [Fundamentals_questions.ipynb]() OR 1b) [Fundamentals_questions.py]() AND 2) [utilities.py]()
+- Class summary
+- Exercises (colab)
 
 ___
 4- Week 4 (September 20): **Supervised learning algorithms** 
-- [Class summary]()
-- [Exercises (colab)](), [Answers (colab)]()
+- Class summary
+- Exercises (colab)
 
 ___
 
 5- Week 5 (September 27): **Python for scientific computations and machine learning** 
-- [Class summary]()
-- [Exercises (colab)](), [Answers (colab)]()
+- Class summary
+- Exercises (colab)
 
 ___
 6- Week 6 (October 4): **Neural networks and deep learning** 
-- [Class summary]()
-- [Exercises (colab)](), [Answers (colab)]() 
+- Class summary
+- Exercises (colab)
 
 ___
 7- Week 7 (October 11): No class
@@ -38,8 +37,8 @@ ___
 
 ___
 8- Week 8 (October 18): **Recurrent Neural networks and Convolutional neural networks** 
-- [Class summary]()
-- [Exercises (colab)](), [Answers (colab)]()
+- Class summary
+- Exercises (colab)
 
 ___
 9- Week 9 (October 25): **Project meetings**
@@ -47,28 +46,28 @@ ___
 
 ___
 10- Week 10 (November 1): **Unsupervised learning** 
-- [Class summary]()
-- [Exercises (colab)](), [Answers (colab)]()
+- Class summary
+- Exercises (colab)
 
 ___
 11- Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**
-- [Class summary]()
-- [Exercises (colab)](), [Answers (colab)]()
+- Class summary
+- Exercises (colab)
 
 ___
 12- Week 12 (November 15): **Trustworthy Machine Learning** 
-- [Class summary]()
-- [Exercises (colab)](), [Answers (colab)]()
+- Class summary
+- Exercises (colab)
 
 ___
 13- Week 13 (November 22): **Sequential decision making I** 
-- [Class summary]()
-- [Exercises (colab)](), [Answers (colab)]()
+- Class summary
+- Exercises (colab)
 
 ___
 14- Week 14 (November 29): **Sequential decision making II** 
-- [Class summary]()
-- [Exercises (colab)](), [Answers (colab)]()
+- Class summary
+- Exercises (colab)
 
 ___
 15- Week 15 (December 6): **Class Project presentation**
