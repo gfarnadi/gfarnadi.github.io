@@ -19,12 +19,12 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 
 ## Timeline
 - [Team Registration](https://forms.gle/h4ENWMNdGgpeMncs7), due: **September 20, 2021**. Fill this [form](https://forms.gle/h4ENWMNdGgpeMncs7).
-- [Study plan](assignments/Project%20assignment%201_study%20plan.pdf), due: **October 18, 2021** (by the end of the day EDT). Upload the PDF of the proposal to gradescope by the head of the team.
+- [Study plan](assignments/Project%20assignment%201_study%20plan.pdf), due: **October 18, 2021** (by the end of the day EDT). Upload the PDF of the proposal to [gradescope](https://www.gradescope.com/courses/301346) by the head of the team.
 - Project meeting, **October 25, 2021** 
-- [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **December 5, 2021**. Upload the PDF of your poster/slides to gradescope by the head of the team.
+- [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **December 5, 2021**. Upload the PDF of your poster/slides to [gradescope](https://www.gradescope.com/courses/301346) by the head of the team.
 - In-class Presentation, on **December 6, 2021**.
-- [Final group report](assignments/Project%20assignment%203_group%20report.pdf), due: **December 20, 2021** (by the end of the day EDT). Upload the PDF of the final group report to gradescope by the head of the team. And Upload the PDF of the final group report to gradescope by the head of the team
-- [Final individual report](assignments/Project%20assignment%204_individual%20report.pdf), due: **December 20, 2021** (by the end of the day EDT). Upload the PDF of the final individual report to gradescope (per each team member).
+- [Final group report](assignments/Project%20assignment%203_group%20report.pdf), due: **December 20, 2021** (by the end of the day EDT). Upload the PDF of the final group report to [gradescope](https://www.gradescope.com/courses/301346) by the head of the team. And Upload the PDF of the final group report to [gradescope](https://www.gradescope.com/courses/301346) by the head of the team
+- [Final individual report](assignments/Project%20assignment%204_individual%20report.pdf), due: **December 20, 2021** (by the end of the day EDT). Upload the PDF of the final individual report to [gradescope](https://www.gradescope.com/courses/301346) (per each team member).
 
 ## Goals
 
