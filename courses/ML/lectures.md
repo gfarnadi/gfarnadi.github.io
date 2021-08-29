@@ -7,7 +7,7 @@
 - Reading: [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf) and [Chapter 1 of ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 - Math review: Check [here](http://www.cs.toronto.edu/~lcharlin/courses/80-629/math_resources.html)
 
-2. Week 2 (September 6)
+2. Week 2 (September 6): No class
 * Holiday in Canada: Labour Day
 
 3. Week 3 (September 13): **Machine learning fundamentals** [slides]()
@@ -31,7 +31,7 @@
 6. Week 6 (October 4): **Neural networks and deep learning** [slides]()
 - Reading: TBA
 
-7. Week 7 (October 11)
+7. Week 7 (October 11): No class
 * Holiday in Canada: Thanksgiving
 
 8. Week 8 (October 18): **Python for Deep learning** [slides]()
