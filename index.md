@@ -25,7 +25,15 @@ I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha Uni
 The full list is avaialble at [teaching](teaching.md).
 
 ### News
-- 
+
+- (August 19) I've been invited as a panelist at VLDB 2021 roundtable session on Responsible AI Systems and Experiences, online, [more info](https://vldb.org/2021/?program-schedule-roundtable)
+
+- (July 30) Our Neurips workshop on Algorithmic Fairness through the Lens of Causality and Robustness got accepted! [moreinfo](https://www.afciworkshop.org/)
+
+- (July 23) I've been invited as a speaker at ICML 2021 workshop on Workshop on Representation Learning for Finance and e-Commerce Applications, online, [more info](https://sites.google.com/view/rlfeca2021)
+
+- (July 20) Our proposal (with my co-PI [Martine De Cock](http://faculty.washington.edu/mdecock/)) won the **Facebook 2021 Research Award for Privacy Enhancing Technologies** (104k USD)! 
+
 - (April 27) I've been invited as a keynote speaker at Symposium on Intelligent Data Analysis (**IDA 2021**), [more info](https://ida2021.org/)
 
 - (April 26) I've been invited as a lecturer at the 6th edition of **MILA/IVADO summer school on Deep Learning**, online, [more info](https://ivado.ca/en/events/6th-ivado-mila-deep-learning-school/)
@@ -34,7 +42,7 @@ The full list is avaialble at [teaching](teaching.md).
 
 - (April 21)  I've been invited as a panelist at **KCJ panel on AI ethics**!
 
-- (March 10) I've been selected to receive **Google scholar Award** (60k USD), Thank you Google! 
+- (March 10) I've been selected to receive **Google scholar Award** (60k USD)! 
 
 - (January 20) I've been appointed one of the **Canada CIFAR AI (CCAI) Chairs**! Thank you CIFAR and MILA!, [more info](https://www.hec.ca/nouvelles/2021/une-chaire-en-intelligence-artificielle-Canada-CIFAR-attribuee-a-Golnoosh-Farnadi.html)
 
