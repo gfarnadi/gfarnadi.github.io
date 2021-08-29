@@ -24,7 +24,8 @@ ___
 ___
 
 5- Week 5 (September 27): **Python for scientific computations and machine learning** 
-* ML Lab 1: TBA
+- [Class summary]()
+- [Exercises (colab)](), [Answers (colab)]()
 
 ___
 6- Week 6 (October 4): **Neural networks and deep learning** 
