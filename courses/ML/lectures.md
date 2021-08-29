@@ -47,8 +47,8 @@
 - **Reading**: TBA
 - **Capsules**: TBA
 
-9. Week 9 (October 25): **Python for Deep learning** 
-* ML Lab 2: TBA
+9. Week 9 (October 25): 
+* Project meetings
 
 10. Week 10 (November 1): **Unsupervised learning** 
 - **Slides**: TBA
