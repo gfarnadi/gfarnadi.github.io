@@ -1,13 +1,19 @@
 | [MATH80629A](main.md) | [Lectures](lectures.md) | [Homework](homework.md) | [Lab](lab.md) | [Project](project.md) | [Office hour](office_hr.md)
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH80629A): Fall 2021
 
-This project will be worth 30% of your final grade. You must work in teams of two or three.
+This project will be worth 40% of your final grade. You must work in teams of two or three.
 
-## Grading Scheme
+## Grading Scheme 
+### Project Report (30%)
 - Clarity/Relevance of problem statement and description of approach: 10%
 - Discussion of relationship to previous work and references: 5%
 - Design and execution of experiments: 10%
 - Figures/Tables/Writing: easily readable, properly labeled, informative: 5%
+### Project Presentation (10%)
+- Clarity of presentation: 10%
+- Slide or Poster quality: 2%
+- Correctness: 3%
+- Answers to questions: 1%
 
 ## Timeline
 - Team Registration, Due Date: September 20, 2021. Fill this [form]().
