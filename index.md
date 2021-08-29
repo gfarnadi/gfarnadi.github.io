@@ -18,8 +18,14 @@ I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha Uni
 - Probabilistic Graphical Models
 - Social Network Analysis
 
-### News
+## Teaching
 
+- Fall 2021: I will be teaching [Machine Learning I (MATH80629)](courses/ML/main.md) (in English).
+
+The full list is avaialble at [teaching](teaching.md).
+
+### News
+- 
 - (April 27) I've been invited as a keynote speaker at Symposium on Intelligent Data Analysis (**IDA 2021**), [more info](https://ida2021.org/)
 
 - (April 26) I've been invited as a lecturer at the 6th edition of **MILA/IVADO summer school on Deep Learning**, online, [more info](https://ivado.ca/en/events/6th-ivado-mila-deep-learning-school/)
