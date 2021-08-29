@@ -2,7 +2,7 @@
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH80629A): Fall 2021
 
 ## Lecture Slides
-
+___
 1. <span style="font-size:1em;">Week 1 (August 30): **Class introduction and math review**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
