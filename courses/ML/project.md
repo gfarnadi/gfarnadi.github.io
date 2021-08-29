@@ -18,9 +18,10 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 
 ## Timeline
 - Team Registration, due: **September 20, 2021**. Fill this [form]().
-- Study plan, due: **October 18, 2021** (by the end of the day AOE). Upload the PDF of the proposal to gradescope by the head of the team.
+- Study plan, due: **October 18, 2021** (by the end of the day EDT). Upload the PDF of the proposal to gradescope by the head of the team.
+- Project meeting, **October 25, 2021** 
 - Project Presentation, on: **December 6, 2021**. Upload the PDF of your poster/slides to gradescope by the head of the team.
-- Final report, due: **December 13, 2021** (by the end of the day AOE). Upload the PDF of the report to gradescope by the head of the team.
+- Final report, due: **December 13, 2021** (by the end of the day EDT). Upload the PDF of the report to gradescope by the head of the team.
 
 ## Goals
 
@@ -32,7 +33,7 @@ Your study should involve reading and understanding some background material. Yo
 
 **Alternatively**: You could decide to participate in this open challenge: ML Reproducibility Challenge 2020. Let me know as soon as possible if you are interested in this.
 
-**Study plan**: Please submit a one-page summary of your proposed research question and study to [Gradescope](). I will meet with each group to discuss study plans during the lecture of October 25. I will send you a schedule the day before. We will probably only have about 15 minutes so please make sure that your study plan is clear and precise. You may also include questions that you would like us to discuss at the end of the document.
+**Study plan**: Please submit a one-page summary of your proposed research question and study to [Gradescope](). I will meet with each group to discuss study plans during the lecture of **October 25**. I will send you a schedule the day before. We will probably only have about 15 minutes so please make sure that your study plan is clear and precise. You may also include questions that you would like us to discuss at the end of the document.
 
 **The report**: Your report must contain a description of the question you are trying to answer, a clear description of the model/algorithm you are studying, a survey of related work which proper references, an empirical section that reports your results, and a conclusion that summarizes your findings and (if pertinent) highlights possible future directions of investigation. Your report should be no longer than 10 pages in length (plus references) for pairs or 13 pages (plus references) for teams of three.
 
