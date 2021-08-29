@@ -1,4 +1,4 @@
-| [MATH80629A](main.md) | [Lectures](lectures.md) | [Homework](homework.md) | [Quizes](quizes.md) | [Lab](lab.md) | [Office hour](office_hr.md)
+| [MATH80629A](main.md) | [Lectures](lectures.md) | [Homework](homework.md) | [Quizes](quizes.md) | [Lab](lab.md) | [Project](project.md) | [Office hour](office_hr.md)
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH80629A): Fall 2021
 
 Assignments are count for 30% of your final grade. Most of the assignments are graded with gradescope. You need to create an account and add yourself to the course with the entry code: .
