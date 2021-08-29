@@ -13,7 +13,7 @@ ___
 ___
 3- Week 3 (September 13): **Machine learning fundamentals** 
 - Class summary
-- Exercises (colab)
+- [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week2-Fundamentals/Fundamentals_questions.ipynb)
 
 ___
 4- Week 4 (September 20): **Supervised learning algorithms** 
