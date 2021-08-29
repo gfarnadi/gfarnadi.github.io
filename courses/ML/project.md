@@ -16,10 +16,10 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - Answers to questions: 1%
 
 ## Timeline
-- Team Registration, Due Date: September 20, 2021. Fill this [form]().
-- Study plan, Due Date: October 18, 2021 (by the end of the day AOE). Upload the PDF to your gradescope account by the head of the team.
-- Project Presentation,  December 6, 2021.
-- Final report, Due Date: December 13, 2021 (by the end of the day AOE). Upload the PDF to your gradescope account by the head of the team.
+- Team Registration, due: **September 20, 2021**. Fill this [form]().
+- Study plan, due: **October 18, 2021** (by the end of the day AOE). Upload the PDF of the proposal to gradescope by the head of the team.
+- Project Presentation, on: **December 6, 2021**. Upload the PDF of your poster/slides to gradescope by the head of the team.
+- Final report, due: **December 13, 2021** (by the end of the day AOE). Upload the PDF of the report to gradescope by the head of the team.
 
 ## Goals
 
