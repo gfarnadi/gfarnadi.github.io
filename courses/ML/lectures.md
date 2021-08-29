@@ -55,33 +55,33 @@ ___
 - **Capsules**: TBA
 - **Reading**: TBA
 ___
-12. <span style="font-size:1em;">Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**</span>
+11. <span style="font-size:1em;">Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**</span>
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 ___
-13. <span style="font-size:1em;">Week 12 (November 15): **Trustworthy Machine Learning**</span> 
+12. <span style="font-size:1em;">Week 12 (November 15): **Trustworthy Machine Learning**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 ___
-14. <span style="font-size:1em;">Week 13 (November 22): **Sequential decision making I**</span> 
+13. <span style="font-size:1em;">Week 13 (November 22): **Sequential decision making I**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 ___
-15. <span style="font-size:1em;">Week 14 (November 29): **Sequential decision making II**</span> 
+14. <span style="font-size:1em;">Week 14 (November 29): **Sequential decision making II**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 ___
-16. <span style="font-size:1em;">Week 15 (December 6): **Class Project presentation**</span>
+15. <span style="font-size:1em;">Week 15 (December 6): **Class Project presentation**</span>
 * Room: TBA
 ___
-17. <span style="font-size:1em;">Week 16 (December 13)</span>
+16. <span style="font-size:1em;">Week 16 (December 13)</span>
 * Reading week
 ___
-18. <span style="font-size:1em;">Week 17 (December 20)</span>
+17. <span style="font-size:1em;">Week 17 (December 20)</span>
 * Final exam: TBA
 ___
 
