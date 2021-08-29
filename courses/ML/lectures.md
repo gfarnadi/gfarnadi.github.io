@@ -57,12 +57,12 @@
 - **Reading**: TBA
 - **Capsules**: TBA
 
-12. Week 11 (November 8): **Trustworthy Machine Learning** 
+12. Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**
 - **Slides**: TBA
 - **Reading**: TBA
 - **Capsules**: TBA
 
-12. Week 12 (November 15): **Parallel computational paradigms for large-scale data processing** 
+12. Week 12 (November 15): **Trustworthy Machine Learning** 
 - **Slides**: TBA
 - **Reading**: TBA
 - **Capsules**: TBA
