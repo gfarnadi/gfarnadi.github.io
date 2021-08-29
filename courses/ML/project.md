@@ -6,9 +6,10 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 ## Grading Scheme 
 ### Project Report (30%)
 - Clarity/Relevance of problem statement and description of approach: 10%
-- Discussion of relationship to previous work and references: 5%
+- Discussion of relationship to previous work and references: 4%
 - Design and execution of experiments: 10%
 - Figures/Tables/Writing: easily readable, properly labeled, informative: 5%
+- Indiviual report: 1%
 
 ### Project Presentation (10%)
 - Clarity of presentation: 10%
@@ -17,11 +18,13 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - Answers to questions: 1%
 
 ## Timeline
-- Team Registration, due: **September 20, 2021**. Fill this [form]().
-- Study plan, due: **October 18, 2021** (by the end of the day EDT). Upload the PDF of the proposal to gradescope by the head of the team.
+- [Team Registration](https://forms.gle/h4ENWMNdGgpeMncs7), due: **September 20, 2021**. Fill this [form](https://forms.gle/h4ENWMNdGgpeMncs7).
+- [Study plan](), due: **October 18, 2021** (by the end of the day EDT). Upload the PDF of the proposal to gradescope by the head of the team.
 - Project meeting, **October 25, 2021** 
-- Project Presentation, on: **December 6, 2021**. Upload the PDF of your poster/slides to gradescope by the head of the team.
-- Final report, due: **December 13, 2021** (by the end of the day EDT). Upload the PDF of the report to gradescope by the head of the team.
+- [Project Presentation](), due: **December 5, 2021**. Upload the PDF of your poster/slides to gradescope by the head of the team.
+- In-class Presentation, on **December 6, 2021**.
+- [Final group report](), due: **December 20, 2021** (by the end of the day EDT). Upload the PDF of the final group report to gradescope by the head of the team. And Upload the PDF of the final group report to gradescope by the head of the team
+- [Final individual report](), due: **December 20, 2021** (by the end of the day EDT). Upload the PDF of the final individual report to gradescope (per each team member).
 
 ## Goals
 
@@ -33,9 +36,12 @@ Your study should involve reading and understanding some background material. Yo
 
 **Alternatively**: You could decide to participate in this open challenge: ML Reproducibility Challenge 2020. Let me know as soon as possible if you are interested in this.
 
-**Study plan**: Please submit a one-page summary of your proposed research question and study to [Gradescope](). I will meet with each group to discuss study plans during the lecture of **October 25**. I will send you a schedule the day before. We will probably only have about 15 minutes so please make sure that your study plan is clear and precise. You may also include questions that you would like us to discuss at the end of the document.
+**Study plan**: (1 upload per team) Please submit a one-page summary of your proposed research question and study to [Gradescope](https://www.gradescope.com/courses/301346). I will meet with each group to discuss study plans during the lecture of **October 25**. I will send you a schedule the day before. We will probably only have about 15 minutes so please make sure that your study plan is clear and precise. You may also include questions that you would like us to discuss at the end of the document.
 
-**The report**: Your report must contain a description of the question you are trying to answer, a clear description of the model/algorithm you are studying, a survey of related work which proper references, an empirical section that reports your results, and a conclusion that summarizes your findings and (if pertinent) highlights possible future directions of investigation. Your report should be no longer than 10 pages in length (plus references) for pairs or 13 pages (plus references) for teams of three.
+**The group report**: (1 upload per team) Your report must contain a description of the question you are trying to answer, a clear description of the model/algorithm you are studying, a survey of related work which proper references, an empirical section that reports your results, and a conclusion that summarizes your findings and (if pertinent) highlights possible future directions of investigation. Your report should be no longer than 10 pages in length (plus references) for pairs or 13 pages (plus references) for teams of three.
+
+**The individual report**: (1 upload per student) You will also submit a brief individual report (at most one page), which will: (1) Describe the parts of the project you worked on (which machine learning methods you applied, which preprocessing steps you performed on the data, which parts of the term paper you wrote, who you worked with on what parts, etc.) and what parts of the project your teammates worked on. (2) What you learned from the project.
+The purpose of the individual report is to facilitate fair grading and to allow the instructor to understand well what you learned from the project.
 
 **Some advice**(mostly taken from csc2515 at UofT):
 
@@ -45,3 +51,10 @@ Be modest! Don't pick a project that is way too hard. Usually, if you select the
 - **Be careful!** Don't do foolish things like test on your training data, set parameters by cheating, compare unfairly against other methods, include plots with unlabeled axes, use undefined symbols in equations, etc. Do sensible cross-checks like running your algorithms several times, leaving out small parts of your data, adding a few noisy points, etc. to make sure everything still works reasonably well. Make lots of pictures along the way.
 - **Learn!** The point of the project is to give you a chance to "test drive" the process of doing machine learning. Consider this an opportunity to learn how to write code to run large experiments, make nice figures, layout readable equations, describe your work concisely to a smart but uninitiated reader, etc.
 - **Have fun!** If you pick something you think is cool, that will make getting it to work less painful and writing up your results less boring.
+
+**Intresting dataset**
+To find interesting datasets for your project, you can check: 
+
+- Kaggle: https://www.kaggle.com/competitions
+- UCI: Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets.php
+- Awesome public datasets: https://github.com/awesomedata/awesome-public-datasets
