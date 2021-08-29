@@ -3,7 +3,7 @@
 
 ## Lecture Slides
 ___
-1. <span style="font-size:1em;">Week 1 (August 30): **Class introduction and math review**</span>
+1- <span style="font-size:1em;">Week 1 (August 30): **Class introduction and math review**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
@@ -11,11 +11,11 @@ ___
   * For Math review: Check [here](http://www.cs.toronto.edu/~lcharlin/courses/80-629/math_resources.html)
   
 ___
-2. <span style="font-size:1em;">Week 2 (September 6): No class </span>
+2- <span style="font-size:1em;">Week 2 (September 6): No class </span>
 - Holiday in Canada: Labour Day
 
 ___
-3. <span style="font-size:1em;">Week 3 (September 13): **Machine learning fundamentals**</span> 
+3- <span style="font-size:1em;">Week 3 (September 13): **Machine learning fundamentals**</span> 
 - **Lecture**: [Slides]()
 - **Capsules**:  
   * [Learning Problem](https://youtu.be/XHjYLAooCQI) [14:40]
@@ -29,75 +29,75 @@ ___
   * [Chapter 5 of Deep Learning](http://www.deeplearningbook.org/contents/ml.html). You can skim 5.4 (except 5.4.4) to 5.10.  
   
 ___
-4. <span style="font-size:1em;">Week 4 (September 20): **Supervised learning algorithms**</span> 
+4- <span style="font-size:1em;">Week 4 (September 20): **Supervised learning algorithms**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
 ___
-5. <span style="font-size:1em;">Week 5 (September 27): **Python for scientific computations and machine learning**</span> 
+5- <span style="font-size:1em;">Week 5 (September 27): **Python for scientific computations and machine learning**</span> 
 - ML Lab 1: TBA
 
 ___
-6. <span style="font-size:1em;">Week 6 (October 4): **Neural networks and deep learning**</span> 
+6- <span style="font-size:1em;">Week 6 (October 4): **Neural networks and deep learning**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
 ___
-7. <span style="font-size:1em;">Week 7 (October 11): No class</span>
+7- <span style="font-size:1em;">Week 7 (October 11): No class</span>
 * Holiday in Canada: Thanksgiving
 
 ___
-8. <span style="font-size:1em;">Week 8 (October 18): **Recurrent Neural networks and Convolutional neural networks**</span> 
+8- <span style="font-size:1em;">Week 8 (October 18): **Recurrent Neural networks and Convolutional neural networks**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
 ___
-9. <span style="font-size:1em;">Week 9 (October 25)</span> 
+9- <span style="font-size:1em;">Week 9 (October 25)</span> 
 - Project meetings
 
 ___
-10. <span style="font-size:1em;">Week 10 (November 1): **Unsupervised learning**</span> 
+10- <span style="font-size:1em;">Week 10 (November 1): **Unsupervised learning**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
 ___
-11. <span style="font-size:1em;">Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**</span>
+11- <span style="font-size:1em;">Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**</span>
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
 ___
-12. <span style="font-size:1em;">Week 12 (November 15): **Trustworthy Machine Learning**</span> 
+12- <span style="font-size:1em;">Week 12 (November 15): **Trustworthy Machine Learning**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
 ___
-13. <span style="font-size:1em;">Week 13 (November 22): **Sequential decision making I**</span> 
+13- <span style="font-size:1em;">Week 13 (November 22): **Sequential decision making I**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
 ___
-14. <span style="font-size:1em;">Week 14 (November 29): **Sequential decision making II**</span> 
+14- <span style="font-size:1em;">Week 14 (November 29): **Sequential decision making II**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
 ___
-15. <span style="font-size:1em;">Week 15 (December 6): **Class Project presentation**</span>
+15- <span style="font-size:1em;">Week 15 (December 6): **Class Project presentation**</span>
 * Room: TBA
 
 ___
-16. <span style="font-size:1em;">Week 16 (December 13)</span>
+16- <span style="font-size:1em;">Week 16 (December 13)</span>
 * Reading week
 
 ___
-17. <span style="font-size:1em;">Week 17 (December 20)</span>
+17- <span style="font-size:1em;">Week 17 (December 20)</span>
 * Final exam: TBA
 
 ___
