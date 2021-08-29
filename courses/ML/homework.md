@@ -3,18 +3,10 @@
 
 Assignments are count for 30% of your final grade. Most of the assignments are graded with gradescope. You need to create an account and add yourself to the course with the entry code: .
 
-To access a guideline that will help you with submitting your homework on gradescope, please click here.
-
-## Homework expectations
-- Completely explain your solutions. 
-- Correct answers without clear explanations will not receive full credit.
-- Homeworks must be completed individually. Discussion with others is okay, but you must write solutions yourself.
-- All code used to arrive at answers is submitted along with answers.
-- Code will be graded according to style in addition to functionality.
+To access a guideline that will help you with submitting your homework on gradescope, please click [here]().
 
 ## Survey
 - [Student Introduction suvery](), due **September 20, 2021**.
-- [Project Team registration form](), due **September 20, 2021**.
 
 ## Capsule Quizes 
 Capsule Quizes are count for 10% of your final grade.
@@ -26,5 +18,13 @@ Capsule Quizes are count for 10% of your final grade.
 
 ## Homework
 Homework assignments are count for 20% of your final grade.
-- Week 4 () 
 - [Assignment 1](), due TBD. Upload the PDF to your gradescope account.
+
+### Homework expectations
+- Completely explain your solutions. 
+- Correct answers without clear explanations will not receive full credit.
+- Homeworks must be completed individually. Discussion with others is okay, but you must write solutions yourself.
+- All code used to arrive at answers is submitted along with answers.
+- Code will be graded according to style in addition to functionality.
+
+
