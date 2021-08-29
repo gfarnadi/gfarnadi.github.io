@@ -3,41 +3,86 @@
 
 ## Lecture Slides
 
-- Week 1 (August 30)
-- Reading:
-- Capsules:
-- Slides: 
+1. Week 1 (August 30)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 2 (September 6)
+2. Week 2 (September 6)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA 
 
-- Week 3 (September 13)
+3. Week 3 (September 13)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 4 (September 20)
+4. Week 4 (September 20)
 
-- Week 5 (September 27)
+5. Week 5 (September 27)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 6 (October 4)
+6. Week 6 (October 4)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 7 (October 11)
+7. Week 7 (October 11)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 8 (October 18)
+8. Week 8 (October 18)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 9 (October 25)
+9. Week 9 (October 25)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 10 (November 1)
+10. Week 10 (November 1)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 11 (November 8)
+11. Week 11 (November 8)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 12 (November 15)
+12. Week 12 (November 15)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 13 (November 22)
+13. Week 13 (November 22)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 14 (November 29)
+14. Week 14 (November 29)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 15 (December 6)
+15. Week 15 (December 6)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 16 (December 13)
+16. Week 16 (December 13)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
-- Week 17 (December 20)
+17. Week 17 (December 20)
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
 
