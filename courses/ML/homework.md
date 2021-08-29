@@ -6,7 +6,7 @@ Assignments are count for 30% of your final grade. Most of the assignments are g
 To access a guideline that will help you with submitting your homework on gradescope, please click [here]().
 
 ## Survey
-- [Student Introduction suvery](), due **September 20, 2021**.
+- [Student Introduction suvery](https://forms.gle/9pBe78n34ipMccxB8), due **September 20, 2021**.
 
 ## Capsule Quizes 
 Capsule Quizes are count for 10% of your final grade.
@@ -27,7 +27,9 @@ Homework assignments are count for 20% of your final grade.
 - Code will be graded according to style in addition to functionality.
 
 #### Assignments
-- [Assignment 1](), due TBD. Upload the PDF to your gradescope account.
+- [Assignment 1: Machine learning Fundementals](), due TBD. Upload the PDF to your gradescope account.
+- [Assignment 2: Recommender System](), due TBD. Upload the PDF to your gradescope account.
+
 
 
 
