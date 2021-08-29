@@ -4,14 +4,14 @@
 ## Lecture Slides
 
 1. Week 1 (August 30)
-- Reading: TBA
-- Capsules:  TBA
-- Slides: TBA
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA
 
 2. Week 2 (September 6)
-- Reading: TBA
-- Capsules:  TBA
-- Slides: TBA 
+* Reading: TBA
+* Capsules:  TBA
+* Slides: TBA 
 
 3. Week 3 (September 13)
 * Reading: TBA
