@@ -5,6 +5,7 @@
 
 1. Week 1 (August 30): **Class introduction and math review** 
   - **Slides**: [Slides]()
+
   - **Reading**: 
     * [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
     * [Chapter 1 of ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
@@ -17,6 +18,7 @@
   - **Slides**: [Slides]()
   - **Reading**:  
     * [Chapter 5 of Deep Learning](http://www.deeplearningbook.org/contents/ml.html). You can skim 5.4 (except 5.4.4) to 5.10.
+
   - **Capsules**:  
     * [Learning Problem](https://youtu.be/XHjYLAooCQI) [14:40]
     * [Types of Experiences](https://youtu.be/bUrw6MWiI7E) [13:15]
@@ -55,12 +57,12 @@
 - **Reading**: TBA
 - **Capsules**: TBA
 
-12. Week 11 (November 8): **Parallel computational paradigms for large-scale data processing** 
+12. Week 11 (November 8): **Trustworthy Machine Learning** 
 - **Slides**: TBA
 - **Reading**: TBA
 - **Capsules**: TBA
 
-12. Week 12 (November 15): **Recommender systems** 
+12. Week 12 (November 15): **Parallel computational paradigms for large-scale data processing** 
 - **Slides**: TBA
 - **Reading**: TBA
 - **Capsules**: TBA
