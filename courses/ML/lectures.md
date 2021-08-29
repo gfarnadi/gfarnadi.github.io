@@ -3,7 +3,7 @@
 
 ## Lecture Slides
 
-1. Week 1 (August 30): **Class introduction and math review** 
+1. <span style="font-size:10em;">Week 1 (August 30): **Class introduction and math review**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
