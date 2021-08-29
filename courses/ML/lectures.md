@@ -66,9 +66,7 @@
 * Slides: TBA
 
 15. Week 15 (December 6)
-* Reading: TBA
-* Capsules:  TBA
-* Slides: TBA
+* Class Project presentation
 
 16. Week 16 (December 13)
 * Reading week
