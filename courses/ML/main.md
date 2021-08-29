@@ -32,7 +32,7 @@ Your final score for the course will be computed using the following weights:
 
 - [Homework](homework.md) (20%)
 - [Capsule quizes](quizes.md)  (10%)
-- [Project](homework.md) ( (30%)
+- [Project](homework.md) (30%)
 - Project presentation (10%)
 - Final Exam (30%)
 
