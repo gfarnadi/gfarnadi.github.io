@@ -6,9 +6,9 @@
 1. Week 1 (August 30): **Class introduction and math review** 
 - [Slides]()
 - Reading: 
-   * [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
-   * [Chapter 1 of ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-   * For Math review: Check [here](http://www.cs.toronto.edu/~lcharlin/courses/80-629/math_resources.html)
+    * [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
+    * [Chapter 1 of ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+    * For Math review: Check [here](http://www.cs.toronto.edu/~lcharlin/courses/80-629/math_resources.html)
 
 2. Week 2 (September 6): No class
 * Holiday in Canada: Labour Day
@@ -16,15 +16,15 @@
 3. Week 3 (September 13): **Machine learning fundamentals** 
 - [Slides]()
 - Reading:  
-   * [Chapter 5 of Deep Learning](http://www.deeplearningbook.org/contents/ml.html). You can skim 5.4 (except 5.4.4) to 5.10.
+    * [Chapter 5 of Deep Learning](http://www.deeplearningbook.org/contents/ml.html). You can skim 5.4 (except 5.4.4) to 5.10.
 - Capsules:  
-   * [Learning Problem](https://youtu.be/XHjYLAooCQI) [14:40]
-   * [Types of Experiences](https://youtu.be/bUrw6MWiI7E) [13:15]
-   * [A first Supervised Model](https://www.youtube.com/watch?v=fu8IBbPREBg) [8:03]
-   * [Model Evaluation](https://youtu.be/jB69v09vrn8) [15:26]
-   * [Regularization](https://www.youtube.com/watch?v=SFzhFrWOTEI) [4:09]
-   * [Model Validation](https://www.youtube.com/watch?v=WoFGyFvyoeo) [3:08]
-   * [Bias / Variance tradeoff](https://www.youtube.com/watch?v=L5Hehy9s8SI) [11:50]
+    * [Learning Problem](https://youtu.be/XHjYLAooCQI) [14:40]
+    * [Types of Experiences](https://youtu.be/bUrw6MWiI7E) [13:15]
+    * [A first Supervised Model](https://www.youtube.com/watch?v=fu8IBbPREBg) [8:03]
+    * [Model Evaluation](https://youtu.be/jB69v09vrn8) [15:26]
+    * [Regularization](https://www.youtube.com/watch?v=SFzhFrWOTEI) [4:09]
+    * [Model Validation](https://www.youtube.com/watch?v=WoFGyFvyoeo) [3:08]
+    * [Bias / Variance tradeoff](https://www.youtube.com/watch?v=L5Hehy9s8SI) [11:50]
 
 4. Week 4 (September 20): **Supervised learning algorithms** 
 - [Slides]()
