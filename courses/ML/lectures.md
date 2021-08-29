@@ -17,6 +17,7 @@
 - **Slides**: [Slides]()
 - **Reading**:  
     * [Chapter 5 of Deep Learning](http://www.deeplearningbook.org/contents/ml.html). You can skim 5.4 (except 5.4.4) to 5.10.
+    
 - **Capsules**:  
     * [Learning Problem](https://youtu.be/XHjYLAooCQI) [14:40]
     * [Types of Experiences](https://youtu.be/bUrw6MWiI7E) [13:15]
