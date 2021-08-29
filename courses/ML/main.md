@@ -19,13 +19,13 @@ Please use this [form]() to provide feedback about the course.
 
 ## Prerequisites
 Mathematical maturity and basic knowledge of statistics, and probability will be assumed. 
-For the programming assignments and the project, Python programming will be assumed. If you do not know Python here are few ways to learn the basics below. Option 1 **Data Camp** is recommended:
+For the programming assignments and the project, Python programming will be assumed. If you do not know Python here are few ways to learn the basics below. 
 
-- [Data Camp](https://www.datacamp.com/onboarding/create_account?track_id=17): Complete Chapters 1, 2, 3 (sign in using the link I sent you to access Chapters 2 and 3).
+- [Data Camp](https://www.datacamp.com/onboarding/create_account?track_id=17): Complete Chapters 1, 2, 3 (sign in using the link I sent you to access Chapters 2 and 3). **This option is recommended**
 - [HEC CAM]() offers introductory python courses in September (currently only in French). Register at [CAM registration](https://inscription.hec.ca/cams/).
 - [Fall 2018 tutorial](http://www.cs.toronto.edu/~lcharlin/courses/80-629/tutorial_f18.html). This will give you an idea of the level that is expected for this course.  
 
-Further a machine-learning tutorial using python will be provided on [week #4](lectures.md).
+Further a machine-learning tutorial using python will be provided on [week #5](lectures.md).
 
 ## Grading
 Your final score for the course will be computed using the following weights:
