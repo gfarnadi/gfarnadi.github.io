@@ -5,7 +5,6 @@
 Welcome to MATH80629A Graduate level course on introduction to machine learning at HEC Montreal (English edition). This is the English edition of the course, for the French edition, please check [here](http://www.cs.toronto.edu/~lcharlin/courses/80-629/).
 In this course, we will study machine learning models, a type of statistical analysis that focuses on prediction, for analyzing very large datasets ("big data").
 The plan is to survey different machine learning techniques (supervised, unsupervised, reinforcement learning) as well as some applications (e.g., recommender systems). We will also study large-scale machine learning and will discuss distributed computational frameworks (Hadoop and Spark).
-Thanks to [prof. Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/courses/80-629/), majority of the materials are based on the previous edition of this course that have been thaugh by him. 
 
 
 ## Course Format
@@ -46,3 +45,6 @@ Your final score for the course will be computed using the following weights:
 7. [Python for Data Analysis : Data Wrangling with Pandas, NumPy, and IPython](). Wes McKinney. O'Reilly. 2012 [PDA]
 8. [Pattern Recognition and Machine Learning](). Christopher Bishop. 2006 [PRML]
 9. [Advanced Analytics with Spark](). O'Reilly. Second Edition. 2017
+
+## Acknowledge
+I thank [prof. Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/courses/80-629/) for sharing his slides and video capsules with me. The majority of the materials of this coursse are based on the previous editions that have been thaugh by him. 
