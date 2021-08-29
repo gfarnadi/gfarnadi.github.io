@@ -19,14 +19,15 @@ Capsule Quizes are count for 10% of your final grade.
 ## Homework
 Homework assignments are count for 20% of your final grade.
 
-- [Assignment 1](), due TBD. Upload the PDF to your gradescope account.
-
 ### Homework expectations
 - Completely explain your solutions. 
 - Correct answers without clear explanations will not receive full credit.
 - Homeworks must be completed individually. Discussion with others is okay, but you must write solutions yourself.
 - All code used to arrive at answers is submitted along with answers.
 - Code will be graded according to style in addition to functionality.
+
+#### Assignments
+- [Assignment 1](), due TBD. Upload the PDF to your gradescope account.
 
 
 
