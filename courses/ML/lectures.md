@@ -9,9 +9,7 @@
 * Slides: TBA
 
 2. Week 2 (September 6)
-* Reading: TBA
-* Capsules:  TBA
-* Slides: TBA 
+* Holiday in Canada: Labour Day
 
 3. Week 3 (September 13)
 * Reading: TBA
@@ -19,6 +17,7 @@
 * Slides: TBA
 
 4. Week 4 (September 20)
+* ML Lab 1: TBA
 
 5. Week 5 (September 27)
 * Reading: TBA
@@ -31,14 +30,10 @@
 * Slides: TBA
 
 7. Week 7 (October 11)
-* Reading: TBA
-* Capsules:  TBA
-* Slides: TBA
+* Holiday in Canada: Thanksgiving
 
 8. Week 8 (October 18)
-* Reading: TBA
-* Capsules:  TBA
-* Slides: TBA
+* ML Lab 2: TBA
 
 9. Week 9 (October 25)
 * Reading: TBA
@@ -76,13 +71,9 @@
 * Slides: TBA
 
 16. Week 16 (December 13)
-* Reading: TBA
-* Capsules:  TBA
-* Slides: TBA
+* Reading week
 
 17. Week 17 (December 20)
-* Reading: TBA
-* Capsules:  TBA
-* Slides: TBA
+* Final exam: TBA
 
 
