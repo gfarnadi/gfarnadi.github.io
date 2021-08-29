@@ -55,8 +55,8 @@ ___
 - **Reading**: TBA
 
 ___
-9- <span style="font-size:1em;">Week 9 (October 25)</span> 
-- Project meetings
+9- <span style="font-size:1em;">Week 9 (October 25): **Project meetings**</span> 
+- No lectures
 
 ___
 10- <span style="font-size:1em;">Week 10 (November 1): **Unsupervised learning**</span> 
