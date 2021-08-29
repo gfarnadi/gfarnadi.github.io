@@ -10,11 +10,11 @@ To access a guideline that will help you with submitting your homework on grades
 
 ## Capsule Quizes 
 Capsule Quizes are count for 10% of your final grade.
-- [Quize 1](), due TBD. 
-- [Quize 2](), due TBD. 
-- [Quize 3](), due TBD. 
-- [Quize 4](), due TBD. 
-- [Quize 5](), due TBD. 
+- Quize 1, due TBD. 
+- Quize 2, due TBD. 
+- Quize 3, due TBD. 
+- Quize 4, due TBD. 
+- Quize 5, due TBD. 
 
 ## Homework
 Homework assignments are count for 20% of your final grade.
@@ -27,8 +27,8 @@ Homework assignments are count for 20% of your final grade.
 - Code will be graded according to style in addition to functionality.
 
 #### Assignments
-- [Assignment 1: Machine learning Fundementals](), due TBD. Upload the PDF to your gradescope account.
-- [Assignment 2: Case study on Recommender Systems](), due TBD. Upload the PDF to your gradescope account.
+- Assignment 1: Machine learning Fundementals, due TBD. Upload the PDF to your gradescope account.
+- Assignment 2: Case study on Recommender Systems, due TBD. Upload the PDF to your gradescope account.
 
 
 
