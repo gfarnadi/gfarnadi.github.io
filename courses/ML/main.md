@@ -14,7 +14,7 @@ Due to the online nature of the semester, this course will be given as a [flippe
 - Mondays 8:30 am - 11:30 am, online, [zoom link](). Rooms are password-protected. Reach out to me by email if you need the password.
 
 ## Feedback
-Please use this [form]() to provide feedback about the course.
+Please use this [form](https://forms.gle/VVNQogf2fBi9tKq38) to provide feedback about the course.
 
 ## Prerequisites
 Mathematical maturity and basic knowledge of statistics, and probability will be assumed. 
