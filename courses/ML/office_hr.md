@@ -8,7 +8,8 @@ Exclusively in the event that you have a question of a sensitive, personal natur
 
 
 # Instructor
-Golnoosh Farnadi (Speaks English): [Zoom link](https://hecmontreal.zoom.us/j/86904448666?pwd=T1NYdU43VUdOWVZCeE5iblhOajM1UT09). Rooms are password-protected. Reach out to me by email if you need the password.
+Golnoosh Farnadi (Speaks English): [Zoom link](https://hecmontreal.zoom.us/j/86904448666?pwd=T1NYdU43VUdOWVZCeE5iblhOajM1UT09). 
+Rooms are password-protected. Reach out to me by email if you need the password.
 -  Office hour: Monday 11:30 am - 1 pm
 
 # Teaching Assistant
