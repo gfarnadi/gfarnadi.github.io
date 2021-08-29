@@ -41,8 +41,8 @@ ___
 - [Exercises (colab)](), [Answers (colab)]()
 
 ___
-9- Week 9 (October 25): **Python for Deep learning** 
-* ML Lab 2: TBA
+9- Week 9 (October 25): **Project meetings**
+* No hands-on
 
 ___
 10- Week 10 (November 1): **Unsupervised learning** 
