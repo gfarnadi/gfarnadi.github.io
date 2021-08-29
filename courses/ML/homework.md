@@ -1,9 +1,9 @@
 | [MATH80629A](main.md) | [Lectures](lectures.md) | [Homework](homework.md) | [Lab](lab.md) | [Project](project.md) | [Office hour](office_hr.md)
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH80629A): Fall 2021
 
-Assignments are count for 30% of your final grade. Most of the assignments are graded with gradescope. You need to create an account and add yourself to the course with the entry code: .
+Assignments are count for 30% of your final grade. Most of the assignments are graded with [gradescope](https://www.gradescope.com/courses/301346). You need to create an account and add yourself to the course with the Entry Code:86ZZD7.
 
-To access a guideline that will help you with submitting your homework on gradescope, please click [here]().
+To access a guideline that will help you with submitting your homework on gradescope, please click [here](https://gradescope-static-assets.s3-us-west-2.amazonaws.com/help/submitting_hw_guide.pdf).
 
 ## Survey
 - [Student Introduction suvery](https://forms.gle/9pBe78n34ipMccxB8), due **September 13, 2021**.
@@ -28,7 +28,7 @@ Homework assignments are count for 20% of your final grade.
 
 #### Assignments
 - [Assignment 1: Machine learning Fundementals](), due TBD. Upload the PDF to your gradescope account.
-- [Assignment 2: Recommender System](), due TBD. Upload the PDF to your gradescope account.
+- [Assignment 2: Case study on Recommender Systems](), due TBD. Upload the PDF to your gradescope account.
 
 
 
