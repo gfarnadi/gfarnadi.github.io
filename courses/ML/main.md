@@ -46,5 +46,5 @@ Your final score for the course will be computed using the following weights:
 8. [Pattern Recognition and Machine Learning](). Christopher Bishop. 2006 [PRML]
 9. [Advanced Analytics with Spark](). O'Reilly. Second Edition. 2017
 
-## Acknowledge
+## Acknowledgement
 I thank [prof. Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/courses/80-629/) for sharing his slides and video capsules with me. The majority of the materials of this coursse are based on the previous editions that have been thaugh by him. 
