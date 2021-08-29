@@ -15,13 +15,13 @@
 - Slides: TBA
 - Reading:  [Chapter 5 of Deep Learning](http://www.deeplearningbook.org/contents/ml.html). You can skim 5.4 (except 5.4.4) to 5.10.
 - Capsules:  
-* Learning Problem [14:40]
-* Types of Experiences [13:15]
-* A first Supervised Model [8:03]
-* Model Evaluation [15:26]
-* Regularization [4:09]
-* Model Validation [3:08]
-* Bias / Variance tradeoff [11:50]
+   * [Learning Problem]() [14:40]
+   * [Types of Experiences]() [13:15]
+   * [A first Supervised Model]() [8:03]
+   * [Model Evaluation]() [15:26]
+   * [Regularization]() [4:09]
+   * [Model Validation]() [3:08]
+   * [Bias / Variance tradeoff]() [11:50]
 
 4. Week 4 (September 20): **Supervised learning algorithms**
 * Reading: TBA
