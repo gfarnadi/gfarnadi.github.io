@@ -8,7 +8,7 @@ The plan is to survey different machine learning techniques (supervised, unsuper
 
 
 ## Course Format
-Due to the online nature of the semester, this course will be given as a [flipped classroom](). It is an instructional strategy where students learn the material before they come to class. The material will be a mix of readings and video capsules. Class time is reserved for more active activities such as problem solving, demonstrations, and questions-answering. In addition, class time will contain a short summary of the week's material.
+Due to the online nature of the semester, this course will be given as a [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom). It is an instructional strategy where students learn the material before they come to class. The material will be a mix of readings and video capsules. Class time is reserved for more active activities such as problem solving, demonstrations, and questions-answering. In addition, class time will contain a short summary of the week's material.
 
 ## Time & room
 - Mondays 8:30 am - 11:30 am, online, [zoom link](https://hecmontreal.zoom.us/j/89872470099?pwd=UkxrZ2dLbU9jWE9UR1UwZy9UeXpIdz09). Rooms are password-protected. Reach out to me by email if you need the password.
