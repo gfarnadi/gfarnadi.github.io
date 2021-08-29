@@ -4,7 +4,7 @@
 ## Lecture Slides
 
 1. Week 1 (August 30): **Class introduction and math review** 
-- **Slides**: [Slides]()
+- **Lecture**: [Slides]()
 - **Reading**: 
   * [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
   * [Chapter 1 of ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
@@ -14,7 +14,7 @@
 - Holiday in Canada: Labour Day
 
 3. Week 3 (September 13): **Machine learning fundamentals** 
-- **Slides**: [Slides]()
+- **Lecture**: [Slides]()
 - **Reading**:  
   * [Chapter 5 of Deep Learning](http://www.deeplearningbook.org/contents/ml.html). You can skim 5.4 (except 5.4.4) to 5.10.  
 - **Capsules**:  
@@ -27,7 +27,7 @@
   * [Bias / Variance tradeoff](https://www.youtube.com/watch?v=L5Hehy9s8SI) [11:50]
 
 4. Week 4 (September 20): **Supervised learning algorithms** 
-- **Slides**: TBA
+- **Lecture**: TBA
 - **Reading**: TBA
 - **Capsules**: TBA
 
@@ -35,7 +35,7 @@
 - ML Lab 1: TBA
 
 6. Week 6 (October 4): **Neural networks and deep learning** 
-- **Slides**: TBA
+- **Lecture**: TBA
 - **Reading**: TBA
 - **Capsules**: TBA
 
@@ -43,7 +43,7 @@
 * Holiday in Canada: Thanksgiving
 
 8. Week 8 (October 18): **Recurrent Neural networks and Convolutional neural networks** 
-- **Slides**: TBA
+- **Lecture**: TBA
 - **Reading**: TBA
 - **Capsules**: TBA
 
@@ -51,27 +51,27 @@
 - Project meetings
 
 10. Week 10 (November 1): **Unsupervised learning** 
-- **Slides**: TBA
+- **Lecture**: TBA
 - **Reading**: TBA
 - **Capsules**: TBA
 
 12. Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**
-- **Slides**: TBA
+- **Lecture**: TBA
 - **Reading**: TBA
 - **Capsules**: TBA
 
 12. Week 12 (November 15): **Trustworthy Machine Learning** 
-- **Slides**: TBA
+- **Lecture**: TBA
 - **Reading**: TBA
 - **Capsules**: TBA
 
 13. Week 13 (November 22): **Sequential decision making I** 
-- **Slides**: TBA
+- **Lecture**: TBA
 - **Reading**: TBA
 - **Capsules**: TBA
 
 14. Week 14 (November 29): **Sequential decision making II** 
-- **Slides**: TBA
+- **Lecture**: TBA
 - **Reading**: TBA
 - **Capsules**: TBA
 
