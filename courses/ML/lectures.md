@@ -3,17 +3,17 @@
 
 ## Lecture Slides
 
-1. <span style="font-size:2em;">Week 1 (August 30): **Class introduction and math review**</span>
+1. <span style="font-size:1.5em;">Week 1 (August 30): **Class introduction and math review**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
   * [Chapter 1 of ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
   * For Math review: Check [here](http://www.cs.toronto.edu/~lcharlin/courses/80-629/math_resources.html)
 
-2. Week 2 (September 6): No class
+2. <span style="font-size:1.5em;">Week 2 (September 6): No class </span>
 - Holiday in Canada: Labour Day
 
-3. Week 3 (September 13): **Machine learning fundamentals** 
+3. <span style="font-size:1.5em;">Week 3 (September 13): **Machine learning fundamentals**</span> 
 - **Lecture**: [Slides]()
 - **Capsules**:  
   * [Learning Problem](https://youtu.be/XHjYLAooCQI) [14:40]
@@ -26,62 +26,62 @@
 - **Reading**:  
   * [Chapter 5 of Deep Learning](http://www.deeplearningbook.org/contents/ml.html). You can skim 5.4 (except 5.4.4) to 5.10.  
 
-4. Week 4 (September 20): **Supervised learning algorithms** 
+4. <span style="font-size:1.5em;">Week 4 (September 20): **Supervised learning algorithms**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
-5. Week 5 (September 27): **Python for scientific computations and machine learning** 
+5. <span style="font-size:1.5em;">Week 5 (September 27): **Python for scientific computations and machine learning**</span> 
 - ML Lab 1: TBA
 
-6. Week 6 (October 4): **Neural networks and deep learning** 
+6. <span style="font-size:1.5em;">Week 6 (October 4): **Neural networks and deep learning**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
-7. Week 7 (October 11): No class
+7. <span style="font-size:1.5em;">Week 7 (October 11): No class</span>
 * Holiday in Canada: Thanksgiving
 
-8. Week 8 (October 18): **Recurrent Neural networks and Convolutional neural networks** 
+8. <span style="font-size:1.5em;">Week 8 (October 18): **Recurrent Neural networks and Convolutional neural networks**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
-9. Week 9 (October 25): 
+9. <span style="font-size:1.5em;">Week 9 (October 25)</span> 
 - Project meetings
 
-10. Week 10 (November 1): **Unsupervised learning** 
+10. <span style="font-size:1.5em;">Week 10 (November 1): **Unsupervised learning**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
-12. Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**
+12. <span style="font-size:1.5em;">Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**</span>
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
-12. Week 12 (November 15): **Trustworthy Machine Learning** 
+12. <span style="font-size:1.5em;">Week 12 (November 15): **Trustworthy Machine Learning**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
-13. Week 13 (November 22): **Sequential decision making I** 
+13. <span style="font-size:1.5em;">Week 13 (November 22): **Sequential decision making I**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
-14. Week 14 (November 29): **Sequential decision making II** 
+14. <span style="font-size:1.5em;">Week 14 (November 29): **Sequential decision making II**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
 
-15. Week 15 (December 6): **Class Project presentation**
+15. <span style="font-size:1.5em;">Week 15 (December 6): **Class Project presentation**</span>
 * Room: TBA
 
-16. Week 16 (December 13)
+16. <span style="font-size:1.5em;">Week 16 (December 13)</span>
 * Reading week
 
-17. Week 17 (December 20)
+17. <span style="font-size:1.5em;">Week 17 (December 20)</span>
 * Final exam: TBA
 
 
