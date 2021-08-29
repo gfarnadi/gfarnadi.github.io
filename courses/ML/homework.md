@@ -6,7 +6,7 @@ Assignments are count for 30% of your final grade. Most of the assignments are g
 To access a guideline that will help you with submitting your homework on gradescope, please click [here]().
 
 ## Survey
-- [Student Introduction suvery](https://forms.gle/9pBe78n34ipMccxB8), due **September 20, 2021**.
+- [Student Introduction suvery](https://forms.gle/9pBe78n34ipMccxB8), due **September 13, 2021**.
 
 ## Capsule Quizes 
 Capsule Quizes are count for 10% of your final grade.
