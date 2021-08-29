@@ -9,6 +9,14 @@ This project will be worth 30% of your final grade. You must work in teams of tw
 - Design and execution of experiments: 10%
 - Figures/Tables/Writing: easily readable, properly labeled, informative: 5%
 
+## Timeline
+Team Registration, Due Date: September 20, 2021. Fill this [form]().
+Study plan, Due Date: October 18, 2021 (by the end of the day AOE). Upload the PDF to your gradescope account by the head of the team.
+Project Presentation,  December 6, 2021.
+Final report, Due Date: December 13, 2021 (by the end of the day AOE). Upload the PDF to your gradescope account by the head of the team.
+
+## Goals
+
 The aim of this project is to allow you to learn about machine learning by trying to solve a task with it.
 
 First, select a question that can be answered using machine learning. I expect that your question will be about a model/algorithm or about an application. Then design a study that will try to answer your question. Your study must have an element of novelty. For example the novelty could be an extension or a variation of an existing algorithm or results of an existing method on a new dataset.
