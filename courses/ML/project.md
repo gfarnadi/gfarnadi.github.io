@@ -55,6 +55,6 @@ Be modest! Don't pick a project that is way too hard. Usually, if you select the
 **Intresting dataset**
 To find interesting datasets for your project, you can check: 
 
-- Kaggle: https://www.kaggle.com/competitions
-- UCI: Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets.php
-- Awesome public datasets: https://github.com/awesomedata/awesome-public-datasets
+- [Kaggle](https://www.kaggle.com/competitions)
+- [UCI: Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
+- [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
