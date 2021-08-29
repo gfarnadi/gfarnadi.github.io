@@ -18,7 +18,7 @@ I was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha Uni
 - Probabilistic Graphical Models
 - Social Network Analysis
 
-## Teaching
+### Teaching
 
 - Fall 2021: I will be teaching [Machine Learning I (MATH80629)](courses/ML/main.md) (in English).
 
