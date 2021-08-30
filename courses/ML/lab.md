@@ -1,7 +1,7 @@
 | [MATH80629A](main.md) | [Lectures](lectures.md) | [Homework](homework.md) | [Lab](lab.md) | [Project](project.md) | [Office hour](office_hr.md)
 # Machine Learning for Large-Scale Data Analysis and Decision Making (MATH80629A): Fall 2021
 
-## Hands on Sessions
+## Hands-on Sessions
 
 Most of the lab materials are in Python using Colab. 
 If you want to create a machine learning model but you don’t have a machine that can take the workload or you don't want to deal with installing packages and resolving installation issues, Google Colab is a suitable option. Colaboratory is a free Jupyter notebook environment provided by Google where you can use free GPUs and TPUs.
@@ -9,6 +9,8 @@ If you want to create a machine learning model but you don’t have a machine th
 ### Getting Started
 To start working with Colab you first need to log in to your google account, then go to this [link](https://colab.research.google.com).
 If you are a new Colab user, you can check [here](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#scrollTo=GJBs_flRovLc) to learn more.
+
+### Schedule 
 ___
 1- Week 1 (August 30): **Class introduction and math review** 
 * No hands-on
