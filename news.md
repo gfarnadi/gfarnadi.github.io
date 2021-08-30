@@ -9,7 +9,7 @@
 
 - (July 23) I've been invited as a speaker at **ICML 2021 workshop on Workshop on Representation Learning for Finance and e-Commerce Applications**, online, [more info](https://sites.google.com/view/rlfeca2021)
 
-- (July 20) Our proposal (with my co-PI [Martine De Cock](http://faculty.washington.edu/mdecock/)) won the **Facebook 2021 Research Award for Privacy Enhancing Technologies** (104k USD)! 
+- (July 20) Our proposal (with my co-PI [Martine De Cock](http://faculty.washington.edu/mdecock/)) won the **Facebook 2021 Research Award for Privacy Enhancing Technologies** (104k USD), [more info](https://research.fb.com/blog/2021/07/investing-in-academic-research-to-improve-our-privacy-technology-our-approach-and-recent-rfp-winners/)! 
 
 - (April 27) I've been invited as a keynote speaker at Symposium on Intelligent Data Analysis (**IDA 2021**), [more info](https://ida2021.org/)
 
