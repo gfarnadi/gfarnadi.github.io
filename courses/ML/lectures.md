@@ -16,7 +16,7 @@ ___
 
 ___
 3- <span style="font-size:1em;">Week 3 (September 13): **Machine learning fundamentals**</span> 
-- **Lecture**: [Slides]()
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_ml-fundamentals.pdf)
 - **Capsules**:  
   * [Learning Problem](https://youtu.be/XHjYLAooCQI) [14:40]
   * [Types of Experiences](https://youtu.be/bUrw6MWiI7E) [13:15]
