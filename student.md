@@ -10,8 +10,8 @@ Please **do not email** me directly about doing a PhD, masters or internship wit
 ## Open Opportunities
 
 - one PhD student (fully funded): January 2022 (Privacy preserving ML and Fairness)
-- one PhD student (fully funded): January 2022 (Explainble AI and Fairness)
 - one MSc student (fully funded): January 2022 (Reasoning in Deep learning)
+- one PhD student (fully funded): September 2022 (Explainble AI and Fairness)
 
 ## Current students
 
