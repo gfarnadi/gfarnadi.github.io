@@ -53,7 +53,7 @@ Second, note that it's hard to evaluate your application by just looking at your
 - A copy of a report, article, or paper you wrote (if any). 
 - For students with an advanced degree (e.g., Master's), please mention who your Master's thesis advisor is.
 
-**Note that I receive hundreds of requests like these and unfortnunately I cannot gaurantee to reply individually**. However, I do review what you send me carefully. Please **do not send more than one email**.
+**Note that I receive hundreds of requests like these and unfortnunately I cannot gaurantee to reply individually**. However, I do review what you send me carefully. Please **do not send more than once**.
 
 ## Funding opportunities
 Below are links to various pages from McGill Graduate and Postdoctoral Studies and the Dept. of ECE, just in case you didn't know the info & opportunities are available. 
