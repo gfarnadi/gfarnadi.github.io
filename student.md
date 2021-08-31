@@ -29,3 +29,26 @@ Please **do not email** me directly about doing a PhD, masters or internship wit
 ## Previous students
 - [Amir Reza](https://amir9ume.github.io/), MSc, UdeM, Fall 2019 (co-supervision with [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/))
 
+
+
+## Funding opportunities
+Below are links to various pages from McGill Graduate and Postdoctoral Studies and the Dept. of ECE, just in case you didn't know the info & opportunities are available. 
+
+### Funding for Prospective Graduate Students
+
+#### Students from Canada (residents/citizens)
+- [MITACS Scholarships](https://www.google.com/url?q=https%3A%2F%2Fwww.mitacs.ca%2Fen%2Fprograms%23student&sa=D&sntz=1&usg=AFQjCNFkzoNUXQ4XpPEvMMuuJsWYheF4hg)
+- [IVADO scholarships](https://www.google.com/url?q=https%3A%2F%2Fivado.ca%2Fen%2Fivado-scholarships%2F&sa=D&sntz=1&usg=AFQjCNHdpAK3-9FjIsROX0t_Yw9Y1WDw3Q)
+- [Building 21 Fellowship](https://www.google.com/url?q=https%3A%2F%2Fbuilding21.ca%2Fabout-the-blue-fellowship-1&sa=D&sntz=1&usg=AFQjCNGBY2nh46VFcWO6VR7S13W_7UGO2A)
+- [Indigenous and Black Engineering and Technology Momentum (IBET) Fellowship (PhD)](https://www.google.com/url?q=https%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fhamilton%2Fmcmaster-ontario-universities-fellowships-black-indigenous-students-1.5895450&sa=D&sntz=1&usg=AFQjCNGUo4xMDg_x5SVN9rUHMUETjQce9A)
+
+#### Students from [abroad](https://www.google.com/url?q=https%3A%2F%2Fwww.mcgill.ca%2Fgps%2Ffunding%2Finternational&sa=D&sntz=1&usg=AFQjCNHujPzQhx0Xgz9-AbOnBp_W-qWG6A)
+
+- [Differential Fee Wavers for International Students](https://www.google.com/url?q=https%3A%2F%2Fwww.mcgill.ca%2Fgps%2Ffunding%2Finternational%2Fdfw&sa=D&sntz=1&usg=AFQjCNEM9iQTsi5BEYZoSDzQIcfPkvrD-A) (i.e., eligibility for Quebec tuition rate) Check the list of countries [here](http://www.google.com/url?q=http%3A%2F%2Fwww.education.gouv.qc.ca%2Fen%2Freferences%2Fstudying-in-quebec%2Fexemptions%2Fagreements-between-the-quebec-government-and-foreign-governments%2F&sa=D&sntz=1&usg=AFQjCNGTpH5F1y-CWViMleSAz9pwiP5BGQ).
+- [FRQNT Merit Scholarship Program for Foreign Students](http://www.google.com/url?q=http%3A%2F%2Fwww.frqnt.gouv.qc.ca%2Fen%2Fbourses-et-subventions%2Fconsulter-les-programmes-remplir-une-demande%2Fbourse%3Fid%3D4xqvxkrz1560964410956&sa=D&sntz=1&usg=AFQjCNFC-bszZ7p3r05xfmo0EdKThBEvRg)
+- [Links to more scholarships](https://www.google.com/url?q=https%3A%2F%2Fwww.universitystudy.ca%2Fplan-for-university%2Fscholarship-opportunities-for-international-students%2F&sa=D&sntz=1&usg=AFQjCNGGebHhaLqNc664razxrPHClu8KOw)
+
+### Funding for undergraduate students (for internship/exchange)
+
+- [IVADO Undergraduate Research Scholarships](https://www.google.com/url?q=https%3A%2F%2Fivado.ca%2Fen%2Fivado-scholarships%2Fundergraduate-research-scholarships%2F&sa=D&sntz=1&usg=AFQjCNE6f9n27E8DhvhNnItix76ohDduew)
+- [Building 21 internship](https://www.google.com/url?q=https%3A%2F%2Fbuilding21.ca%2Fblue-intern&sa=D&sntz=1&usg=AFQjCNHPm5rbdY3gyQIs5dKL_sO2qK6Z8A)
