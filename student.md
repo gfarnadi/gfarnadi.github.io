@@ -2,17 +2,13 @@
 
 # Research Group
 
-
-## Prospective students
-
-Please **do not email** me directly about doing a PhD, masters or internship with me. Unfortunately, I receive hundreds of requests like these and cannot reply individually. If you are interested in doing a PhD, Master or internship with me, please apply first through the [Mila admission website](https://mila.quebec/en/cours/supervision/) and put in your selection there that you are interested in working with me. If your application is succesful and pass the internal evaluation, I will contact you and invite you for an interview.
-
 ## Open Opportunities
-If you are interested in any of these opportunities, please follow the application instructions above.
+If you are interested in any of these opportunities, please follow the application instructions bellow.
 
 - one PhD student (fully funded): January 2022 (Privacy preserving ML and Fairness)
 - one MSc student (fully funded): January 2022 (Reasoning in Deep learning)
 - one PhD student (fully funded): September 2022 (Explainble AI and Fairness)
+- one graduate level internship: Winter 2022/Spring 2022
 
 ## Current students
 
@@ -36,6 +32,28 @@ If you are interested in any of these opportunities, please follow the applicati
 - [Amir Reza](https://amir9ume.github.io/), MSc, UdeM, Fall 2019 (co-supervision with [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/))
 
 
+## Prospective graduate students
+Thank you for considering to join my group! 
+
+I am always looking for students to work with me in the areas of trustworthy machine learning, specifically fairness, privacy, robustness and explianability.
+Note that it's very important that you and I are a good match. Once we start working together, we will be working very closely for at least 2 yrs (for M.Sc.) and 4 years (for Ph.D.).
+
+I hire students at:
+- the [Department of Decision Sciences](https://www.hec.ca/en/decision-sciences/) at [HEC Montreal](https://www.hec.ca/en/)(bussiness school of University of Montreal) 
+- the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/)(DIRO) at [University of Montreal](https://www.umontreal.ca/)
+
+First, check the department's application deadline and make sure the start time you are about to email me for is still feasible. For Fall semester, if you are interested in doing a PhD, Master or internship with me, please apply first through the [Mila admission website](https://mila.quebec/en/cours/supervision/) and put in your selection there that you are interested in working with me. If your application is succesful and pass the internal evaluation, I will contact you and invite you for an interview.
+
+Second, note that it's hard to evaluate your application by just looking at your CV. In your email to express your interest in applying to work with me, please do the following. 
+
+- Highlight **why** you are intrested to work with me. Check my reserach interest and read at least one my recent papers and let me know which paper you read and ask one or more questions that came to your mind when you read it. Feel free to let me know what you liked/disliked about the paper;
+- Highlight any research experience you have (if any);
+- Highlight any scholarships you've been awarded or applied for
+- A copy of your CV and transcripts
+- A copy of a report, article, or paper you wrote (if any). 
+- For students with an advanced degree (e.g., Master's), please mention who your Master's thesis advisor is.
+
+**Note that I receive hundreds of requests like these and unfortnunately I cannot gaurantee to reply individually**. However, I do review what you send me carefully. Please **do not send more than one email**.
 
 ## Funding opportunities
 Below are links to various pages from McGill Graduate and Postdoctoral Studies and the Dept. of ECE, just in case you didn't know the info & opportunities are available. 
