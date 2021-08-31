@@ -8,6 +8,7 @@
 Please **do not email** me directly about doing a PhD, masters or internship with me. Unfortunately, I receive hundreds of requests like these and cannot reply individually. If you are interested in doing a PhD, Master or internship with me, please apply first through the [Mila admission website](https://mila.quebec/en/cours/supervision/) and put in your selection there that you are interested in working with me. If your application is succesful and pass the internal evaluation, I will contact you and invite you for an interview.
 
 ## Open Opportunities
+If you are interested in any of these opportunities, please follow the application instructions above.
 
 - one PhD student (fully funded): January 2022 (Privacy preserving ML and Fairness)
 - one MSc student (fully funded): January 2022 (Reasoning in Deep learning)
