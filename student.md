@@ -46,14 +46,14 @@ First, check the department's application deadline and make sure the start time 
 
 Second, note that it's hard to evaluate your application by just looking at your CV. In your email to express your interest in applying to work with me, please do the following. 
 
-- Highlight **why** you are intrested to work with me. Check my reserach interest and read at least one my recent papers and let me know which paper you read and ask one or more questions that came to your mind when you read it. Feel free to let me know what you liked/disliked about the paper;
+- Highlight **why** you are intrested to work with me. Check my reserach interests and read at least one of my recent papers and let me know which paper you read and ask one or more questions that came to your mind when you read it. Feel free to let me know what you liked/disliked about the paper;
 - Highlight any research experience you have (if any);
 - Highlight any scholarships you've been awarded or applied for
 - A copy of your CV and transcripts
 - A copy of a report, article, or paper you wrote (if any). 
 - For students with an advanced degree (e.g., Master's), please mention who your Master's thesis advisor is.
 
-**Note that I receive hundreds of requests like these and unfortnunately I cannot gaurantee to reply individually**. However, I do review what you send me carefully. Please **do not send more than once**.
+**Note that I receive hundreds of requests like these and unfortnunately I cannot gaurantee to reply individually**. However, I do review what you send me carefully. Please **do not send me an email about your application more than once**.
 
 ## Funding opportunities
 Below are links to various pages from McGill Graduate and Postdoctoral Studies and the Dept. of ECE, just in case you didn't know the info & opportunities are available. 
