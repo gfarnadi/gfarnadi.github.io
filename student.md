@@ -5,10 +5,9 @@
 ## Open Opportunities
 If you are interested in any of these opportunities, please follow the application instructions bellow.
 
-- one PhD student (fully funded): January 2022 (Privacy preserving ML and Fairness)
-- one MSc student (fully funded): January 2022 (Reasoning in Deep learning)
+- one PhD student (fully funded): September 2022 (Privacy preserving ML and Fairness)
+- one MSc student (fully funded): September 2022 (Reasoning in Deep learning)
 - one PhD student (fully funded): September 2022 (Explainble AI and Fairness)
-- one graduate level internship: Winter 2022/Spring 2022
 
 ## Current students
 
