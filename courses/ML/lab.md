@@ -27,7 +27,7 @@ ___
 ___
 4- Week 4 (September 20): **Supervised learning algorithms** 
 - Class summary
-- Exercises (colab)
+- [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_questions.ipynb)
 
 ___
 
