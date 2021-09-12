@@ -10,11 +10,13 @@ To access a guideline that will help you with submitting your homework on grades
 
 ## Capsule Quizes 
 Capsule Quizes are count for 10% of your final grade.
-- Quize 1, due TBD. 
-- Quize 2, due TBD. 
-- Quize 3, due TBD. 
-- Quize 4, due TBD. 
-- Quize 5, due TBD. 
+- Quize 0, on gradescope, September 13. 
+- Quize 1, on gradescope, September 20. 
+- Quize 2, on gradescope, October 4.
+- Quize 3, on gradescope, October 18. 
+- Quize 4, on gradescope, November 1.  
+- Quize 5, on gradescope, November 8.  
+- Quize 6, on gradescope, November 29.   
 
 ## Homework
 Homework assignments are count for 20% of your final grade.
