@@ -10,13 +10,13 @@ To access a guideline that will help you with submitting your homework on grades
 
 ## Capsule Quizes 
 Capsule Quizes are count for 10% of your final grade.
-- Quize 0, on gradescope, September 13. 
-- Quize 1, on gradescope, September 20. 
-- Quize 2, on gradescope, October 4.
-- Quize 3, on gradescope, October 18. 
-- Quize 4, on gradescope, November 1.  
-- Quize 5, on gradescope, November 8.  
-- Quize 6, on gradescope, November 29.   
+- Quize 0, on gradescope, **September 13, 2021**.
+- Quize 1, on gradescope, **September 20, 2021**. 
+- Quize 2, on gradescope, **October 4, 2021**.
+- Quize 3, on gradescope, **October 18, 2021**. 
+- Quize 4, on gradescope, **November 1, 2021**.  
+- Quize 5, on gradescope, **November 8, 2021**.  
+- Quize 6, on gradescope, **November 29, 2021**.   
 
 ## Homework
 Homework assignments are count for 20% of your final grade.
