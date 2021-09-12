@@ -26,13 +26,18 @@ ___
   * [Model Validation](https://www.youtube.com/watch?v=WoFGyFvyoeo) [3:08]
   * [Bias / Variance tradeoff](https://www.youtube.com/watch?v=L5Hehy9s8SI) [11:50]
 - **Reading**:  
-  * [Chapter 5 of Deep Learning](http://www.deeplearningbook.org/contents/ml.html). You can skim 5.4 (except 5.4.4) to 5.10.  
+  * [Chapter 5 of Deep Learning](http://www.deeplearningbook.org/contents/ml.html). You can skip 5.4 (except 5.4.4) to 5.10.  
   
 ___
 4- <span style="font-size:1em;">Week 4 (September 20): **Supervised learning algorithms**</span> 
-- **Lecture**: TBA
-- **Capsules**: TBA
-- **Reading**: TBA
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_supervised.pdf)
+- **Capsules**: 
+  * [Nearest Neighbor](https://youtu.be/wrpB9mxmhJc) [19:05]
+  * [Linear Classification](https://youtu.be/Kv8Ab2I_7CM) [15:26]
+  * [Introduction to Probabilistic Models (for Classification)](https://youtu.be/CnJTkeJpJLY) [11:55]
+  * [The Naive Bayes Model](https://youtu.be/8L2ZM20BdoA) [24:28]
+  * [Naive Bayes Example](https://youtu.be/xg8wZOr6zrY) [9:26]
+- **Reading**: Sections 4.1-4.3, 4.5 of The Elements of Statistical Learning (available [online](https://web.stanford.edu/~hastie/ElemStatLearn/)), Sections 3.5 and 4.2 of Machine Learning (K. Murphy)
 
 ___
 5- <span style="font-size:1em;">Week 5 (September 27): **Python for scientific computations and machine learning**</span> 
