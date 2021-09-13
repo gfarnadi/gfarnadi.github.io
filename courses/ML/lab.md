@@ -22,7 +22,8 @@ ___
 ___
 3- Week 3 (September 13): **Machine learning fundamentals** 
 - Class summary
-- [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week2-Fundamentals/Fundamentals_questions.ipynb), [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_answers.ipynb). If you do not want to use colab, here are the two files you need to download: 1) [Fundamentals_questions.ipynb](https://raw.githubusercontent.com/lcharlin/80-629/master/week2-Fundamentals/Fundamentals_questions.ipynb) OR [Fundamentals_questions.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week2-Fundamentals/Fundamentals_questions.py) AND 2) [utilities.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week2-Fundamentals/utilities.py)
+- [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week2-Fundamentals/Fundamentals_questions.ipynb). If you do not want to use colab, here are the two files you need to download: 1) [Fundamentals_questions.ipynb](https://raw.githubusercontent.com/lcharlin/80-629/master/week2-Fundamentals/Fundamentals_questions.ipynb) OR [Fundamentals_questions.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week2-Fundamentals/Fundamentals_questions.py) AND 2) [utilities.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week2-Fundamentals/utilities.py)
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_answers.ipynb)
 
 ___
 4- Week 4 (September 20): **Supervised learning algorithms** 
