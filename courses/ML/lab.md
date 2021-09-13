@@ -21,7 +21,7 @@ ___
 
 ___
 3- Week 3 (September 13): **Machine learning fundamentals** 
-- Class summary
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week3_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week2-Fundamentals/Fundamentals_questions.ipynb). If you do not want to use colab, here are the two files you need to download: 1) [Fundamentals_questions.ipynb](https://raw.githubusercontent.com/lcharlin/80-629/master/week2-Fundamentals/Fundamentals_questions.ipynb) OR [Fundamentals_questions.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week2-Fundamentals/Fundamentals_questions.py) AND 2) [utilities.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week2-Fundamentals/utilities.py)
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week2-Fundamentals/Fundamentals_answers.ipynb)
 
