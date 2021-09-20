@@ -27,7 +27,7 @@ ___
 
 ___
 4- Week 4 (September 20): **Supervised learning algorithms** 
-- Class summary
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week4_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_questions.ipynb). If you do not want to use colab, here are the two files you need to download: 1) [Fundamentals_questions.ipynb](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/Supervised_questions.ipynb) OR [Fundamentals_questions.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/Supervised_questions.py) AND 2) [utils.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/utils.py)
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_answers.ipynb)
 
