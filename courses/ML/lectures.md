@@ -41,7 +41,8 @@ ___
 
 ___
 5- <span style="font-size:1em;">Week 5 (September 27): **Python for scientific computations and machine learning**</span> 
-- ML Lab 1: TBA
+- ML Lab location: Laboratoire Lachute
+- **Lecture**: [Tutorial](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML.ipynb)
 
 ___
 6- <span style="font-size:1em;">Week 6 (October 4): **Neural networks and deep learning**</span> 
