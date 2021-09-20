@@ -29,12 +29,12 @@ ___
 4- Week 4 (September 20): **Supervised learning algorithms** 
 - Class summary
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_questions.ipynb). If you do not want to use colab, here are the two files you need to download: 1) [Fundamentals_questions.ipynb](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/Supervised_questions.ipynb) OR [Fundamentals_questions.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/Supervised_questions.py) AND 2) [utils.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/utils.py)
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_answers.ipynb)
 
 ___
 
 5- Week 5 (September 27): **Python for scientific computations and machine learning** 
-- Class summary
-- Exercises (colab)
+- [Tutorial](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML.ipynb)
 
 ___
 6- Week 6 (October 4): **Neural networks and deep learning** 
