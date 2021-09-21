@@ -19,8 +19,9 @@ If you are interested in any of these opportunities, please follow the applicati
 - [Kiarash Mohammadi](https://is.mpg.de/person/kmohammadi), MSc, UdeM, Fall 2021
 - [Reecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021
 - [Allison Meyssonnier](), MSc, HEC, Fall 2021 (co-supervision with [Marie-Claude Trudel](https://www.hec.ca/profs/marie-claude.trudel.html))
+- [khaoula chehbouni](), MSc, HEC, Fall 2021 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
+- [Maricarmen Arenas](), MSc, HEC, Fall 2021 (Joint project with [Reihaneh Rabbany](http://www.reirab.com/))
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
-
 
 ### Intern
 - [Maryam Molamohammadi](), Intern, Fall 2021 (co-supervision with [Nicolas Le Roux](http://nicolas.le-roux.name/))
@@ -55,7 +56,7 @@ Second, note that it's hard to evaluate your application by just looking at your
 **Note that I receive hundreds of requests like these and unfortnunately I cannot gaurantee to reply individually**. However, I do review what you send me carefully. Please **do not send me an email about your application more than once**.
 
 ## Funding opportunities
-Below are links to various pages from McGill Graduate and Postdoctoral Studies and the Dept. of ECE, just in case you didn't know the info & opportunities are available. 
+Below are links to various pages on funding opportunities in Montreal, just in case you didn't know the info & opportunities are available. 
 
 ### Funding for Prospective Graduate Students
 
