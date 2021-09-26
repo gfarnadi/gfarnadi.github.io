@@ -46,10 +46,16 @@ ___
 
 ___
 6- <span style="font-size:1em;">Week 6 (October 4): **Neural networks and deep learning**</span> 
-- **Lecture**: TBA
-- **Capsules**: TBA
-- **Reading**: TBA
-
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_nn.pdf)
+- **Capsules**: 
+  * [From linear classification to neural networks](https://youtu.be/Bs6NA2gGz78) [19:28]
+  * [Training neural networks](https://youtu.be/c47a3YxIG7k) [20:14]
+  * [Learning representations](https://youtu.be/N_JU7egyGGA)  [13:40]
+  * [Neural networks hyperparameters](https://youtu.be/5axp1O299qM)  [25:20]
+  * [Neural networks takeaways](https://youtu.be/Nqs-C7wBVQo) [7:00]
+- **Reading**:
+  * Sections [6.1--6.3 and 6.5](http://www.deeplearningbook.org/contents/mlp.html) (stop at 6.5.4) of Deep Learning (the book).  
+  * Optional: Chapter 11 of the Elements of Statistical Learning.
 ___
 7- <span style="font-size:1em;">Week 7 (October 11): No class</span>
 * Holiday in Canada: Thanksgiving
