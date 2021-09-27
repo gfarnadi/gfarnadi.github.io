@@ -85,7 +85,7 @@ ___
 - **Reading**: TBA
 
 ___
-12- <span style="font-size:1em;">Week 12 (November 15): **Trustworthy Machine Learning**</span> 
+12- <span style="font-size:1em;">Week 12 (November 15): **Trustworthy Machine Learning  & Recommender systems**</span> 
 - **Lecture**: TBA
 - **Capsules**: TBA
 - **Reading**: TBA
