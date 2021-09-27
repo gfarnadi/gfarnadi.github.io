@@ -34,7 +34,8 @@ ___
 ___
 
 5- Week 5 (September 27): **Python for scientific computations and machine learning** 
-- [Tutorial](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML.ipynb)
+- [Tutorial (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML.ipynb)
+- [solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML_Solutions.ipynb)
 
 ___
 6- Week 6 (October 4): **Neural networks and deep learning** 
