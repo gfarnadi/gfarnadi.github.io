@@ -57,6 +57,7 @@ ___
 - **Reading**:
   * Sections [6.1--6.3 and 6.5](http://www.deeplearningbook.org/contents/mlp.html) (stop at 6.5.4) of Deep Learning (the book).  
   * Optional: Chapter 11 of the Elements of Statistical Learning.
+
 ___
 7- <span style="font-size:1em;">Week 7 (October 11): No class</span>
 * Holiday in Canada: Thanksgiving
