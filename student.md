@@ -17,7 +17,7 @@ If you are interested in any of these opportunities, please follow the applicati
 
 ### MSc
 - [Kiarash Mohammadi](https://is.mpg.de/person/kmohammadi), MSc, UdeM, Fall 2021
-- [Reecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021
+- [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021
 - [Allison Meyssonnier](), MSc, HEC, Fall 2021 (co-supervision with [Marie-Claude Trudel](https://www.hec.ca/profs/marie-claude.trudel.html))
 - [khaoula chehbouni](), MSc, HEC, Fall 2021 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
 - [Maricarmen Arenas](), MSc, HEC, Fall 2021 (Joint project with [Reihaneh Rabbany](http://www.reirab.com/))
