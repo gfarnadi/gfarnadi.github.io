@@ -66,12 +66,12 @@ ___
 8- <span style="font-size:1em;">Week 8 (October 18): **Recurrent Neural networks and Convolutional neural networks**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rnn-cnn.pdf)
 - **Capsules**: 
-  * Modelling Sequential Data [8:42]
-  * Practical Overview of RNNs [29:32]
-  * RNNs for language modelling [15:13]
-  * Overview of CNNs [13:30]
-  * Convolutions and Pooling [26:00]
-  * Conclusions and Practical remarks [9:17]
+  * [Modelling Sequential Data](https://youtu.be/Ra_n9vJ89wM) [8:42]
+  * [Practical Overview of RNNs](https://youtu.be/2euWyjhO0GM) [29:32]
+  * [RNNs for language modelling](https://youtu.be/K-l8zCBuJbM) [15:13]
+  * [Overview of CNNs](https://youtu.be/EVZOThR2q1I) [13:30]
+  * [Convolutions and Pooling](https://youtu.be/L8tbxFKKoVw) [26:00]
+  * [Conclusions and Practical remarks](https://youtu.be/mA71uUtkcXw) [9:17]
 - **Reading**: Required readings: Sections 10, 10.1, 10.2 (skim 10.2.2, skip 10.2.3), and 10.7. Sections 9, 9.1, 9.2, 9.3 (9.11 for fun). Both from [the Deep Learning book](http://www.deeplearningbook.org/).
 
 ___
