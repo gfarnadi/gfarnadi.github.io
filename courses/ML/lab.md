@@ -35,13 +35,13 @@ ___
 
 5- Week 5 (September 27): **Python for scientific computations and machine learning** 
 - [Tutorial (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML.ipynb)
-- [solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML_Solutions.ipynb)
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML_Solutions.ipynb)
 
 ___
 6- Week 6 (October 4): **Neural networks and deep learning** 
 - Class summary
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_questions.ipynb)
-
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_answers.ipynb)
 ___
 7- Week 7 (October 11): No class
 * Holiday in Canada: Thanksgiving
@@ -49,7 +49,8 @@ ___
 ___
 8- Week 8 (October 18): **Recurrent Neural networks and Convolutional neural networks** 
 - Class summary
-- Exercises (colab)
+- [Exercises RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Questions.ipynb)
+- [Exercises CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Questions.ipynb)
 
 ___
 9- Week 9 (October 25): **Project meetings**
