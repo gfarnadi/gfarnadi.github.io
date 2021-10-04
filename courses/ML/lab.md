@@ -42,6 +42,7 @@ ___
 - Class summary
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_questions.ipynb)
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_answers.ipynb)
+
 ___
 7- Week 7 (October 11): No class
 * Holiday in Canada: Thanksgiving
