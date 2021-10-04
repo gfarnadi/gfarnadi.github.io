@@ -64,9 +64,15 @@ ___
 
 ___
 8- <span style="font-size:1em;">Week 8 (October 18): **Recurrent Neural networks and Convolutional neural networks**</span> 
-- **Lecture**: TBA
-- **Capsules**: TBA
-- **Reading**: TBA
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rnn-cnn.pdf)
+- **Capsules**: 
+  * Modelling Sequential Data [8:42]
+  * Practical Overview of RNNs [29:32]
+  * RNNs for language modelling [15:13]
+  * Overview of CNNs [13:30]
+  * Convolutions and Pooling [26:00]
+  * Conclusions and Practical remarks [9:17]
+- **Reading**: Required readings: Sections 10, 10.1, 10.2 (skim 10.2.2, skip 10.2.3), and 10.7. Sections 9, 9.1, 9.2, 9.3 (9.11 for fun). Both from [the Deep Learning book](http://www.deeplearningbook.org/).
 
 ___
 9- <span style="font-size:1em;">Week 9 (October 25): **Project meetings**</span> 
