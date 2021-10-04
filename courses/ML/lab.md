@@ -39,7 +39,7 @@ ___
 
 ___
 6- Week 6 (October 4): **Neural networks and deep learning** 
-- Class summary
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week5_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_questions.ipynb)
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_answers.ipynb)
 
