@@ -16,7 +16,7 @@ If you are interested in any of these opportunities, please follow the applicati
 - [Dylan Troop](https://www.linkedin.com/in/dtroop/?originalSubdomain=ca), PhD, UdeM, Fall 2021
 
 ### MSc
-- [Kiarash Mohammadi](https://is.mpg.de/person/kmohammadi), MSc, UdeM, Fall 2021
+- [Kiarash Mohammadi](https://sites.google.com/view/kiarashinho), MSc, UdeM, Fall 2021
 - [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021
 - [Allison Meyssonnier](), MSc, HEC, Fall 2021 (co-supervision with [Marie-Claude Trudel](https://www.hec.ca/profs/marie-claude.trudel.html))
 - [khaoula chehbouni](), MSc, HEC, Fall 2021 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
