@@ -29,7 +29,7 @@ Homework assignments are count for 20% of your final grade.
 - Code will be graded according to style in addition to functionality.
 
 #### Assignments
-- [Assignment 1](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/assignments/ML_80629A_Homework_1.pdf): due **November 1**. Upload the PDF to your gradescope account.
+- [Assignment 1](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/assignments/ML_80629A_Homework_1.pdf): due **November 5**. Upload the PDF to your gradescope account.
 - Assignment 2: Case study on Recommender Systems, due TBD. Upload the PDF to your gradescope account.
 
 
