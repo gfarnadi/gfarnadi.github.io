@@ -54,6 +54,7 @@ ___
 - [Exercises CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Questions.ipynb)
 - [Solution RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Answers.ipynb)
 - [Solution CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Answers.ipynb)
+- Optional: if you are intrested to learn more, this [Exercises CNNs: Pytorch (colab)](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/5-CNN.ipynb) is an example of CNNs implemented in [Pytorch](https://pytorch.org/). 
 
 ___
 9- Week 9 (October 25): **Project meetings**
