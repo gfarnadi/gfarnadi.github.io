@@ -52,6 +52,8 @@ ___
 - Class summary
 - [Exercises RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Questions.ipynb)
 - [Exercises CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Questions.ipynb)
+- [Solution RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Answers.ipynb)
+- [Solution CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Answers.ipynb)
 
 ___
 9- Week 9 (October 25): **Project meetings**
@@ -60,7 +62,7 @@ ___
 ___
 10- Week 10 (November 1): **Unsupervised learning** 
 - Class summary
-- Exercises (colab)
+- [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week7-Unsupervised/Unsupervised_questions.ipynb)
 
 ___
 11- Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**
