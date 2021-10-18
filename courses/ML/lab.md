@@ -39,7 +39,7 @@ ___
 
 ___
 6- Week 6 (October 4): **Neural networks and deep learning** 
-- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week5_summary.pdf)
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week6_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_questions.ipynb)
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_answers.ipynb)
 
@@ -49,7 +49,7 @@ ___
 
 ___
 8- Week 8 (October 18): **Recurrent Neural networks and Convolutional neural networks** 
-- Class summary
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week8_summary.pdf)
 - [Exercises RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Questions.ipynb)
 - [Exercises CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Questions.ipynb)
 - [Solution RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Answers.ipynb)
