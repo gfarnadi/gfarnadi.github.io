@@ -22,6 +22,7 @@ If you are interested in any of these opportunities, please follow the applicati
 - [khaoula chehbouni](), MSc, HEC, Fall 2021 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
 - [Maricarmen Arenas](), MSc, HEC, Fall 2021 (Joint project with [Reihaneh Rabbany](http://www.reirab.com/))
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
+- [Jia Ao Sun](), MSc, UdeM, Fall 2020 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
 
 ### Intern
 - [Maryam Molamohammadi](), Intern, Fall 2021 (co-supervision with [Nicolas Le Roux](http://nicolas.le-roux.name/))
