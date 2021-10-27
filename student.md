@@ -20,7 +20,7 @@ If you are interested in any of these opportunities, please follow the applicati
 - [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021
 - [Allison Meyssonnier](), MSc, HEC, Fall 2021 (co-supervision with [Marie-Claude Trudel](https://www.hec.ca/profs/marie-claude.trudel.html))
 - [khaoula chehbouni](), MSc, HEC, Fall 2021 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
-- [Maricarmen Arenas](), MSc, HEC, Fall 2021 (Joint project with [Reihaneh Rabbany](http://www.reirab.com/))
+- [Maricarmen Arenas](), MSc, HEC, Fall 2021 (co-supervision with [Reihaneh Rabbany](http://www.reirab.com/))
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
 - [Jia Ao Sun](), MSc, UdeM, Fall 2020 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
 
