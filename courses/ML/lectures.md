@@ -90,9 +90,11 @@ ___
 
 ___
 11- <span style="font-size:1em;">Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**</span>
-- **Lecture**: TBA
-- **Capsules**: TBA
-- **Reading**: TBA
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_largeScale.pdf)
+- **Capsules**: 
+  * [Introduction to Distributed Computing for ML](https://youtu.be/CtYOBS9pDvg) [19:35]
+  * [MapReduce](https://youtu.be/U3FLRYH3R5Q) [17:41]
+  * [Spark](https://www.youtube.com/watch?v=4gOdejqyHng) [17:37]
 
 ___
 12- <span style="font-size:1em;">Week 12 (November 15): **Trustworthy Machine Learning  & Recommender systems**</span> 
