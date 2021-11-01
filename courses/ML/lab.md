@@ -64,7 +64,7 @@ ___
 10- Week 10 (November 1): **Unsupervised learning** 
 - Class summary
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week7-Unsupervised/Unsupervised_questions.ipynb)
-
+- [Solution (colab](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week7-Unsupervised/Unsupervised_answers.ipynb)
 ___
 11- Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**
 - Class summary
