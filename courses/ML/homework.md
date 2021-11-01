@@ -30,7 +30,7 @@ Homework assignments are count for 20% of your final grade.
 
 #### Assignments
 - [Assignment 1](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/assignments/ML_80629A_Homework_1.pdf), [Data](https://github.com/gfarnadi/gfarnadi.github.io/tree/master/courses/ML/assignments/data): due **November 5, 2021**. Upload the PDF to your gradescope account. 
-- Assignment 2: Case study on Recommender Systems, due TBD. Upload the PDF to your gradescope account.
+- [Assignment 2](http://www.cs.toronto.edu/~lcharlin/courses/80-629/case_Decathlon-preparation.pdf): Case study on Recommender Systems: answer question 1, due **November 14, 2021**. Upload the PDF to your gradescope account.
 
 
 
