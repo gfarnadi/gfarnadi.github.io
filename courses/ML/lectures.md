@@ -86,7 +86,7 @@ ___
   * [K-means clustering](https://youtu.be/9EFWKAQ3TSs) [41:58] (there's a natural break at 22:28)
   * [GMMs for clustering](https://youtu.be/OyK4tX2hjMc) [17:52]
   * [Beyond Clustering](https://youtu.be/zVoi--FTiYk) [14:42]
-- **Reading**: Section 14.3 (skip 14.3.5 and 14.3.12) of the Elements of Statistical Learning. Optional: Pattern Recognition and Machine Learning. 
+- **Reading**: Section 14.3 (skip 14.3.5 and 14.3.12) of the Elements of Statistical Learning. Optional: Chapter 9 of the Pattern Recognition and Machine Learning. 
 
 ___
 11- <span style="font-size:1em;">Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**</span>
