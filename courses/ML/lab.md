@@ -90,11 +90,7 @@ ___
 
 ___
 16- Week 16 (December 13)
-* Reading week
-
-___
-17- Week 17 (December 20)
-* Final exam: TBA
+* December 16: Final exam
 
 ___
 
