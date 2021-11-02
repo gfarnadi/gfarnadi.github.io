@@ -69,22 +69,20 @@ ___
 ___
 11- Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**
 - Class summary
-- Exercises (colab)
 
 ___
 12- Week 12 (November 15): **Trustworthy Machine Learning** 
 - Class summary
-- Exercises (colab)
 
 ___
 13- Week 13 (November 22): **Sequential decision making I** 
 - Class summary
-- Exercises (colab)
+- [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week12-MDPs/value_and_policy_iteration_question.ipynb)
 
 ___
 14- Week 14 (November 29): **Sequential decision making II** 
 - Class summary
-- Exercises (colab)
+- [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Question.ipynb)
 
 ___
 15- Week 15 (December 6): **Class Project presentation**
