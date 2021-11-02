@@ -86,7 +86,7 @@ ___
   * [K-means clustering](https://youtu.be/9EFWKAQ3TSs) [41:58] (there's a natural break at 22:28)
   * [GMMs for clustering](https://youtu.be/OyK4tX2hjMc) [17:52]
   * [Beyond Clustering](https://youtu.be/zVoi--FTiYk) [14:42]
-- **Reading**: Section 14.3 (skip 14.3.5 and 14.3.12) of the Elements of Statistical Learning.
+- **Reading**: Section 14.3 (skip 14.3.5 and 14.3.12) of the Elements of Statistical Learning. Optional: Pattern Recognition and Machine Learning. 
 
 ___
 11- <span style="font-size:1em;">Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**</span>
@@ -127,6 +127,7 @@ ___
 ___
 16- <span style="font-size:1em;">Week 16 (December 13)</span>
 * December 16: Final exam 
+* Past exam examples: [Fall 2018](http://www.cs.toronto.edu/~lcharlin/courses/80-629/exam_80629_A18.pdf), [Automne 2020](http://www.cs.toronto.edu/~lcharlin/courses/80-629/examen_80629_A20.pdf) (French)
 
 
 
