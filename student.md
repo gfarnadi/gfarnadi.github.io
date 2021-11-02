@@ -7,7 +7,6 @@ If you are interested in any of these opportunities, please follow the applicati
 
 - one PhD student (fully funded): September 2022 (Privacy preserving ML and Fairness)
 - one MSc student (fully funded): September 2022 (Reasoning in Deep learning)
-- one PhD student (fully funded): September 2022 (Explainble AI and Fairness)
 
 ## Current students
 
