@@ -120,11 +120,7 @@ ___
 
 ___
 16- <span style="font-size:1em;">Week 16 (December 13)</span>
-* Reading week
+* December 16: Final exam 
 
-___
-17- <span style="font-size:1em;">Week 17 (December 20)</span>
-* Final exam: TBA
 
-___
 
