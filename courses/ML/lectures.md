@@ -126,7 +126,7 @@ ___
 
 ___
 16- <span style="font-size:1em;">Week 16 (December 13)</span>
-* December 16: Final exam 
+* **December 16 (9-12): Final exam**
 * Past exam examples: [Fall 2018](http://www.cs.toronto.edu/~lcharlin/courses/80-629/exam_80629_A18.pdf), [Fall 2020](http://www.cs.toronto.edu/~lcharlin/courses/80-629/examen_80629_A20.pdf) (French)
 
 
