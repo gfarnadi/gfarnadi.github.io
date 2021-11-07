@@ -122,7 +122,7 @@ ___
 
 ___
 15- <span style="font-size:1em;">Week 15 (December 6): **Class Project presentation**</span>
-* Room: TBA
+* Room: Manuvie
 
 ___
 16- <span style="font-size:1em;">Week 16 (December 13)</span>
