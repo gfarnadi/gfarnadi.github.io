@@ -68,7 +68,7 @@ ___
 
 ___
 11- Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**
-- [Class summary]()
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week11_summary.pdf)
 - [Example (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week10-ParallelComputations/CPU_GPU_TPU.ipynb)
 
 ___
