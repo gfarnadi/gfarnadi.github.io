@@ -99,7 +99,7 @@ ___
 ___
 12- <span style="font-size:1em;">Week 12 (November 15): **Trustworthy Machine Learning  & Recommender systems**</span> 
 - **Lecture**: TBA
-- **Reading**: Chapters 1-4, Aggarwal, Charu C. [Recommender Systems: the Textbook](https://hecmontreal.on.worldcat.org/v2/oclc/946011635). Cham: Springer, 2016
+- **Reading**: Chapters 1 through 4, Aggarwal, Charu C. [Recommender Systems: the Textbook](https://hecmontreal.on.worldcat.org/v2/oclc/946011635). Cham: Springer, 2016
 
 ___
 13- <span style="font-size:1em;">Week 13 (November 22): **Sequential decision making I**</span> 
