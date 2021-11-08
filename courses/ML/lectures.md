@@ -109,7 +109,7 @@ ___
   * [Planning with MDPs](https://youtu.be/FwQQCSL5I_Y) [12:16]
   * [MDP objective](https://youtu.be/3vX-J61A8NQ) [14:16]
   * [Algorithms for solving MDPs](https://youtu.be/HBTyOjt4QBk) [17:51]: Note: In this capsule, there is a mistake in the second equation of the policy iteration algorithm (the transition should be given a and not π(s)), the slides have been corrected (see slides 47 and 48)
-- **Reading**: Optional: Demo of the policy iteration algorithm (from Andrej Karpathy)
+- **Reading**: Optional: [Demo of the policy iteration algorithm](https://www.cs.toronto.edu/~lcharlin/courses/80-629/reinforcejs/gridworld_dp.html) (from Andrej Karpathy)
 
 ___
 14- <span style="font-size:1em;">Week 14 (November 29): **Sequential decision making II**</span> 
@@ -118,7 +118,7 @@ ___
   * [Introduction to RL](https://www.youtube.com/watch?v=VnZ4558bXys) [13:31]
   * [A first RL algorithm](https://www.youtube.com/watch?v=EYeACgMxHVk) [17:13]
   * [RL Algorithms for Control](https://www.youtube.com/watch?v=PeGnFc5S-f4) [21:10]
-- **Reading**: Required reading: Sections 1 through 4 from this [Survey](https://www.jair.org/index.php/jair/article/download/10166/24110/), Chapters 1,3,4, and 6 from Reinforcement Learning: An Introduction. Optional: Demo of the TD algorithm (from Andrej Karpathy)
+- **Reading**: Required reading: Sections 1 through 4 from this [Survey](https://www.jair.org/index.php/jair/article/download/10166/24110/), Chapters 1,3,4, and 6 from [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). Optional: [Demo of the TD algorithm](https://www.cs.toronto.edu/~lcharlin/courses/80-629/reinforcejs/gridworld_td.html) (from Andrej Karpathy)
 
 ___
 15- <span style="font-size:1em;">Week 15 (December 6): **Class Project presentation**</span>
