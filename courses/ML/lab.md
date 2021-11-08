@@ -68,7 +68,8 @@ ___
 
 ___
 11- Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**
-- Class summary
+- [Class summary]()
+- [Example (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week10-ParallelComputations/CPU_GPU_TPU.ipynb)
 
 ___
 12- Week 12 (November 15): **Trustworthy Machine Learning** 
