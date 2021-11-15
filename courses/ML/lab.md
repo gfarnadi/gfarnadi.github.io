@@ -73,7 +73,7 @@ ___
 
 ___
 12- Week 12 (November 15): **Trustworthy Machine Learning** 
-- Class summary
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week12_summary.pdf)
 
 ___
 13- Week 13 (November 22): **Sequential decision making I** 
