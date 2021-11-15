@@ -98,7 +98,7 @@ ___
 
 ___
 12- <span style="font-size:1em;">Week 12 (November 15): **Trustworthy Machine Learning  & Recommender systems**</span> 
-- **Lecture**: TBA
+- **Lecture**: [slides](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week12_summary.pdf)
 - **Reading**: Chapters 1 through 4, Aggarwal, Charu C. [Recommender Systems: the Textbook](https://hecmontreal.on.worldcat.org/v2/oclc/946011635). Cham: Springer, 2016
 
 ___
