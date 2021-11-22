@@ -77,8 +77,9 @@ ___
 
 ___
 13- Week 13 (November 22): **Sequential decision making I** 
-- Class summary
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week13_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week12-MDPs/value_and_policy_iteration_question.ipynb)
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week12-MDPs/value_and_policy_iteration_solution.ipynb)
 
 ___
 14- Week 14 (November 29): **Sequential decision making II** 
