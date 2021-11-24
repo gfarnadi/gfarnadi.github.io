@@ -7,6 +7,7 @@ If you are interested in any of these opportunities, please follow the applicati
 
 - one PhD student (fully funded): September 2022 (Privacy preserving ML and Fairness)
 - one MSc student (fully funded): September 2022 (Reasoning in Deep learning)
+- research internship
 
 ## Current students
 
@@ -42,7 +43,7 @@ I hire students at:
 - the [Department of Decision Sciences](https://www.hec.ca/en/decision-sciences/) at [HEC Montreal](https://www.hec.ca/en/)(bussiness school of University of Montreal) 
 - the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/)(DIRO) at [University of Montreal](https://www.umontreal.ca/)
 
-First, check the department's application deadline and make sure the start time you are about to email me for is still feasible. For Fall semester, if you are interested in doing a PhD, Master or internship with me, please apply first through the [Mila admission website](https://mila.quebec/en/cours/supervision/) and put in your selection there that you are interested in working with me. If your application is succesful and pass the internal evaluation, I will contact you and invite you for an interview.
+First, check the department's application deadline and make sure the start time you are about to email me for is still feasible. For Fall semester, if you are interested in doing a PhD, Master or internship with me, please apply **first** through the [Mila admission website](https://mila.quebec/en/cours/supervision/) and put in your selection there that you are interested in working with me (Deadline December 1, 2021). If your application is succesful and pass the internal evaluation, I will contact you and invite you for an interview.
 
 Second, note that it's hard to evaluate your application by just looking at your CV. In your email to express your interest in applying to work with me, please do the following. 
 
