@@ -12,10 +12,10 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - Indiviual report: 1%
 
 ### Project Presentation (10%)
-- Clarity of presentation: 10%
+- Clarity of presentation: 3%
 - Slide or Poster quality: 2%
-- Correctness: 3%
-- Answers to questions: 1%
+- Correctness: 2%
+- Answers to questions: 3%
 
 ## Timeline
 - [Team Registration](https://forms.gle/h4ENWMNdGgpeMncs7), due: **September 20, 2021**. Fill this [form](https://forms.gle/h4ENWMNdGgpeMncs7).
