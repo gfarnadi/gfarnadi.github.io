@@ -92,7 +92,7 @@ ___
 
 ___
 16- Week 16 (December 13)
-* **December 16 (9-12): Final exam**
+* **December 16 (9 am - 12 pm): Final exam**
 
 ___
 
