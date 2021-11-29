@@ -88,7 +88,7 @@ ___
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Solution.ipynb)
 ___
 15- Week 15 (December 6): **Class Project presentation**
-* Room: TBA
+* Room: Manuvie
 
 ___
 16- Week 16 (December 13)
