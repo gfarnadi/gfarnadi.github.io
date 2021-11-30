@@ -13,25 +13,24 @@ If you are interested in any of these opportunities, please follow the applicati
 
 ### PhD
 - [William St-Arnaud](), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
-- [Dylan Troop](https://www.linkedin.com/in/dtroop/?originalSubdomain=ca), PhD, UdeM, Fall 2021
 
 ### MSc
+- [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
 - [Kiarash Mohammadi](https://sites.google.com/view/kiarashinho), MSc, UdeM, Fall 2021
 - [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021
 - [Allison Meyssonnier](), MSc, HEC, Fall 2021 (co-supervision with [Marie-Claude Trudel](https://www.hec.ca/profs/marie-claude.trudel.html))
 - [khaoula chehbouni](), MSc, HEC, Fall 2021 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
 - [Maricarmen Arenas](), MSc, HEC, Fall 2021 (co-supervision with [Reihaneh Rabbany](http://www.reirab.com/))
-- [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
 - [Jia Ao Sun](), MSc, UdeM, Fall 2020 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
 
-### Intern
+### Research Intern
 - [Maryam Molamohammadi](), Intern, Fall 2021 (co-supervision with [Nicolas Le Roux](http://nicolas.le-roux.name/))
 - [Sikha Pentyala](), Intern, Fall 2021 (co-supervision with [Martine De Cock](http://faculty.washington.edu/mdecock/))
 - [Aisha Alaagib](), Intern, Fall 2021 (co-supervision with [Ulrich Aivodji](https://aivodji.github.io/))
 
 ## Previous students
-- [Amir Reza](https://amir9ume.github.io/), MSc, UdeM, Fall 2019 (co-supervision with [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/))
-
+- [Amir Reza](https://amir9ume.github.io/), MSc, UdeM, Fall 2019 - Fall 2021 (co-supervision with [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/))
+- [Dylan Troop](https://www.linkedin.com/in/dtroop/?originalSubdomain=ca), Intern, Fall 2021
 
 ## Prospective graduate students
 Thank you for considering to join my group! 
