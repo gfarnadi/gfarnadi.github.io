@@ -7,15 +7,15 @@
 
 **Machine Learning 1 (Winter 2022), HEC Montreal/Mila**
 
-- All materials and details are avaialble at the [machine learning course](courses/MLW2022/main.md).
+- All materials and details are avaialble at the [machine learning course webpage: Winter 2022](courses/MLW2022/main.md).
 
 **Machine Learning 1 (Fall 2021), HEC Montreal/Mila**
 
-- All materials and details are avaialble at the [machine learning course](courses/ML/main.md).
+- All materials and details are avaialble at the [machine learning course webpage: Fall 2021](courses/ML/main.md).
 
 **Data Science (Fall 2019), Mila**
 
-- All materials and details are avaialble at the [data science course](https://ift6758.github.io/).
+- All materials and details are avaialble at the [data science course webpage: Fall 2019](https://ift6758.github.io/).
 
 ## Teaching Assistant
 
