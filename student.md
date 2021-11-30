@@ -5,7 +5,7 @@
 ## Open Opportunities
 If you are interested in any of these opportunities, please follow the application instructions bellow.
 
-- one PhD student (fully funded): September 2022 (Privacy and Fairness in Federated Learning)
+- one/two PhD students (fully funded): September 2022 (Privacy and Fairness in Federated Learning)
 - one research internship position (fully funded): Spring 2022 (Reasoning in Deep learning)
 - one/two research internship positions (fully funded): Spring/Summer 2022 (Fairness, Privacy, Robustness, and Explainability in DL)
 
