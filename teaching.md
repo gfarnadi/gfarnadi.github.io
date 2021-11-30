@@ -7,7 +7,7 @@
 
 **Machine Learning 1 (Winter 2022), HEC Montreal/Mila**
 
-- All materials and details are avaialble at the [machine learning course](courses/ML/main.md).
+- All materials and details are avaialble at the [machine learning course](courses/MLW2022/main.md).
 
 **Machine Learning 1 (Fall 2021), HEC Montreal/Mila**
 
