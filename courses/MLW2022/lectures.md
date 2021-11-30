@@ -81,11 +81,11 @@ ___
 - No lectures
 
 ___
-9- <span style="font-size:1em;">Week 8 (March 2): **Project meetings**</span> 
+9- <span style="font-size:1em;">Week 9 (March 2): **Project meetings**</span> 
 - No lectures
 
 ___
-10- <span style="font-size:1em;">Week 11 (March 9): **Parallel computational paradigms for large-scale data processing**</span>
+10- <span style="font-size:1em;">Week 10 (March 9): **Parallel computational paradigms for large-scale data processing**</span>
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_largeScale.pdf)
 - **Capsules**: 
   * [Introduction to Distributed Computing for ML](https://youtu.be/CtYOBS9pDvg) [19:35]
@@ -93,12 +93,12 @@ ___
   * [Spark](https://www.youtube.com/watch?v=4gOdejqyHng) [17:37]
 
 ___
-11- <span style="font-size:1em;">Week 12 (March 16): **Trustworthy Machine Learning  & Recommender systems**</span> 
+11- <span style="font-size:1em;">Week 11 (March 16): **Trustworthy Machine Learning  & Recommender systems**</span> 
 - **Lecture**: [slides](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week12_summary.pdf)
 - **Reading**: Chapters 1 through 4, Aggarwal, Charu C. [Recommender Systems: the Textbook](https://hecmontreal.on.worldcat.org/v2/oclc/946011635). Cham: Springer, 2016
 
 ___
-12- <span style="font-size:1em;">Week 13 (March 23): **Sequential decision making I**</span> 
+12- <span style="font-size:1em;">Week 12 (March 23): **Sequential decision making I**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rl.pdf)
 - **Capsules**: 
   * [Motivating RL](https://youtu.be/V2WrKWyiPoQ) [8:22]
@@ -108,7 +108,7 @@ ___
 - **Reading**: Optional: [Demo of the policy iteration algorithm](https://www.cs.toronto.edu/~lcharlin/courses/80-629/reinforcejs/gridworld_dp.html) (from Andrej Karpathy)
 
 ___
-13- <span style="font-size:1em;">Week 14 (April 2): **Sequential decision making II**</span> 
+13- <span style="font-size:1em;">Week 13 (April 2): **Sequential decision making II**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rl2.pdf)
 - **Capsules**: 
   * [Introduction to RL](https://www.youtube.com/watch?v=VnZ4558bXys) [13:31]
@@ -117,11 +117,11 @@ ___
 - **Reading**: Required reading: Sections 1 through 4 from this [Survey](https://www.jair.org/index.php/jair/article/download/10166/24110/), Chapters 1,3,4, and 6 from [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). Optional: [Demo of the TD algorithm](https://www.cs.toronto.edu/~lcharlin/courses/80-629/reinforcejs/gridworld_td.html) (from Andrej Karpathy)
 
 ___
-14- <span style="font-size:1em;">Week 15 (April 9): **Class Project presentation**</span>
+14- <span style="font-size:1em;">Week 14 (April 9): **Class Project presentation**</span>
 * Room: TPA
 
 ___
-15- <span style="font-size:1em;">Week 16 (April 16):  **Reading week** </span>
+15- <span style="font-size:1em;">Week 15 (April 16):  **Reading week** </span>
 * No lectures
 
 ___
