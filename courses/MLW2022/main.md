@@ -36,6 +36,8 @@ Your final score for the course will be computed using the following weights:
 - [Project presentation](project.md) (10%)
 - Final Exam (30%)
 
+ATTENTION regarding fraud and plagiarism: The HEC Montreal has a strict policy in case of fraud or plagiarism. If an infraction is found, the professor is required to report to the director of the department. An administrative procedure is then automatically triggered with the following consequences: the offense is noted in your file, and a sanction is decided (which can be serious and go to dismissal in case of recidivism). It is important that you do the work yourself!
+
 ## Reading
 1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), Second Edition Hastie, Trevor, Tibshirani, Robert, Friedman, Jerome, 2009 [ESL]
 2. [Deep Learning](http://deeplearningbook.org/). Ian Goodfellow, Yoshua Bengio and, Aaron Courville. [DL]
