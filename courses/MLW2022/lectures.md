@@ -4,7 +4,7 @@
 ## Lecture Schedule
 ___
 1- <span style="font-size:1em;">Week 1 (January 5): **Class introduction and math review**</span>
-- **Lecture**: [Slides](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/slides_intro.pdf)
+- **Lecture**: [Slides]()
 - **Reading**: 
   * [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
   * [Chapter 1 of ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
