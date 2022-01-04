@@ -14,6 +14,7 @@ Due to the hybrid nature of the semester, this course will be given as a [flippe
 - Wednesdays 8:30 am - 11:30 am
 - room: TBA
 - online: TBA
+
 ## Feedback
 Please use this [form](https://forms.gle/VVNQogf2fBi9tKq38) to provide feedback about the course.
 
@@ -25,7 +26,7 @@ For the programming assignments and the project, Python programming will be assu
 - [HEC CAM]() offers introductory python courses in September (currently only in French). Register at [CAM registration](https://inscription.hec.ca/cams/).
 - [Fall 2018 tutorial](http://www.cs.toronto.edu/~lcharlin/courses/80-629/tutorial_f18.html). This will give you an idea of the level that is expected for this course.  
 
-Further a machine-learning tutorial using python will be provided on [week #5](lectures.md).
+Further a machine-learning tutorial using python will be provided on [week #4](lectures.md).
 
 ## Grading
 Your final score for the course will be computed using the following weights:
