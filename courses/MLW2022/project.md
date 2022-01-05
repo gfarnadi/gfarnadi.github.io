@@ -18,13 +18,13 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - Answers to questions: 3%
 
 ## Timeline
-- [Team Registration](https://forms.gle/h4ENWMNdGgpeMncs7), due: **TBA**. Fill this [form]().
-- [Study plan](assignments/Project%20assignment%201_study%20plan.pdf), due: **TBA** (by the end of the day EDT). Upload the PDF of the proposal to [gradescope](https://www.gradescope.com/courses/301346) by the head of the team.
-- Project meeting, **October 25, 2021** 
-- [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **TBA**. Upload the PDF of your poster/slides to [gradescope](https://www.gradescope.com/courses/301346) by the head of the team.
+- [Team Registration](), due: **January 26, 2022**. Fill this [form]().
+- [Study plan](assignments/Project%20assignment%201_study%20plan.pdf), due: **February 27, 2022** (by the end of the day EDT). Upload the PDF of the proposal to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team.
+- Project meeting, **March 2, 2022** 
+- [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **TBA**. Upload the PDF of your poster/slides to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team.
 - In-class Presentation, on **December 6, 2021**.
-- [Final group report](assignments/Project%20assignment%203_group%20report.pdf), due: **TBA** (by the end of the day EDT). Upload the PDF of the final group report to [gradescope](https://www.gradescope.com/courses/301346) by the head of the team. And Upload the PDF of the final group report to [gradescope](https://www.gradescope.com/courses/301346) by the head of the team
-- [Final individual report](assignments/Project%20assignment%204_individual%20report.pdf), due: **TBA** (by the end of the day EDT). Upload the PDF of the final individual report to [gradescope](https://www.gradescope.com/courses/301346) (per each team member).
+- [Final group report](assignments/Project%20assignment%203_group%20report.pdf), due: **April 9, 2022** (by the end of the day EDT). Upload the PDF of the final group report to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team. And Upload the PDF of the final group report to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team
+- [Final individual report](assignments/Project%20assignment%204_individual%20report.pdf), due: **April 9, 2022** (by the end of the day EDT). Upload the PDF of the final individual report to [gradescope](https://www.gradescope.ca/courses/6006) (per each team member).
 
 ## Goals
 
@@ -36,7 +36,7 @@ Your study should involve reading and understanding some background material. Yo
 
 **Alternatively**: You could decide to participate in this open challenge: ML Reproducibility Challenge 2020. Let me know as soon as possible if you are interested in this.
 
-**Study plan**: (1 upload per team) Please submit a one-page summary of your proposed research question and study to [Gradescope](https://www.gradescope.com/courses/301346). I will meet with each group to discuss study plans during the lecture of **October 25**. I will send you a schedule the day before. We will probably only have about 15 minutes so please make sure that your study plan is clear and precise. You may also include questions that you would like us to discuss at the end of the document.
+**Study plan**: (1 upload per team) Please submit a one-page summary of your proposed research question and study to [Gradescope](https://www.gradescope.ca/courses/6006). I will meet with each group to discuss study plans during the lecture of **March 2, 2022**. I will send you a schedule the day before. We will probably only have about 15 minutes so please make sure that your study plan is clear and precise. You may also include questions that you would like us to discuss at the end of the document.
 
 **The group report**: (1 upload per team) Your report must contain a description of the question you are trying to answer, a clear description of the model/algorithm you are studying, a survey of related work which proper references, an empirical section that reports your results, and a conclusion that summarizes your findings and (if pertinent) highlights possible future directions of investigation. Your report should be no longer than 10 pages in length (plus references) for pairs or 13 pages (plus references) for teams of three.
 
