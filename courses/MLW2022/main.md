@@ -13,7 +13,7 @@ Due to the hybrid nature of the semester, this course will be given as a [flippe
 ## Time & room
 - Wednesdays 8:30 am - 11:30 am
 - room: TBA
-- online: TBA
+- online: [Zoom link](https://hecmontreal.zoom.us/j/82539413348?pwd=QUlyRHd3WXlYOTZvclB6UzlpL1JCQT09) Rooms are password-protected. Reach out to me by email if you need the password.
 
 ## Feedback
 Please use this [form](https://forms.gle/VVNQogf2fBi9tKq38) to provide feedback about the course.
