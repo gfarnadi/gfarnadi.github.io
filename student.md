@@ -14,6 +14,7 @@ If you are interested in any of these opportunities, please follow the applicati
 ### PhD
 - [William St-Arnaud](), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 - [Aisha Alaagib](), PhD, UdeM, Fall 2022 (co-supervision with [Ulrich Aivodji](https://aivodji.github.io/))
+- [Raesetje Sefala](https://sefalab.github.io/), PhD, McGill, Fall 2022 (co-supervision with [Ajung Moon](https://www.ajungmoon.com/))
 
 ### MSc
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
