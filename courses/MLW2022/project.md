@@ -18,7 +18,7 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - Answers to questions: 3%
 
 ## Timeline
-- [Team Registration](), due: **January 26, 2022**. Fill this [form]().
+- [Team Registration](https://forms.gle/K3HjNaBoJjTvbm5z8), due: **January 26, 2022**. Fill this [form](https://forms.gle/K3HjNaBoJjTvbm5z8).
 - [Study plan](assignments/Project%20assignment%201_study%20plan.pdf), due: **February 27, 2022** (by the end of the day EDT). Upload the PDF of the proposal to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team.
 - Project meeting, **March 2, 2022** 
 - [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **April 9, 2022**. Upload the PDF of your poster/slides to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team.
