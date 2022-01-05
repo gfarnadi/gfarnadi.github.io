@@ -28,7 +28,7 @@ The full list is avaialble at [teaching](teaching.md).
 
 - (December 21) Three workshop papers from our lab got accepted at AAAI2022!
 
-- (December ) I organized the 2nd edition of the Neurips workshop on Algorithmic Fairness through the Lens of Causality and Robustness, online, [more info](https://www.afciworkshop.org/)
+- (December 13) I organized the 2nd edition of the Neurips workshop on Algorithmic Fairness through the Lens of Causality and Robustness, online, [more info](https://www.afciworkshop.org/)
 
 - (August 19) I've been invited as a panelist at **VLDB 2021 roundtable session on Responsible AI Systems and Experiences**, online, [more info](https://vldb.org/2021/?program-schedule-roundtable)
 
