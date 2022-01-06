@@ -108,7 +108,7 @@ ___
 - **Reading**: Optional: [Demo of the policy iteration algorithm](https://www.cs.toronto.edu/~lcharlin/courses/80-629/reinforcejs/gridworld_dp.html) (from Andrej Karpathy)
 
 ___
-13- <span style="font-size:1em;">Week 13 (April 2): **Sequential decision making II**</span> 
+13- <span style="font-size:1em;">Week 13 (March 30): **Sequential decision making II**</span> 
 - **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rl2.pdf)
 - **Capsules**: 
   * [Introduction to RL](https://www.youtube.com/watch?v=VnZ4558bXys) [13:31]
@@ -117,15 +117,15 @@ ___
 - **Reading**: Required reading: Sections 1 through 4 from this [Survey](https://www.jair.org/index.php/jair/article/download/10166/24110/), Chapters 1,3,4, and 6 from [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). Optional: [Demo of the TD algorithm](https://www.cs.toronto.edu/~lcharlin/courses/80-629/reinforcejs/gridworld_td.html) (from Andrej Karpathy)
 
 ___
-14- <span style="font-size:1em;">Week 14 (April 9): **Class Project presentation**</span>
+14- <span style="font-size:1em;">Week 14 (April 6): **Class Project presentation**</span>
 * Room: TPA
 
 ___
-15- <span style="font-size:1em;">Week 15 (April 16):  **Reading week** </span>
+15- <span style="font-size:1em;">Week 15 (April 13):  **Reading week** </span>
 * No lectures
 
 ___
-16- <span style="font-size:1em;">Week 16 (April 23)</span>
+16- <span style="font-size:1em;">Week 16 (April 20)</span>
 * Final exam: TBA
 * Past exam examples: [Fall 2018](http://www.cs.toronto.edu/~lcharlin/courses/80-629/exam_80629_A18.pdf), [Fall 2020](http://www.cs.toronto.edu/~lcharlin/courses/80-629/examen_80629_A20.pdf) (French)
 
