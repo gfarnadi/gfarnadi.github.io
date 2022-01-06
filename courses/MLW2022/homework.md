@@ -29,8 +29,7 @@ Homework assignments are count for 20% of your final grade.
 - Code will be graded according to style in addition to functionality.
 
 #### Assignments
-- [Assignment 1](), [Data](): due **February 21, 2022
-**.. Upload the PDF to your gradescope account. 
+- [Assignment 1](), [Data](): due **February 21, 2022**.. Upload the PDF to your gradescope account. 
 - [Assignment 2](http://www.cs.toronto.edu/~lcharlin/courses/80-629/case_Decathlon-preparation.pdf): Case study on Recommender Systems: answer question 1, due **March 14, 2022**.. Upload the PDF to your gradescope account.
 
 
