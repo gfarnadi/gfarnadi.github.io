@@ -84,11 +84,7 @@ ___
 * Room: TBA
 
 ___
-15- Week 15 (April 16): **Reading week**
-* No hands-on
-___
-
-16- Week 16 (April 23)
+15- Week 15 (April 16): 
 * Final exam: TBA
 
 ___
