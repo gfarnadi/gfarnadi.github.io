@@ -37,7 +37,7 @@ ___
 5- Week 5 (February 2): **Neural networks and deep learning** 
 - [Class summary]
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_questions.ipynb)
-
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML_Solutions.ipynb)
 
 ___
 6- Week 6 (February 9): **Recurrent Neural networks and Convolutional neural networks** 
