@@ -16,7 +16,7 @@ Capsule Quizes are count for 10% of your final grade.
 - Quize 3, on gradescope, **February 9, 2022**. 
 - Quize 4, on gradescope, **February 16, 2022**.  
 - Quize 5, on gradescope, **March 9, 2022**.  
-- Quize 6, on gradescope, **April 2, 2022**. 
+- Quize 6, on gradescope, **March 30, 2022**. 
 
 ## Homework
 Homework assignments are count for 20% of your final grade.
