@@ -35,7 +35,7 @@ ___
 
 ___
 5- Week 5 (February 2): **Neural networks and deep learning** 
-- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week4_summary.pdf)
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week5_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_questions.ipynb)
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_answers.ipynb)
 
