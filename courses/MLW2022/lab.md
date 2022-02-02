@@ -31,13 +31,13 @@ ___
 
 4- Week 4 (January 26): **Python for scientific computations and machine learning** 
 - [Tutorial (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML.ipynb)
-
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML_Solutions.ipynb)
 
 ___
 5- Week 5 (February 2): **Neural networks and deep learning** 
-- [Class summary]
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week4_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_questions.ipynb)
-- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML_Solutions.ipynb)
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_answers.ipynb)
 
 ___
 6- Week 6 (February 9): **Recurrent Neural networks and Convolutional neural networks** 
