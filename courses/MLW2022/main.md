@@ -12,7 +12,7 @@ Due to the hybrid nature of the semester, this course will be given as a [flippe
 
 ## Time & room
 - Wednesdays 8:30 am - 11:30 am
-- room: TBA
+- room: [Salle Cogeco](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/cogeco.html). This classroom is located on the 1st floor of Côte-Sainte-Catherine building.
 - online: [Zoom link](https://hecmontreal.zoom.us/j/82539413348?pwd=QUlyRHd3WXlYOTZvclB6UzlpL1JCQT09) Rooms are password-protected. Reach out to me by email if you need the password.
 
 ## Feedback
