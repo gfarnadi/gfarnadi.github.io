@@ -41,9 +41,12 @@ ___
 
 ___
 6- Week 6 (February 9): **Recurrent Neural networks and Convolutional neural networks** 
-- [Class summary]
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week6_summary.pdf)
 - [Exercises RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Questions.ipynb)
 - [Exercises CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Questions.ipynb)
+- [Solution RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Answers.ipynb)
+- [Solution CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Answers.ipynb)
+
 - Optional: if you are intrested to learn more, this [Exercises CNNs: Pytorch (colab)](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/5-CNN.ipynb) is an example of CNNs implemented in [Pytorch](https://pytorch.org/). 
 
 ___
