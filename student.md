@@ -6,7 +6,7 @@
 If you are interested in any of these opportunities, please follow the application instructions bellow.
 
 - one research internship position (fully funded) (Reasoning in Deep learning)
-- one/two research internship positions (fully funded) (Fairness and Privacy in DL)
+- one research internship position (fully funded) (Explainability and Fairness in Deep learning)
 
 ## Current students
 
