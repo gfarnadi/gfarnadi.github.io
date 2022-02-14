@@ -16,6 +16,7 @@ If you are interested in any of these opportunities, please follow the applicati
 - [Raesetje Sefala](https://sefalab.github.io/), PhD, McGill, Fall 2022 (co-supervision with [AJung Moon](https://www.ajungmoon.com/))
 
 ### MSc
+- [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022
 - [Armin Moradi](), MSc, UdeM, Fall 2022
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
 - [Kiarash Mohammadi](https://sites.google.com/view/kiarashinho), MSc, UdeM, Fall 2021
