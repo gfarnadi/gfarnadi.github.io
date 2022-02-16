@@ -47,13 +47,13 @@ ___
 - [Solution RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Answers.ipynb)
 - [Solution CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Answers.ipynb)
 
-- Optional: if you are intrested to learn more, this [Exercises CNNs: Pytorch (colab)](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/5-CNN.ipynb) is an example of CNNs implemented in [Pytorch](https://pytorch.org/). 
+- Optional: if you are intrested to learn more, this [Exercises CNNs: Pytorch (colab)](https://towardsdatascience.com/pytorch-basics-how-to-train-your-neural-net-intro-to-cnn-26a14c2ea29) is an example of CNNs implemented in [Pytorch](https://pytorch.org/). 
 
 ___
 7- Week 7 (February 16): **Unsupervised learning** 
-- [Class summary]
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week7_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week7-Unsupervised/Unsupervised_questions.ipynb)
-
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week7-Unsupervised/Unsupervised_answers.ipynb)
 
 ___
 8- Week 8 (February 23): **Reading week**
