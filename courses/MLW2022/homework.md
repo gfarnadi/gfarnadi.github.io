@@ -33,7 +33,7 @@ Homework assignments are count for 20% of your final grade.
 
 * [Assignment 1: Questions](https://colab.research.google.com/drive/1g6ortSAJqQpllIi1mBIhK5Lv3qhgy7-n)
 * [Assignment 1: Data](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/assignments/data/pollution.csv)
-* [Assignment 1: Data Description file](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/assignments/data/pollution.txt)
+* [Assignment 1: Data Description](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/assignments/data/pollution.txt)
 * [Assignment 1: Homework Instruction](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/assignments/HW-1-Instructions.pdf)
 
 - **Assignment 2**: Case study on Recommender Systems: answer question 1, due **March 14, 2022**.. Upload the PDF to your gradescope account.
