@@ -6,14 +6,13 @@
 If you are interested in any of these opportunities, please follow the application instructions bellow.
 
 - one research internship position (fully funded) (Reasoning in Deep learning)
-- one research internship position (fully funded) (Explainability and Fairness in Deep learning)
 
 ## Current students
 
 ### PhD
-- [William St-Arnaud](), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 - [Aisha Alaagib](), PhD, UdeM, Fall 2022 (co-supervision with [Ulrich Aivodji](https://aivodji.github.io/))
 - [Raesetje Sefala](https://sefalab.github.io/), PhD, McGill, Fall 2022 (co-supervision with [AJung Moon](https://www.ajungmoon.com/))
+- [William St-Arnaud](), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 
 ### MSc
 - [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022
