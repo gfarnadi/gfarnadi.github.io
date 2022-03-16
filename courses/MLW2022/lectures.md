@@ -94,7 +94,7 @@ ___
 
 ___
 11- <span style="font-size:1em;">Week 11 (March 16): **Trustworthy Machine Learning  & Recommender systems**</span> 
-- **Lecture**: [slides](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week12_summary.pdf)
+- **Lecture**: [slides](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week11_summary.pdf)
 - **Reading**: Chapters 1 through 4, Aggarwal, Charu C. [Recommender Systems: the Textbook](https://hecmontreal.on.worldcat.org/v2/oclc/946011635). Cham: Springer, 2016
 
 ___
