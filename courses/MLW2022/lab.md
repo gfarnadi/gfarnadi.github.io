@@ -70,7 +70,7 @@ ___
 
 ___
 11- Week 11 (March 16): **Trustworthy Machine Learning** 
-- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week12_summary.pdf)
+- [Class summary]((https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week11_summary.pdf)
 
 ___
 12- Week 12 (March 23): **Sequential decision making I** 
