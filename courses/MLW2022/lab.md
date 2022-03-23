@@ -70,11 +70,11 @@ ___
 
 ___
 11- Week 11 (March 16): **Trustworthy Machine Learning** 
-- [Class summary]((https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week11_summary.pdf)
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week11_summary.pdf)
 
 ___
 12- Week 12 (March 23): **Sequential decision making I** 
-- [Class summary]
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week12_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week12-MDPs/value_and_policy_iteration_question.ipynb)
 
 ___
