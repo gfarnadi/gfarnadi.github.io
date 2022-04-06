@@ -58,3 +58,4 @@ To find interesting datasets for your project, you can check:
 - [Kaggle](https://www.kaggle.com/competitions)
 - [UCI: Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
 - [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [presentations](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Project_presentation.pdf)
