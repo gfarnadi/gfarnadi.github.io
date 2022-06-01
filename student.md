@@ -25,6 +25,8 @@ If you are interested in any of these opportunities, please follow the applicati
 - [Jia Ao Sun](), MSc, UdeM, Fall 2020 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
 
 ### Research Intern
+- [Giulia Occhini](https://www.turing.ac.uk/people/doctoral-students/giulia-occhini), Intern, Winter 2022 (co-supervision with [David Rolnick](https://davidrolnick.com/))
+- [Amanda Leal](https://www.chairedemocratie.com/members/leal-amanda/), Intern, Winter 2022
 - [Maryam Molamohammadi](), Intern, Fall 2021 (co-supervision with [Nicolas Le Roux](http://nicolas.le-roux.name/))
 - [Sikha Pentyala](), Intern, Fall 2021 (co-supervision with [Martine De Cock](http://faculty.washington.edu/mdecock/))
 
