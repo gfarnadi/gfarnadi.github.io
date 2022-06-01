@@ -32,7 +32,7 @@ If you are interested in any of these opportunities, please follow the applicati
 
 
 ## Previous students
-- [Allison Meyssonnier](), MSc, HEC, Spring 2022 (co-supervision with [Marie-Claude Trudel](https://www.hec.ca/profs/marie-claude.trudel.html))
+- [Allison Meyssonnier](), MSc, HEC, Fall 2020 - Spring 2022 (co-supervision with [Marie-Claude Trudel](https://www.hec.ca/profs/marie-claude.trudel.html))
 - [Aisha Alaagib](), Intern, Fall 2021 - Spring 2022 (co-supervision with [Ulrich Aivodji](https://aivodji.github.io/))
 - [Amir Reza](https://amir9ume.github.io/), MSc, UdeM, Fall 2019 - Fall 2021 (co-supervision with [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/))
 - [Dylan Troop](https://www.linkedin.com/in/dtroop/?originalSubdomain=ca), Intern, Fall 2021
