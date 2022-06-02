@@ -20,7 +20,7 @@ In 2021, I won Google Scholar Award and Facebook Research Award and was named on
 
 ### Teaching
 
-- Winter 2021: I will be teaching [Machine Learning I (MATH80629)](courses/MLW2022/main.md) (in English).
+- Fall 2022: I will be teaching [Trustworthy Machine Learning (MATH80630A)]() (in English).
 
 The full list is avaialble at [teaching](teaching.md).
 
