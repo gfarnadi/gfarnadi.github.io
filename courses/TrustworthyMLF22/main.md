@@ -21,8 +21,6 @@ For the programming assignments and the project, Python programming will be assu
 
 - [Data Camp](https://www.datacamp.com/onboarding/create_account?track_id=17): Complete Chapters 1, 2, 3 (sign in using this [link](https://www.datacamp.com/groups/shared_links/d8833e84f66e8de38ca3de07987087f93561cfd2b03a636c6d0156a699e8de50) with your @hec.ca email address to access Chapters 2 and 3). **This option is recommended**
 - [HEC CAM]() offers introductory python courses in September (currently only in French). Register at [CAM registration](https://inscription.hec.ca/cams/).
-- [Fall 2018 tutorial](http://www.cs.toronto.edu/~lcharlin/courses/80-629/tutorial_f18.html). This will give you an idea of the level that is expected for this course.  
-
 
 ## Grading
 Your final score for the course will be computed using the following weights:
