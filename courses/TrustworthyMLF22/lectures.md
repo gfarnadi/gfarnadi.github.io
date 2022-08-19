@@ -69,13 +69,13 @@ ___
   * 
 
 ___
-12- <span style="font-size:1em;">Week 12 (November 18): **Post-hoc Explanations: Model-based explanations**</span>
+12- <span style="font-size:1em;">Week 12 (November 18): **Post-hoc Explanations: Model Agnostic Methods**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * 
 
 ___
-13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: Model-free explanations**</span>
+13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: Model Specific Methods**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * 
