@@ -27,10 +27,10 @@ For the programming assignments and the project, Python programming will be assu
 ## Grading
 Your final score for the course will be computed using the following weights:
 
-- [Active in-class participation] (10%)
-- [Paper review](paper.md) (10%)
-- [In-class Quizzes](project.md) (10%)
-- [Paper presentation](project.md) (10%)
+- [Active in-class participation](lectures.md) (10%)
+- [Paper review](assingment.md) (10%)
+- [In-class Quizzes](quiz.md) (10%)
+- [Paper presentation](assingment.md) (10%)
 - [Final Project](project.md) (60%)
 
 
