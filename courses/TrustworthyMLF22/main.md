@@ -1,4 +1,4 @@
-| [MATH80630](main.md) | [Lectures](lectures.md) | [Quiz](Quiz.md) | [Assignments](assignment.md) | [Project](project.md) | [Office hour](office_hr.md)
+| [MATH80630](main.md) | [Lectures](lectures.md) | [Assignments](assignment.md) | [Project](project.md) | [Office hour](office_hr.md)
 # Trustworthy Machine Learning (MATH80630): Fall 2022
 
 ## Course Description
@@ -28,9 +28,8 @@ For the programming assignments and the project, Python programming will be assu
 Your final score for the course will be computed using the following weights:
 
 - [Active in-class participation](lectures.md) (10%)
-- [Paper review](assingment.md) (10%)
-- [In-class Quizzes](quiz.md) (10%)
-- [Paper presentation](assingment.md) (10%)
+- [Paper review](assingment.md) (15%)
+- [Paper presentation](assingment.md) (15%)
 - [Final Project](project.md) (60%)
 
 
