@@ -10,7 +10,7 @@ ___
   * 
 
 ___
-2- <span style="font-size:1em;">Week 2 (September 9): **Fairness Definittions in Machine Learning**</span>
+2- <span style="font-size:1em;">Week 2 (September 9): **Fairness Definitions in Machine Learning**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * 
