@@ -21,6 +21,7 @@ ___
 - **Lecture**: [Slides]()
 - **Reading**: 
   * Unbiased look at dataset bias
+  * Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries
 
 ___
 4- <span style="font-size:1em;">Week 4 (September 23): **Fairness in Represenation Learning and In-Processing Fairness Approaches**</span>
