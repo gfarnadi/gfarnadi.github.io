@@ -62,7 +62,8 @@ ___
 9- <span style="font-size:1em;">Week 9 (October 28): **Federated Learning**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
-  * 
+  * FedAVG: Communication-Efficient Learning of Deep Networks from Decentralized Data
+  * Advances and Open Problems in Federated Learning
 
 ___
 10- <span style="font-size:1em;">Week 10 (November 6): **Intorduction to Robustness and Security Attacks and Defences in Machine learning**</span>
@@ -76,20 +77,22 @@ ___
 11- <span style="font-size:1em;">Week 11 (November 11): **Interpretability and Explainability**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
-  * Understanding Black-box Predictions via Influence Functions.
+  * Towards A Rigorous Science of Interpretable Machine Learning
   * Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.
+  * Manipulating and Measuring Model Interpretability
 
 ___
 12- <span style="font-size:1em;">Week 12 (November 18): **Post-hoc Explanations: Model Agnostic Methods**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * Human-in-the-loop Models & Explanations: Faithful and Customizable Explanations of Black Box Models
+  * Understanding Black-box Predictions via Influence Functions.
 
 ___
 13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: Model Specific Methods**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
-  * 
+  * Sanity Checks for Saliency Maps
 
 ___
 14- <span style="font-size:1em;">Week 14 (December 2): **Project Preperation and Neurips**</span>
