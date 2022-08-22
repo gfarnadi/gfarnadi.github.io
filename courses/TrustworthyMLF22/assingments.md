@@ -50,7 +50,8 @@ ___
 ___
 9- <span style="font-size:1em;">Week 9 (October 28): **Federated Learning**</span>
 - **Paper assignments**: 
-  * 
+  * CaPC Learning: Confidential and Private Collaborative Learning
+  * SPlit: An Optimal Method for Data Splitting
 
 ___
 10- <span style="font-size:1em;">Week 10 (November 6): **Intorduction to Robustness and Security Attacks and Defences in Machine learning**</span>
@@ -61,6 +62,7 @@ ___
 ___
 11- <span style="font-size:1em;">Week 11 (November 11): **Interpretability and Explainability**</span>
 - **Paper assignments**: 
+  * Understanding Black-box Predictions via Influence Functions
   * 
 
 ___
