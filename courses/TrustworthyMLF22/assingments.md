@@ -23,12 +23,12 @@ ___
 ___
 4- <span style="font-size:1em;">Week 4 (September 23): **Fairness in Represenation Learning and In-Processing Fairness Approaches**</span>
 - **Paper assignments**: 
-  * 
+  * Fairness under composition
+  * Fairness in sequential decision making
 
 ___
 5- <span style="font-size:1em;">Week 5 (September 30): **Post-Processing Fairness Approaches and Fairness Beyond Classification**</span>
-- **Paper assignments**: 
-  * No paper assingment! We will have Project meetings!
+- **Project meetings**
 
 ___
 6- <span style="font-size:1em;">Week 6 (October 7): **Privacy-Preserving Machine Learning and Differential Privacy**</span>
@@ -40,6 +40,7 @@ ___
 7- <span style="font-size:1em;">Week 7 (October 14): **DP-SGD and PATE**</span>
 - **Paper assignments**: 
   * Overlearning Reveals Sensitive Attributes.
+  * Differentially Private Empirical Risk Minimizationunder the Fairness Lens
 
 ___
 8- <span style="font-size:1em;">Week 8 (October 21): **Reading Week**</span>
@@ -66,11 +67,12 @@ ___
 12- <span style="font-size:1em;">Week 12 (November 18): **Post-hoc Explanations: Model Agnostic Methods**</span>
 - **Paper assignments**: 
   * Causal Interpretations of Black-Box Models
+  * Actionable Explanations (Recourse)
 
 ___
 13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: Model Specific Methods**</span>
 - **Paper assignments**: 
-  * Actionable Explanations (Recourse)
+  * No more paper assingments!
 
 ___
 14- <span style="font-size:1em;">Week 14 (December 2): **Project Preperation and Neurips**</span>
