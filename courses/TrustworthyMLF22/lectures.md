@@ -15,6 +15,7 @@ ___
 - **Reading**: 
   * 21 fairness definitions explained
   * Fairness Through Awareness.
+  * Interventions over Predictions:Reframing the Ethical Debate for Actuarial Risk Assessment
 
 ___
 3- <span style="font-size:1em;">Week 3 (September 16): **Sources of Data Biases and Pre-Processing Fairness Approaches**</span>
