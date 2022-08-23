@@ -3,7 +3,7 @@
 ## Teaching 
 **Trustworthy Machine Learning (Fall 2022), HEC Montreal/Mila**
 
-- All materials and details are avaialble at the [machine learning course webpage: Fall 2022](courses/TrustworthyMLF22/main.md).
+- All materials and details are avaialble at the [turstworthy machine learning course webpage: Fall 2022](courses/TrustworthyMLF22/main.md).
 
 
 **Machine Learning 1 (Winter 2022), HEC Montreal/Mila**
