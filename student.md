@@ -23,19 +23,19 @@ If you are interested in any of these opportunities, please follow the applicati
 - [Jesse Thibodeau](), MSc, HEC, Fall 2021
 - [Kiarash Mohammadi](https://sites.google.com/view/kiarashinho), MSc, UdeM, Fall 2021
 - [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021
-- [Khaoula Chehbouni](), MSc, HEC, Fall 2020 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
 - [Maricarmen Arenas](), MSc, HEC, Fall 2020 (co-supervision with [Reihaneh Rabbany](http://www.reirab.com/))
 - [Jia Ao Sun](), MSc, UdeM, Fall 2020 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
 
 ### Research Intern
-- [Giulia Occhini](https://www.turing.ac.uk/people/doctoral-students/giulia-occhini), Part-time Intern, Winter 2022 (co-supervision with [David Rolnick](https://davidrolnick.com/))
-- [Raesetje Sefala](), Part-time Intern, Winter 2022
-- [Amanda Leal](https://www.chairedemocratie.com/members/leal-amanda/), Part-time Intern, Winter 2022
-- [Maryam Molamohammadi](), Full-time Intern, Fall 2021 (co-supervision with [Nicolas Le Roux](http://nicolas.le-roux.name/))
 - [Sikha Pentyala](), Full-time Intern, Fall 2021 (co-supervision with [Martine De Cock](http://faculty.washington.edu/mdecock/))
 
 
 ## Previous students
+- [Khaoula Chehbouni](), MSc, HEC, Fall 2020 - Summer 2022 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
+- [Maryam Molamohammadi](), Full-time Intern, Fall 2021 - Spring 2022 (co-supervision with [Nicolas Le Roux](http://nicolas.le-roux.name/))
+- [Giulia Occhini](https://www.turing.ac.uk/people/doctoral-students/giulia-occhini), Part-time Intern,  Winter - Spring 2022 (co-supervision with [David Rolnick](https://davidrolnick.com/))
+- [Raesetje Sefala](), Part-time Intern, Winter - Spring 2022
+- [Amanda Leal](https://www.chairedemocratie.com/members/leal-amanda/), Part-time Intern,  Winter - Spring 2022
 - [Allison Meyssonnier](), MSc, HEC, Fall 2020 - Spring 2022 (co-supervision with [Marie-Claude Trudel](https://www.hec.ca/profs/marie-claude.trudel.html))
 - [Aisha Alaagib](), Intern, Fall 2021 - Spring 2022 (co-supervision with [Ulrich Aivodji](https://aivodji.github.io/))
 - [Amir Reza](https://amir9ume.github.io/), MSc, UdeM, Fall 2019 - Fall 2021 (co-supervision with [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/))
