@@ -9,13 +9,16 @@ If you are interested in any of these opportunities, please follow the applicati
 
 ## Current students
 
+### Post-doc
+- [Afaf Taik](), Post-doc, Mila, Fall 2022
+
 ### PhD
 - [Raesetje Sefala](https://sefalab.github.io/), PhD, McGill, Fall 2022 (co-supervision with [AJung Moon](https://www.ajungmoon.com/))
 - [William St-Arnaud](), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 
 ### MSc
+- [Armin Moradi](), MSc, UdeM, Winter 2023
 - [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022
-- [Armin Moradi](), MSc, UdeM, Fall 2022
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
 - [Jesse Thibodeau](), MSc, HEC, Fall 2021
 - [Kiarash Mohammadi](https://sites.google.com/view/kiarashinho), MSc, UdeM, Fall 2021
