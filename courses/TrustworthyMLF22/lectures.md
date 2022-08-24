@@ -14,6 +14,7 @@ ___
 - **Lecture**: [Slides]()
 - **Reading**: 
   * 21 fairness definitions explained
+  * Measurement and Fairness
   * Fairness Through Awareness.
   * Interventions over Predictions:Reframing the Ethical Debate for Actuarial Risk Assessment
 
