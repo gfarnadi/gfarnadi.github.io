@@ -3,9 +3,7 @@
 # Research Group
 
 ## Open Opportunities
-If you are interested in any of these opportunities, please follow the application instructions bellow.
-
-- one research internship position (fully funded) (Reasoning in Deep learning)
+If you are interested to join the lab, please follow the application instructions bellow.
 
 ## Current students
 
