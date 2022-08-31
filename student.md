@@ -26,7 +26,7 @@ If you are interested to join the lab, please follow the application instruction
 
 ### Research Intern
 - [Sikha Pentyala](), Full-time Intern, Fall 2021 (co-supervision with [Martine De Cock](http://faculty.washington.edu/mdecock/))
-
+- [Maryam Molamohammadi](), Part-time Intern, Fall 2022
 
 ## Previous students
 - [Khaoula Chehbouni](), MSc, HEC, Fall 2020 - Summer 2022 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
