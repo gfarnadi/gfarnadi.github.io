@@ -14,7 +14,7 @@ This is a graduate course, in which we will cover methods for trustworthy and et
 TBD
 
 ## Feedback
-Please use this [form](https://forms.gle/VVNQogf2fBi9tKq38) to provide feedback about the course.
+Please use this [form](https://forms.gle/nt8gZTp4iBUV2Zeb7) to provide feedback about the course.
 
 ## Prerequisites
 Basic knowledge of machine learning will be assumed. 
