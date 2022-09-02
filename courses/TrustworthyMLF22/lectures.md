@@ -5,7 +5,7 @@ assingments.md
 ## Lecture Schedule
 ___
 1- <span style="font-size:1em;">Week 1 (September 2): **Class introduction and machine learning review**</span>
-- **Lecture**: [Slides]()
+- **Lecture**: [Slides](https://drive.google.com/file/d/1RIosVQL-nrlBWHXMV8dzJ6mcEOhHntXy/view?usp=sharing)
 - **Reading**: 
   * 
 
