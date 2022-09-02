@@ -1,6 +1,6 @@
-| [MATH80630](main.md) | [Lectures](lectures.md) | [Assignments](assignments.md) | [Project](project.md) | [Office hour](office_hr.md)
+| [MATH80630](main.md) | [Lectures](lectures.md) | [Assignments](assingments.md) | [Project](project.md) | [Office hour](office_hr.md)
 # Trustworthy Machine Learning (MATH80630): Fall 2022
-
+assingments.md
 
 ## Lecture Schedule
 ___
