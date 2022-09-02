@@ -8,7 +8,7 @@ This is a graduate course, in which we will cover methods for trustworthy and et
 
 ## Time & room
 - Fridays 3:30 pm - 6:30 pm
-- room: TBD
+- room: classroom Béton Grilli (main building on Côte-Sainte-Catherine, 1st floor)
 
 ## Announcements
 TBD
