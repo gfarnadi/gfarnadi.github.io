@@ -6,8 +6,6 @@ assingments.md
 ___
 1- <span style="font-size:1em;">Week 1 (September 2): **Class introduction and machine learning review**</span>
 - **Lecture**: [Slides](https://drive.google.com/file/d/1RIosVQL-nrlBWHXMV8dzJ6mcEOhHntXy/view?usp=sharing)
-- **Reading**: 
-  * 
 
 ___
 2- <span style="font-size:1em;">Week 2 (September 9): **Fairness Definitions in Machine Learning**</span>
