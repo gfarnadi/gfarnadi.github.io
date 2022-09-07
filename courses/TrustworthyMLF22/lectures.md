@@ -11,11 +11,11 @@ ___
 2- <span style="font-size:1em;">Week 2 (September 9): **Fairness Definitions in Machine Learning**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
-  * Fairness definitions explained
-  * Measurement and Fairness
-  * Fairness Through Awareness.
-  * Interventions over Predictions:Reframing the Ethical Debate for Actuarial Risk Assessment
-  * Causal fairness analysis
+  * [Fairness definitions explained](https://fairware.cs.umass.edu/papers/Verma.pdf)
+  * [Measurement and Fairness](https://arxiv.org/abs/1912.05511)
+  * [Fairness Through Awareness](https://arxiv.org/abs/1104.3913)
+  * [Interventions over Predictions:Reframing the Ethical Debate for Actuarial Risk Assessment]( https://proceedings.mlr.press/v81/barabas18a.html)
+  * [Causal fairness analysis](https://causalai.net/r90.pdf)
 
 ___
 3- <span style="font-size:1em;">Week 3 (September 16): **Sources of Data Biases and Pre-Processing Fairness Approaches**</span>
