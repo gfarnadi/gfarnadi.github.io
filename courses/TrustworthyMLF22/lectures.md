@@ -14,7 +14,7 @@ ___
   * [Fairness definitions explained](https://fairware.cs.umass.edu/papers/Verma.pdf)
   * [Measurement and Fairness](https://arxiv.org/abs/1912.05511)
   * [Fairness Through Awareness](https://arxiv.org/abs/1104.3913)
-  * [Interventions over Predictions:Reframing the Ethical Debate for Actuarial Risk Assessment]( https://proceedings.mlr.press/v81/barabas18a.html)
+  * [Interventions over Predictions:Reframing the Ethical Debate for Actuarial Risk Assessment](https://proceedings.mlr.press/v81/barabas18a.html)
   * [Causal fairness analysis](https://causalai.net/r90.pdf)
 
 ___
