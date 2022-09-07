@@ -21,8 +21,9 @@ ___
 3- <span style="font-size:1em;">Week 3 (September 16): **Sources of Data Biases and Pre-Processing Fairness Approaches**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
-  * Unbiased look at dataset bias
-  * Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries
+  * [Unbiased look at dataset bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)
+  * [Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/SSRN-id2886526.pdf)
+  * [Algorithmic Bias: From Discrimination Discovery to Fairness-aware Data Mining](https://dl.acm.org/doi/abs/10.1145/2939672.2945386?casa_token=C4RO-tZvUNkAAAAA:8J3D9Z74zrVr3bWQbxjYAhOeB2umRgvqYVhqoy83FNZHzPMr--YNVYgBIjqYbXkrVeOiEN1QZGMW)
 
 ___
 4- <span style="font-size:1em;">Week 4 (September 23): **Fairness in Represenation Learning and In-Processing Fairness Approaches**</span>
