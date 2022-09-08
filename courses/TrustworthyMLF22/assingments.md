@@ -50,26 +50,26 @@ ___
 ___
 9- <span style="font-size:1em;">Week 9 (October 28): **Federated Learning**</span>
 - **Paper assignments**: 
-  * CaPC Learning: Confidential and Private Collaborative Learning
-  * SPlit: An Optimal Method for Data Splitting
+  * [Distributed learning of deep neural network over multiple agents](https://www.sciencedirect.com/science/article/pii/S1084804518301590)
+  * [Comprehensive Privacy Analysis of Deep Learning: Stand-alone and Federated Learning under Passive and Active White-box Inference Attacks](https://arxiv.org/abs/1812.00910)
 
 ___
 10- <span style="font-size:1em;">Week 10 (November 6): **Intorduction to Robustness and Security Attacks and Defences in Machine learning**</span>
 - **Paper assignments**: 
   * [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
-  * Comprehensive Privacy Analysis of Deep Learning: Stand-alone and Federated Learning under Passive and Active White-box Inference Attacks.
+  * [Maintaining fairness across distribution shift: do we have viable solutions for real-world applications?](https://arxiv.org/pdf/2202.01034)
 
 ___
 11- <span style="font-size:1em;">Week 11 (November 11): **Interpretability and Explainability**</span>
 - **Paper assignments**: 
-  * Understanding Black-box Predictions via Influence Functions
-  * 
+  * [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730)
+  * [Explaining models: an empirical study of how explanations impact fairness judgment](https://dl.acm.org/doi/abs/10.1145/3301275.3302310)
 
 ___
 12- <span style="font-size:1em;">Week 12 (November 18): **Post-hoc Explanations: Model Agnostic Methods**</span>
 - **Paper assignments**: 
-  * Causal Interpretations of Black-Box Models
-  * Actionable Explanations (Recourse)
+  * [Counterfactual Explanations for Machine Learning: A Review](https://arxiv.org/abs/2010.10596)
+  * [Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems](https://arxiv.org/abs/1907.09615)
 
 ___
 13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: Model Specific Methods**</span>
