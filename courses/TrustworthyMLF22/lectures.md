@@ -80,7 +80,7 @@ ___
 11- <span style="font-size:1em;">Week 11 (November 11): **Interpretability and Explainability**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
-  * Towards A Rigorous Science of Interpretable Machine Learning
+  * [Towards a rigorous science of interpretable machine learning](https://arxiv.org/abs/1702.08608)
   * Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.
   * Manipulating and Measuring Model Interpretability
 
