@@ -23,7 +23,7 @@ This project will be worth 60% of your final grade. You must work in teams of tw
 - Discussion of relationship to previous work and references: 4%
 - Design and execution of experiments: 10%
 - Figures/Tables/Writing: easily readable, properly labeled, informative: 5%
-- Indiviual report: 1%
+- Individual report: 1%
 
 ### Project Presentation (10%)
 - Clarity of presentation: 3%
