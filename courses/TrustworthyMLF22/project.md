@@ -48,7 +48,7 @@ First, select a question that can be answered using machine learning. I expect t
 
 Your study should involve reading and understanding some background material. Your study must involve running some experiments. You are free to use (or not) any of the tools or models we have seen in class.
 
-**Alternatively**: You could decide to participate in this open challenge: ML Reproducibility Challenge 2021. Let me know as soon as possible if you are interested in this.
+**Alternatively**: You could decide to participate in this open challenge: ML Reproducibility Challenge 2022. Let me know as soon as possible if you are interested in this.
 
 **Project Proposal**: (1 upload per team) Please submit a one-page summary of your proposed research question and study to [Gradescope](https://www.gradescope.com/courses/301346). I will meet with each group to discuss study plans during the lecture of **October 7**. I will send you a schedule the day before. We will probably only have about 15 minutes so please make sure that your study plan is clear and precise. You may also include questions that you would like us to discuss at the end of the document.
 
