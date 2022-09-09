@@ -9,7 +9,7 @@ ___
 
 ___
 2- <span style="font-size:1em;">Week 2 (September 9): **Fairness Definitions in Machine Learning**</span>
-- **Lecture**: [Slides]()
+- **Lecture**: [Slides](https://drive.google.com/file/d/1KLYt0JKAt8rPX9ARngzSFSpHs8AzOxPZ/view?usp=sharing)
 - **Reading**: 
   * [Fairness definitions explained](https://fairware.cs.umass.edu/papers/Verma.pdf)
   * [Measurement and Fairness](https://arxiv.org/abs/1912.05511)
