@@ -1,7 +1,7 @@
 | [MATH80630](main.md) | [Lectures](lectures.md) | [Assignments](assingments.md) | [Project](project.md) | [Office hour](office_hr.md)
 # Trustworthy Machine Learning (MATH80630): Fall 2022
 
-This project will be worth 60% of your final grade. You must work in teams of two or three.
+This project will be worth 60% of your final grade. You must work in teams of one or two.
 
 ## Grading Scheme 
 
