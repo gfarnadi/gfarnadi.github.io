@@ -2,7 +2,27 @@
 # Trustworthy Machine Learning (MATH80630): Fall 2022
 
 ## Paper assingmeents
-## Lecture Schedule
+
+The paper assingments will be worth 30% of your final grade. Each student needs to submit a report for the weekly assigned readings (15%). Also, each student needs to present at-least one paper and lead a panel discussion (15%).
+
+## Grading Scheme 
+
+### Paper Review (15%)
+- Paper summeries: 3%
+- Paper strengths: 3%
+- Paper weakness: 3%
+- Research questions: 3%
+- Panel questions: 3%
+
+### Paper Presentation (15%)
+- Clarity of presentation: 3%
+- Slide or Poster quality: 3%
+- Correctness: 3%
+- Answers to questions: 3%
+- Panel: 3%
+
+
+## Assingment Schedule
 ___
 1- <span style="font-size:1em;">Week 1 (September 2): **Class introduction and machine learning review**</span>
 - **Paper assignments**: 
