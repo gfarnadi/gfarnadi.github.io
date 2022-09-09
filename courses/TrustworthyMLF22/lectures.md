@@ -69,7 +69,7 @@ ___
   * Advances and Open Problems in Federated Learning
 
 ___
-10- <span style="font-size:1em;">Week 10 (November 6): **Intorduction to Robustness and Security Attacks and Defences in Machine learning**</span>
+10- <span style="font-size:1em;">Week 10 (November 4): **Intorduction to Robustness and Security Attacks and Defences in Machine learning**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * Practical Black-Box Attacks against Machine Learning.
