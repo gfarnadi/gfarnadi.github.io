@@ -25,6 +25,7 @@ ___
 - **Paper assignments**: 
   * [The Values Encoded in Machine Learning Research](https://arxiv.org/abs/2106.15590)
   * [Flexibly Fair Representation Learning by Disentanglement](http://proceedings.mlr.press/v97/creager19a/creager19a.pdf)
+  * [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://s10251.pcdn.co/pdf/2021-bender-parrots.pdf)
 
 ___
 5- <span style="font-size:1em;">Week 5 (September 30): **Post-Processing Fairness Approaches and Fairness Beyond Classification**</span>
