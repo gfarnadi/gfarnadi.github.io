@@ -55,7 +55,7 @@ ___
   * [Comprehensive Privacy Analysis of Deep Learning: Stand-alone and Federated Learning under Passive and Active White-box Inference Attacks](https://arxiv.org/abs/1812.00910)
 
 ___
-10- <span style="font-size:1em;">Week 10 (November 6): **Intorduction to Robustness and Security Attacks and Defences in Machine learning**</span>
+10- <span style="font-size:1em;">Week 10 (November 4): **Intorduction to Robustness and Security Attacks and Defences in Machine learning**</span>
 - **Paper assignments**: 
   * [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
   * [Maintaining fairness across distribution shift: do we have viable solutions for real-world applications?](https://arxiv.org/pdf/2202.01034)
