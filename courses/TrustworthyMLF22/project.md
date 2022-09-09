@@ -14,7 +14,7 @@ This project will be worth 60% of your final grade. You must work in teams of tw
 ### Project Mid Report (10%)
 - Clarity/Relevance of problem statement: 1%
 - Description of approach: 2%
-- Discussion of relationship to previous work and references: 3%
+- Discussion of relationship to previous work and references: 2%
 - Research questions: 3%
 - Design of experiments: 2%
 
