@@ -3,7 +3,9 @@
 
 ## Paper assingmeents
 
-The paper assingments will be worth 30% of your final grade. Each student needs to submit a report for the weekly assigned readings (15%). Also, each student needs to present at-least one paper and lead a panel discussion (15%).
+The paper assingments will be worth 30% of your final grade. Each student needs to submit a report for the weekly assigned readings (15%). Also, each student needs to present at-least one paper and lead a panel discussion (15%). 
+
+You can use this [document]() as a template to submit your paper reviews.
 
 ## Grading Scheme 
 
