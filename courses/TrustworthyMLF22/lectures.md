@@ -19,7 +19,7 @@ ___
 
 ___
 3- <span style="font-size:1em;">Week 3 (September 16): **Causal Fairness Definitions in Machine Learning** </span>
-- **Lecture**: [Slides]()
+- **Lecture**: [Slides](https://drive.google.com/file/d/1Fa-JMA269q6zBSHZ24Kl0aGkxtmWOMj5/view?usp=sharing)
 - **Reading**: 
     * [Causal fairness analysis](https://causalai.net/r90.pdf)
 ___
