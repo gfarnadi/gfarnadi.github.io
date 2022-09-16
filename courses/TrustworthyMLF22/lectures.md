@@ -22,6 +22,8 @@ ___
 - **Lecture**: [Slides](https://drive.google.com/file/d/1Fa-JMA269q6zBSHZ24Kl0aGkxtmWOMj5/view?usp=sharing)
 - **Reading**: 
     * [Causal fairness analysis](https://causalai.net/r90.pdf)
+    
+    
 ___
 4- <span style="font-size:1em;">Week 4 (September 23): **Sources of Data Biases and Pre-Processing Fairness Approaches**</span>
 - **Lecture**: [Slides]()
