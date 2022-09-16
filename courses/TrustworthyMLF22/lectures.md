@@ -8,37 +8,38 @@ ___
 - **Lecture**: [Slides](https://drive.google.com/file/d/1RIosVQL-nrlBWHXMV8dzJ6mcEOhHntXy/view?usp=sharing)
 
 ___
-2- <span style="font-size:1em;">Week 2 (September 9): **Fairness Definitions in Machine Learning**</span>
+2- <span style="font-size:1em;">Week 2 (September 9): **Statistical Fairness Definitions in Machine Learning**</span>
 - **Lecture**: [Slides](https://drive.google.com/file/d/1KLYt0JKAt8rPX9ARngzSFSpHs8AzOxPZ/view?usp=sharing)
 - **Reading**: 
   * [Fairness definitions explained](https://fairware.cs.umass.edu/papers/Verma.pdf)
   * [Measurement and Fairness](https://arxiv.org/abs/1912.05511)
   * [Fairness Through Awareness](https://arxiv.org/abs/1104.3913)
   * [Interventions over Predictions:Reframing the Ethical Debate for Actuarial Risk Assessment](https://proceedings.mlr.press/v81/barabas18a.html)
-  * [Causal fairness analysis](https://causalai.net/r90.pdf)
+
 
 ___
-3- <span style="font-size:1em;">Week 3 (September 16): **Sources of Data Biases and Pre-Processing Fairness Approaches**</span>
+3- <span style="font-size:1em;">Week 3 (September 16): **Causal Fairness Definitions in Machine Learning** </span>
 - **Lecture**: [Slides]()
 - **Reading**: 
-  * [Unbiased look at dataset bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)
-  * [Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/SSRN-id2886526.pdf)
-  * [Algorithmic Bias: From Discrimination Discovery to Fairness-aware Data Mining](https://dl.acm.org/doi/abs/10.1145/2939672.2945386?casa_token=C4RO-tZvUNkAAAAA:8J3D9Z74zrVr3bWQbxjYAhOeB2umRgvqYVhqoy83FNZHzPMr--YNVYgBIjqYbXkrVeOiEN1QZGMW)
-
+    * [Causal fairness analysis](https://causalai.net/r90.pdf)
 ___
-4- <span style="font-size:1em;">Week 4 (September 23): **Fairness in Represenation Learning and In-Processing Fairness Approaches**</span>
+4- <span style="font-size:1em;">Week 4 (September 23): **Sources of Data Biases and Pre-Processing Fairness Approaches**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * Learning Fair Representations.
   * Learning adversarially fair and transferable representations
-  * Fairness-aware Learning through Regularization Approach
+  * [Unbiased look at dataset bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)
+  * [Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/SSRN-id2886526.pdf)
+  * [Algorithmic Bias: From Discrimination Discovery to Fairness-aware Data Mining](https://dl.acm.org/doi/abs/10.1145/2939672.2945386?casa_token=C4RO-tZvUNkAAAAA:8J3D9Z74zrVr3bWQbxjYAhOeB2umRgvqYVhqoy83FNZHzPMr--YNVYgBIjqYbXkrVeOiEN1QZGMW)
+
 
 ___
-5- <span style="font-size:1em;">Week 5 (September 30): **Post-Processing Fairness Approaches and Fairness Beyond Classification**</span>
+5- <span style="font-size:1em;">Week 5 (September 30): **In-Processing Fairness, Post-Processing Fairness Approaches and Fairness Beyond Classification**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * Equality of Opportunity in Supervised Learning.
   * Fairness in Classic and Contextual Bandits
+  * Fairness-aware Learning through Regularization Approach
 
 ___
 6- <span style="font-size:1em;">Week 6 (October 7): **Privacy-Preserving Machine Learning and Differential Privacy**</span>
