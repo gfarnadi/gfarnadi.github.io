@@ -54,8 +54,9 @@ ___
 7- <span style="font-size:1em;">Week 7 (October 14): **DP-SGD and PATE**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
-  * Deep Learning with Differential Privacy
+  * [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
   * What Can We Learn Privately?, Kasiviswanathan, S. et al.
+  * [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755)
   * Tutorial on Differential Privacy, Chaudhuri, K. and Sarwate, A.
 
 ___
