@@ -31,26 +31,26 @@ ___
   * No paper assignments!
 
 ___
-2- <span style="font-size:1em;">Week 2 (September 9): **Fairness Definitions in Machine Learning**</span>
+2- <span style="font-size:1em;">Week 2 (September 9): **Statistical Fairness Definitions in Machine Learning**</span>
 - **Paper assignments**: 
   * [Counterfactual fairness](https://arxiv.org/abs/1703.06856)
   * [On the (im)possibility of fairness](https://arxiv.org/abs/1609.07236)
 
 ___
-3- <span style="font-size:1em;">Week 3 (September 16): **Sources of Data Biases and Pre-Processing Fairness Approaches**</span>
+3- <span style="font-size:1em;">Week 3 (September 16): **Causal Fairness Definitions in Machine Learning**</span>
 - **Paper assignments**: 
   * [Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus Level Constraints](https://arxiv.org/abs/1707.09457)
   * [Balanced Datasets Are Not Enough: Estimating and Mitigating Gender Bias in Deep Image Representations](https://arxiv.org/abs/1811.08489)
 
 ___
-4- <span style="font-size:1em;">Week 4 (September 23): **Fairness in Represenation Learning and In-Processing Fairness Approaches**</span>
+4- <span style="font-size:1em;">Week 4 (September 23): **Sources of Data Biases and Pre-Processing Fairness Approaches**</span>
 - **Paper assignments**: 
   * [The Values Encoded in Machine Learning Research](https://arxiv.org/abs/2106.15590)
   * [Flexibly Fair Representation Learning by Disentanglement](http://proceedings.mlr.press/v97/creager19a/creager19a.pdf)
   * [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://s10251.pcdn.co/pdf/2021-bender-parrots.pdf)
 
 ___
-5- <span style="font-size:1em;">Week 5 (September 30): **Post-Processing Fairness Approaches and Fairness Beyond Classification**</span>
+5- <span style="font-size:1em;">Week 5 (September 30): **In-processing and Post-Processing Fairness Approaches and Fairness Beyond Classification**</span>
 - **Project meetings**
 
 ___
