@@ -18,7 +18,7 @@ You can use this [latex template](https://www.overleaf.com/read/zdnrprvjmywy) to
 
 ### Paper Presentation (15%)
 - Clarity of presentation: 3%
-- Slide or Poster quality: 3%
+- Slide quality: 3%
 - Correctness: 3%
 - Answers to questions: 3%
 - Panel: 3%
