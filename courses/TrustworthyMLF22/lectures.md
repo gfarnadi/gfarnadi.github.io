@@ -28,19 +28,18 @@ ___
 4- <span style="font-size:1em;">Week 4 (September 23): **Sources of Data Biases and Pre-Processing Fairness Approaches**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
-  * Learning Fair Representations.
-  * Learning adversarially fair and transferable representations
+  * [Data preprocessing techniques for classificationwithout discrimination](https://link.springer.com/article/10.1007/s10115-011-0463-8)
   * [Unbiased look at dataset bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)
   * [Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/SSRN-id2886526.pdf)
   * [Algorithmic Bias: From Discrimination Discovery to Fairness-aware Data Mining](https://dl.acm.org/doi/abs/10.1145/2939672.2945386?casa_token=C4RO-tZvUNkAAAAA:8J3D9Z74zrVr3bWQbxjYAhOeB2umRgvqYVhqoy83FNZHzPMr--YNVYgBIjqYbXkrVeOiEN1QZGMW)
-
-
+  
 ___
 5- <span style="font-size:1em;">Week 5 (September 30): **In-Processing Fairness, Post-Processing Fairness Approaches and Fairness Beyond Classification**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
+  * Learning Fair Representations.
+  * Learning adversarially fair and transferable representations
   * Equality of Opportunity in Supervised Learning.
-  * Fairness in Classic and Contextual Bandits
   * Fairness-aware Learning through Regularization Approach
 
 ___
