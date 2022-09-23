@@ -26,7 +26,7 @@ ___
     
 ___
 4- <span style="font-size:1em;">Week 4 (September 23): **Sources of Data Biases and Pre-Processing Fairness Approaches**</span>
-- **Lecture**: [Slides]()
+- **Lecture**: [Slides](https://drive.google.com/file/d/1AVWkISaF2cdLhHBhDAHcm80MA2gelXmN/view?usp=sharing)
 - **Reading**: 
   * [Data preprocessing techniques for classificationwithout discrimination](https://link.springer.com/article/10.1007/s10115-011-0463-8)
   * [Unbiased look at dataset bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)
