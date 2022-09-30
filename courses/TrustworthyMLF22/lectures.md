@@ -35,7 +35,7 @@ ___
   
 ___
 5- <span style="font-size:1em;">Week 5 (September 30): **In-Processing Fairness, Post-Processing Fairness Approaches and Fairness Beyond Classification**</span>
-- **Lecture**: [Slides]()
+- **Lecture**: [Slides](https://drive.google.com/file/d/1XQq7qPfymX40T17yZ93y1fvPxRce7_I8/view?usp=sharing)
 - **Reading**: 
   * Learning Fair Representations.
   * Learning adversarially fair and transferable representations
