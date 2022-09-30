@@ -33,7 +33,7 @@ This project will be worth 60% of your final grade. You must work in teams of on
 
 ## Timeline
 - [Project Proposal](assignments/Project%20assignment%201_study%20plan.pdf), due: **September 30, 2022** (by the end of the day EDT). Upload the PDF of the proposal to [gradescope](https://www.gradescope.ca/courses/7828) by the head of the team.
-- Project meeting, **October 7, 2022** 
+- Project meeting, **September 30, 2022** 
 - [Mid group report](assignments/Project%20assignment%203_group%20report.pdf), due: **October 21, 2022** (by the end of the day EDT). Upload the PDF of the final group report to [gradescope](https://www.gradescope.ca/courses/7828) by the head of the team. And Upload the PDF of the final group report to [gradescope](https://www.gradescope.ca/courses/7828) by the head of the team
 - [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **December 9, 2022**. Upload the PDF of your poster/slides to [gradescope](https://www.gradescope.ca/courses/7828) by the head of the team.
 - In-class Presentation, on **December 9, 2021**.
