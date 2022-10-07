@@ -37,27 +37,26 @@ ___
 5- <span style="font-size:1em;">Week 5 (September 30): **Fair Representation learning and In-Processing Fairness techniques**</span>
 - **Lecture**: [Slides](https://drive.google.com/file/d/1XQq7qPfymX40T17yZ93y1fvPxRce7_I8/view?usp=sharing)
 - **Reading**: 
-  * Learning Fair Representations.
-  * Learning adversarially fair and transferable representations
-  * Equality of Opportunity in Supervised Learning.
-  * Fairness-aware Learning through Regularization Approach
+  * [Learning Fair Representations](https://www.cs.toronto.edu/~toni/Papers/icml-final.pdf)
+  * [Learning adversarially fair and transferable representations](https://arxiv.org/abs/1802.06309)
+  * [Fairness-aware Learning through Regularization Approach](https://ieeexplore.ieee.org/document/6137441)
 
 ___
 6- <span style="font-size:1em;">Week 6 (October 7): **Post-processing Fairness techniques, Intro to Privacy-Preserving Machine Learning and Differential Privacy**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
-  * Robust De-anonymization of Large Sparse Datasets.
-  * Label-Only Membership Inference Attacks.
-  * The Algorithmic Foundations of Differential Privacy, Chapters 1-3, Dwork, C., and Roth, A.
+- * [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413)
+  * [The Algorithmic Foundations of Differential Privacy, Chapters 1-3, Dwork, C., and Roth, A.](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+  * [Robust De-anonymization of Large Sparse Datasets](https://ieeexplore.ieee.org/document/4531148)
+  
 
 ___
 7- <span style="font-size:1em;">Week 7 (October 14): **DP-SGD and PATE**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
-  * What Can We Learn Privately?, Kasiviswanathan, S. et al.
+  * [What Can We Learn Privately?, Kasiviswanathan, S. et al.](https://arxiv.org/abs/0803.0924)
   * [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755)
-  * Tutorial on Differential Privacy, Chaudhuri, K. and Sarwate, A.
 
 ___
 8- <span style="font-size:1em;">Week 8 (October 21): **Reading Week**</span>
@@ -68,8 +67,8 @@ ___
 9- <span style="font-size:1em;">Week 9 (October 28): **Federated Learning**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
-  * FedAVG: Communication-Efficient Learning of Deep Networks from Decentralized Data
-  * Advances and Open Problems in Federated Learning
+  * [FedAVG: Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
+  * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977?fbclid=IwAR0xSC1fbgFUtkOgyl6tU0tj_cVLFZxxcobakIsUrB7FccbjB5XZV0dH5bE)
 
 ___
 10- <span style="font-size:1em;">Week 10 (November 4): **Intorduction to Robustness and Security Attacks and Defences in Machine learning**</span>
