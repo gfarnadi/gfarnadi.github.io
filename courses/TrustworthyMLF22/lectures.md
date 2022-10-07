@@ -43,7 +43,7 @@ ___
 
 ___
 6- <span style="font-size:1em;">Week 6 (October 7): **Post-processing Fairness techniques, Intro to Privacy-Preserving Machine Learning and Differential Privacy**</span>
-- **Lecture**: [Slides]()
+- **Lecture**: [Slides](https://drive.google.com/file/d/1sViG6TPst31rlumOi_a4-yauXlG2wQiz/view?usp=sharing)
 - **Reading**: 
 - * [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413)
   * [The Algorithmic Foundations of Differential Privacy, Chapters 1-3, Dwork, C., and Roth, A.](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
