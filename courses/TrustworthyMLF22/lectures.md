@@ -34,7 +34,7 @@ ___
   * [Algorithmic Bias: From Discrimination Discovery to Fairness-aware Data Mining](https://dl.acm.org/doi/abs/10.1145/2939672.2945386?casa_token=C4RO-tZvUNkAAAAA:8J3D9Z74zrVr3bWQbxjYAhOeB2umRgvqYVhqoy83FNZHzPMr--YNVYgBIjqYbXkrVeOiEN1QZGMW)
   
 ___
-5- <span style="font-size:1em;">Week 5 (September 30): **In-Processing Fairness, Post-Processing Fairness Approaches and Fairness Beyond Classification**</span>
+5- <span style="font-size:1em;">Week 5 (September 30): **Fair Representation learning and In-Processing Fairness techniques**</span>
 - **Lecture**: [Slides](https://drive.google.com/file/d/1XQq7qPfymX40T17yZ93y1fvPxRce7_I8/view?usp=sharing)
 - **Reading**: 
   * Learning Fair Representations.
@@ -43,7 +43,7 @@ ___
   * Fairness-aware Learning through Regularization Approach
 
 ___
-6- <span style="font-size:1em;">Week 6 (October 7): **Privacy-Preserving Machine Learning and Differential Privacy**</span>
+6- <span style="font-size:1em;">Week 6 (October 7): **Post-processing Fairness techniques, Intro to Privacy-Preserving Machine Learning and Differential Privacy**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * Robust De-anonymization of Large Sparse Datasets.
