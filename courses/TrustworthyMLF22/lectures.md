@@ -51,7 +51,7 @@ ___
   
 
 ___
-7- <span style="font-size:1em;">Week 7 (October 14): **DP-SGD and PATE**</span>
+7- <span style="font-size:1em;">Week 7 (October 14): **Applications of DP in ML and DP-SGD**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
