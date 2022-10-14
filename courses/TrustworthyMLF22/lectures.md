@@ -52,7 +52,7 @@ ___
 
 ___
 7- <span style="font-size:1em;">Week 7 (October 14): **Applications of DP in ML and DP-SGD**</span>
-- **Lecture**: [Slides]()
+- **Lecture**: [Slides](https://drive.google.com/file/d/1ccJSvVR6kHh7FwdY6UYXHJIhZ2FB2OvI/view?usp=sharing)
 - **Reading**: 
   * [Differentially private empirical risk minimization](https://www.jmlr.org/papers/volume12/chaudhuri11a/chaudhuri11a.pdf)
   * [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
