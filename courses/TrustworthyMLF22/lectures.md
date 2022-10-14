@@ -54,6 +54,7 @@ ___
 7- <span style="font-size:1em;">Week 7 (October 14): **Applications of DP in ML and DP-SGD**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
+  * [Differentially private empirical risk minimization](https://www.jmlr.org/papers/volume12/chaudhuri11a/chaudhuri11a.pdf)
   * [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
   * [What Can We Learn Privately?, Kasiviswanathan, S. et al.](https://arxiv.org/abs/0803.0924)
   * [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755)
