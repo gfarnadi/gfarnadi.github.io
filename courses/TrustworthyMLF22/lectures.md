@@ -55,9 +55,8 @@ ___
 - **Lecture**: [Slides](https://drive.google.com/file/d/1ccJSvVR6kHh7FwdY6UYXHJIhZ2FB2OvI/view?usp=sharing)
 - **Reading**: 
   * [Differentially private empirical risk minimization](https://www.jmlr.org/papers/volume12/chaudhuri11a/chaudhuri11a.pdf)
-  * [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
   * [What Can We Learn Privately?, Kasiviswanathan, S. et al.](https://arxiv.org/abs/0803.0924)
-  * [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755)
+  * [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755) (optional)
 
 ___
 8- <span style="font-size:1em;">Week 8 (October 21): **Reading Week**</span>
@@ -65,9 +64,10 @@ ___
  
  
 ___
-9- <span style="font-size:1em;">Week 9 (October 28): **DP in ML optimization and Federated Learning**</span>
-- **Lecture**: [Slides]()
+9- <span style="font-size:1em;">Week 9 (October 28): **DP in ML optimization, DP-SGD, and Federated Learning**</span>
+- **Lecture**: [Slides](https://drive.google.com/file/d/1F-cOPoyuVDVMiwaNTLDenV6z2sVGZTFs/view?usp=share_link)
 - **Reading**: 
+  * [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
   * [FedAVG: Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
   * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977?fbclid=IwAR0xSC1fbgFUtkOgyl6tU0tj_cVLFZxxcobakIsUrB7FccbjB5XZV0dH5bE)
 
