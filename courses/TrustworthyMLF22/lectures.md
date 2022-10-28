@@ -51,7 +51,7 @@ ___
   
 
 ___
-7- <span style="font-size:1em;">Week 7 (October 14): **Applications of DP in ML and DP-SGD**</span>
+7- <span style="font-size:1em;">Week 7 (October 14): **Applications of DP in ML**</span>
 - **Lecture**: [Slides](https://drive.google.com/file/d/1ccJSvVR6kHh7FwdY6UYXHJIhZ2FB2OvI/view?usp=sharing)
 - **Reading**: 
   * [Differentially private empirical risk minimization](https://www.jmlr.org/papers/volume12/chaudhuri11a/chaudhuri11a.pdf)
@@ -65,14 +65,14 @@ ___
  
  
 ___
-9- <span style="font-size:1em;">Week 9 (October 28): **Federated Learning**</span>
+9- <span style="font-size:1em;">Week 9 (October 28): **DP in ML optimization and Federated Learning**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * [FedAVG: Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
   * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977?fbclid=IwAR0xSC1fbgFUtkOgyl6tU0tj_cVLFZxxcobakIsUrB7FccbjB5XZV0dH5bE)
 
 ___
-10- <span style="font-size:1em;">Week 10 (November 4): **Intorduction to Robustness and Security Attacks and Defences in Machine learning**</span>
+10- <span style="font-size:1em;">Week 10 (November 4): **Privacy in Federated Optimization, and Security Attacks and Defences in Machine learning**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * Practical Black-Box Attacks against Machine Learning.
@@ -80,7 +80,7 @@ ___
   * Certified Adversarial Robustness via Randomized Smoothing.
 
 ___
-11- <span style="font-size:1em;">Week 11 (November 11): **Interpretability and Explainability**</span>
+11- <span style="font-size:1em;">Week 11 (November 11): **Robustness in ML and Intro to interpretability and Explainability**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * [Towards a rigorous science of interpretable machine learning](https://arxiv.org/abs/1702.08608)
