@@ -82,7 +82,7 @@ ___
 
  
 ___
-11- <span style="font-size:1em;">Week 11 (November 11): **Robustness in ML, adverserial attacks, and intro to Interpretability and Explainability**</span>
+11- <span style="font-size:1em;">Week 11 (November 11): **Robustness in ML, adverserial attacks, FL and robustness, and intro to Interpretability and Explainability**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * [Towards a rigorous science of interpretable machine learning](https://arxiv.org/abs/1702.08608)
