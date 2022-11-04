@@ -72,18 +72,19 @@ ___
   * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977?fbclid=IwAR0xSC1fbgFUtkOgyl6tU0tj_cVLFZxxcobakIsUrB7FccbjB5XZV0dH5bE)
 
 ___
-10- <span style="font-size:1em;">Week 10 (November 4): **Privacy in Federated Optimization, and Security Attacks and Defences in Machine learning**</span>
-- **Lecture**: [Slides]()
+10- <span style="font-size:1em;">Week 10 (November 4): **Federated Optimization, Privacy and Fairness in Federated learning, Intersection of Privacy and Fairness **</span>
+- **Lecture**: [Slides](https://drive.google.com/file/d/13Q-YqXOc55IqIVPIToFu-4b-Esja26bE/view?usp=share_link)
 - **Reading**: 
-  * Practical Black-Box Attacks against Machine Learning.
-  * Intriguing properties of neural networks.
-  * Certified Adversarial Robustness via Randomized Smoothing.
-
+  * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977?
+ 
 ___
 11- <span style="font-size:1em;">Week 11 (November 11): **Robustness in ML and Intro to interpretability and Explainability**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * [Towards a rigorous science of interpretable machine learning](https://arxiv.org/abs/1702.08608)
+  * Practical Black-Box Attacks against Machine Learning.
+  * Intriguing properties of neural networks.
+  * Certified Adversarial Robustness via Randomized Smoothing.
   * Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.
   * Manipulating and Measuring Model Interpretability
 
