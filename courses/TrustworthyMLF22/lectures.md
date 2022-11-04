@@ -82,7 +82,7 @@ ___
 
  
 ___
-11- <span style="font-size:1em;">Week 11 (November 11): **Robustness in ML, adverserial attacks, and intro to interpretability and Explainability**</span>
+11- <span style="font-size:1em;">Week 11 (November 11): **Robustness in ML, adverserial attacks, and intro to Interpretability and Explainability**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * [Towards a rigorous science of interpretable machine learning](https://arxiv.org/abs/1702.08608)
@@ -100,7 +100,7 @@ ___
   * Understanding Black-box Predictions via Influence Functions.
 
 ___
-13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: Model Specific Methods**</span>
+13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: Model Specific Methods, and intersection of Explanation, Privacy and Fairness**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * Sanity Checks for Saliency Maps
