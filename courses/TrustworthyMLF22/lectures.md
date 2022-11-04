@@ -72,10 +72,14 @@ ___
   * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977?fbclid=IwAR0xSC1fbgFUtkOgyl6tU0tj_cVLFZxxcobakIsUrB7FccbjB5XZV0dH5bE)
 
 ___
-10- <span style="font-size:1em;">Week 10 (November 4): **Federated Optimization, Privacy and Fairness in Federated learning, Intersection of Privacy and Fairness **</span>
+10- <span style="font-size:1em;">Week 10 (November 4): **Federated Optimization, Privacy and Fairness in Federated learning, Intersection of Privacy and Fairness**</span>
 - **Lecture**: [Slides](https://drive.google.com/file/d/13Q-YqXOc55IqIVPIToFu-4b-Esja26bE/view?usp=share_link)
 - **Reading**: 
-  * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977?
+  * [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977?fbclid=IwAR0xSC1fbgFUtkOgyl6tU0tj_cVLFZxxcobakIsUrB7FccbjB5XZV0dH5bE)
+  * [Federated optimization in heterogeneous networks](https://arxiv.org/abs/1812.06127)
+  * [Fair Resource Allocation in Federated Learning](https://arxiv.org/abs/1905.10497)
+  * [Practical Secure Aggregationfor Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/281.pdf) (optional)
+
  
 ___
 11- <span style="font-size:1em;">Week 11 (November 11): **Robustness in ML and Intro to interpretability and Explainability**</span>
