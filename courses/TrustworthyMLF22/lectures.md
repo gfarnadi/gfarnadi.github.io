@@ -83,21 +83,24 @@ ___
  
 ___
 11- <span style="font-size:1em;">Week 11 (November 11): **Robustness in ML, adverserial attacks, FL and robustness, and intro to Interpretability and Explainability**</span>
-- **Lecture**: [Slides]()
+- **Lecture**: [Slides](https://drive.google.com/file/d/1nyARE6fPEC77iwWOQ-P-J0gNyIRofOd4/view?usp=share_link)
 - **Reading**: 
-  * [Towards a rigorous science of interpretable machine learning](https://arxiv.org/abs/1702.08608)
-  * Practical Black-Box Attacks against Machine Learning.
-  * Intriguing properties of neural networks.
-  * Certified Adversarial Robustness via Randomized Smoothing.
-  * Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.
-  * Manipulating and Measuring Model Interpretability
+  
+  * [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
+  * [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
+  * [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/abs/1902.02918)
+  * [Adversarial machine learning at scale](https://arxiv.org/abs/1611.01236)
+
 
 ___
 12- <span style="font-size:1em;">Week 12 (November 18): **Post-hoc Explanations: Model Agnostic Methods**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
+  * [Towards a rigorous science of interpretable machine learning](https://arxiv.org/abs/1702.08608)
   * Human-in-the-loop Models & Explanations: Faithful and Customizable Explanations of Black Box Models
   * Understanding Black-box Predictions via Influence Functions.
+  * Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.
+  * Manipulating and Measuring Model Interpretability
 
 ___
 13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: Model Specific Methods, and intersection of Explanation, Privacy and Fairness**</span>
