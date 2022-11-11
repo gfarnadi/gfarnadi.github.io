@@ -82,7 +82,7 @@ ___
 
  
 ___
-11- <span style="font-size:1em;">Week 11 (November 11): **Robustness in ML, adverserial attacks, FL and robustness, and intro to Interpretability and Explainability**</span>
+11- <span style="font-size:1em;">Week 11 (November 11): **Robustness in ML, adverserial attacks, and FL and robustness**</span>
 - **Lecture**: [Slides](https://drive.google.com/file/d/1nyARE6fPEC77iwWOQ-P-J0gNyIRofOd4/view?usp=share_link)
 - **Reading**: 
   
@@ -93,7 +93,7 @@ ___
 
 
 ___
-12- <span style="font-size:1em;">Week 12 (November 18): **Post-hoc Explanations: Model Agnostic Methods**</span>
+12- <span style="font-size:1em;">Week 12 (November 18): ** Intro to Interpretability and Explainability, and Post-hoc Explanations: Model Agnostic Methods**</span>
 - **Lecture**: [Slides]()
 - **Reading**: 
   * [Towards a rigorous science of interpretable machine learning](https://arxiv.org/abs/1702.08608)
