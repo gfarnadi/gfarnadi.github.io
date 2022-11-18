@@ -94,13 +94,13 @@ ___
 
 ___
 12- <span style="font-size:1em;">Week 12 (November 18): ** Intro to Interpretability and Explainability, and Post-hoc Explanations: Model Agnostic Methods**</span>
-- **Lecture**: [Slides]()
+- **Lecture**: [Slides](https://drive.google.com/file/d/18jwgk8yE4RzFEDM71ESq2EaBx_bkp7vp/view?usp=share_link)
 - **Reading**: 
   * [Towards a rigorous science of interpretable machine learning](https://arxiv.org/abs/1702.08608)
-  * Human-in-the-loop Models & Explanations: Faithful and Customizable Explanations of Black Box Models
-  * Understanding Black-box Predictions via Influence Functions.
-  * Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.
-  * Manipulating and Measuring Model Interpretability
+  * [Human-in-the-loop Models & Explanations: Faithful and Customizable Explanations of Black Box Models]()
+  * [Understanding Black-box Predictions via Influence Functions.)[]
+  * [Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.]()
+  * [Manipulating and Measuring Model Interpretability]()
 
 ___
 13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: Model Specific Methods, and intersection of Explanation, Privacy and Fairness**</span>
