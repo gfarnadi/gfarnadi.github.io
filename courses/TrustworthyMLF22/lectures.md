@@ -98,7 +98,7 @@ ___
 - **Reading**: 
   * [Towards a rigorous science of interpretable machine learning](https://arxiv.org/abs/1702.08608)
   * [Human-in-the-loop Models & Explanations: Faithful and Customizable Explanations of Black Box Models]()
-  * [Understanding Black-box Predictions via Influence Functions.)[]
+  * [Understanding Black-box Predictions via Influence Functions]()
   * [Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.]()
   * [Manipulating and Measuring Model Interpretability]()
 
