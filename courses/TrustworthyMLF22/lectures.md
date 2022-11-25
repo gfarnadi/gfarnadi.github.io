@@ -93,7 +93,7 @@ ___
 
 
 ___
-12- <span style="font-size:1em;">Week 12 (November 18): ** Intro to Interpretability and Explainability, and Post-hoc Explanations: Model Agnostic Methods**</span>
+12- <span style="font-size:1em;">Week 12 (November 18): ** Intro to Interpretability and Explainability, and Post-hoc Explanations: local approaches**</span>
 - **Lecture**: [Slides](https://drive.google.com/file/d/18jwgk8yE4RzFEDM71ESq2EaBx_bkp7vp/view?usp=share_link)
 - **Reading**: 
   * [Towards a rigorous science of interpretable machine learning](https://arxiv.org/abs/1702.08608)
@@ -103,10 +103,13 @@ ___
   * [Manipulating and Measuring Model Interpretability]()
 
 ___
-13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: Model Specific Methods, and intersection of Explanation, Privacy and Fairness**</span>
-- **Lecture**: [Slides]()
+13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: Post-hoc Explanations: local vs. global approaches**</span>
+- **Lecture**: [Slides](https://drive.google.com/file/d/14Ux40l2L7cYs7Q_yiObTSjoCOnolVieR/view?usp=share_link)
 - **Reading**: 
-  * Sanity Checks for Saliency Maps
+  * [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292)
+  * [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
+  * ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)
+  * [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279)
 
 ___
 14- <span style="font-size:1em;">Week 14 (December 2): **Project Preperation and Neurips**</span>
@@ -114,6 +117,7 @@ ___
 
 ___
 15- <span style="font-size:1em;">Week 15 (December 9): **Project Presentation**</span>
-- Room: TBD 
+- Room: Bleu, Salle Rona (Côte-Sainte-Catherine 1er étage, capacité 30)
+ 
 
 
