@@ -93,7 +93,7 @@ ___
 
 
 ___
-12- <span style="font-size:1em;">Week 12 (November 18): ** Intro to Interpretability and Explainability, and Post-hoc Explanations: local approaches**</span>
+12- <span style="font-size:1em;">Week 12 (November 18): **Intro to Interpretability and Explainability, and Post-hoc Explanations: local approaches**</span>
 - **Lecture**: [Slides](https://drive.google.com/file/d/18jwgk8yE4RzFEDM71ESq2EaBx_bkp7vp/view?usp=share_link)
 - **Reading**: 
   * [Towards a rigorous science of interpretable machine learning](https://arxiv.org/abs/1702.08608)
