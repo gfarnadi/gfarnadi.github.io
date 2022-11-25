@@ -103,7 +103,7 @@ ___
   * [Manipulating and Measuring Model Interpretability]()
 
 ___
-13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: Post-hoc Explanations: local vs. global approaches**</span>
+13- <span style="font-size:1em;">Week 13 (November 26): **Post-hoc Explanations: local vs. global approaches**</span>
 - **Lecture**: [Slides](https://drive.google.com/file/d/14Ux40l2L7cYs7Q_yiObTSjoCOnolVieR/view?usp=share_link)
 - **Reading**: 
   * [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292)
