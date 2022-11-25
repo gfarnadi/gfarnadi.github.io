@@ -19,10 +19,12 @@ This project will be worth 60% of your final grade. You must work in teams of on
 - Design of experiments: 2%
 
 ### Project Final Report (30%)
-- Clarity/Relevance of problem statement and description of approach: 10%
-- Discussion of relationship to previous work and references: 4%
+- Clarity/Relevance of problem statement and description of approach: 3%
+- Discussion of relationship to previous work and references: 3%
 - Design and execution of experiments: 10%
 - Figures/Tables/Writing: easily readable, properly labeled, informative: 5%
+- Disscussion of the limitations, relations to all aspects of trustworthy ML fields, and societical impacts: 3%
+- Code: 5% (you need to send your code via email to the instructor)
 - Individual report: 1%
 
 ### Project Presentation (10%)
