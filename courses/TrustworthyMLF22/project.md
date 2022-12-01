@@ -18,8 +18,8 @@ This project will be worth 60% of your final grade. You must work in teams of on
 - Research questions: 3%
 - Design of experiments: 2%
 
-### Project Final Report (30%)
-- Clarity/Relevance of problem statement and description of approach: 3%
+### Project Final Report (35%)
+- Clarity/Relevance of problem statement and description of approach: 8%
 - Discussion of relationship to previous work and references: 3%
 - Design and execution of experiments: 10%
 - Figures/Tables/Writing: easily readable, properly labeled, informative: 5%
