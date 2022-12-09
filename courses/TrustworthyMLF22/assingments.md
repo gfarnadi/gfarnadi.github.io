@@ -105,6 +105,7 @@ ___
 
 ___
 15- <span style="font-size:1em;">Week 15 (December 9): **Project Presentation**</span>
-- Room: TBD 
+- Room: Bleu, Salle Rona (Côte-Sainte-Catherine 1er étage, capacité 30)
+
 
 
