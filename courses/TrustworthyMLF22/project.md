@@ -67,3 +67,5 @@ Be modest! Don't pick a project that is way too hard. Usually, if you select the
 - **Be careful!** Don't do foolish things like test on your training data, set parameters by cheating, compare unfairly against other methods, include plots with unlabeled axes, use undefined symbols in equations, etc. Do sensible cross-checks like running your algorithms several times, leaving out small parts of your data, adding a few noisy points, etc. to make sure everything still works reasonably well. Make lots of pictures along the way.
 - **Learn!** The point of the project is to give you a chance to "test drive" the process of doing trustworthy machine learning. Consider this an opportunity to learn how to write code to run large experiments, make nice figures, layout readable equations, describe your work concisely to a smart but uninitiated reader, etc.
 - **Have fun!** If you pick something you think is cool, that will make getting it to work less painful and writing up your results less boring.
+
+[Class projects](https://drive.google.com/file/d/1fC5gISSL6dg8vBwaBp8k8bicoG8dAvUG/view?usp=share_link)
