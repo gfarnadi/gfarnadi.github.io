@@ -25,6 +25,7 @@ If you are interested to join the lab, please follow the application instruction
 - [Jia Ao Sun](), MSc, UdeM, Fall 2020 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
 
 ### Research Intern
+- [Khaoula Chehbouni](), Full-time Intern, Winter 2023
 - [Sikha Pentyala](), Full-time Intern, Fall 2021 (co-supervision with [Martine De Cock](http://faculty.washington.edu/mdecock/))
 - [Maryam Molamohammadi](), Part-time Intern, Fall 2022
 
