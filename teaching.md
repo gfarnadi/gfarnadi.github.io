@@ -1,10 +1,14 @@
 | [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
 
 ## Teaching 
+
+**Machine Learning 1 (Winter 2023), HEC Montreal/Mila**
+
+- All materials and details are avaialble at the [machine learning course webpage: Winter 2023](courses/MLW2023/main.md).
+
 **Trustworthy Machine Learning (Fall 2022), HEC Montreal/Mila**
 
 - All materials and details are avaialble at the [turstworthy machine learning course webpage: Fall 2022](courses/TrustworthyMLF22/main.md).
-
 
 **Machine Learning 1 (Winter 2022), HEC Montreal/Mila**
 
