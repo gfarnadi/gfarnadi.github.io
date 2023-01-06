@@ -12,7 +12,7 @@ Due to the hybrid nature of the semester, this course will be given as a [flippe
 
 ## Time & room
 - Fridays 12:30 pm - 15:30 pm
-- room: TBA
+- room: [Salle Groupe Cholette](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/cholette.html)
 
 ## Feedback
 Please use this [form](https://forms.gle/VVNQogf2fBi9tKq38) to provide feedback about the course.
