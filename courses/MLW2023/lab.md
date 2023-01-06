@@ -85,7 +85,6 @@ ___
 
 ___
 15- Week 15 (April 14): **Class Project presentation**
-* Room: TBA
 
 ___
 * Final exam: April 30
