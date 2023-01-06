@@ -121,7 +121,7 @@ ___
 - No lectures
 
 ___
-15- <span style="font-size:1em;">Week 14 (April 14): **Class Project presentation**</span>
+15- <span style="font-size:1em;">Week 15 (April 14): **Class Project presentation**</span>
 
 ___
 * Final exam: April 30
