@@ -74,19 +74,18 @@ ___
 
 
 ___
-13- Week 13 (April 3): **Sequential decision making II** 
+13- Week 13 (March 31): **Sequential decision making II** 
 - [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week13_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Question.ipynb)
 
 
 ___
-14- Week 14 (April 10): **Class Project presentation**
+14- Week 14 (April 7): **Easter Break**
+* No hands-on
+
+___
+15- Week 15 (April 14): **Class Project presentation**
 * Room: TBA
 
 ___
-15- Week 15 (April 17): 
-* Final exam: TBA
-
-___
-
-
+* Final exam: April 30
