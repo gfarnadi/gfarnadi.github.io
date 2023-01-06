@@ -11,7 +11,7 @@ The plan is to survey different machine learning techniques (supervised, unsuper
 Due to the hybrid nature of the semester, this course will be given as a [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom). It is an instructional strategy where students learn the material before they come to the class. The material will be a mix of readings and video capsules. Class time is reserved for more active activities such as problem solving, demonstrations, and questions-answering. In addition, class time will contain a short summary of the week's material.
 
 ## Time & room
-- Fridays 12:30 pm - 15:30 pm
+- Fridays 12:00 pm - 15:00 pm
 - room: [Salle Groupe Cholette](https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/cholette.html)
 
 ## Feedback
