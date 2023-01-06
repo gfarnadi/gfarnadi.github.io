@@ -17,12 +17,12 @@ ___
 
 ___
 2- Week 2 (January 13): **Machine learning fundamentals** 
-- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week2_summary.pdf)
+- [Class summary]()
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week2-Fundamentals/Fundamentals_questions.ipynb). If you do not want to use colab, here are the two files you need to download: 1) [Fundamentals_questions.ipynb](https://raw.githubusercontent.com/lcharlin/80-629/master/week2-Fundamentals/Fundamentals_questions.ipynb) OR [Fundamentals_questions.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week2-Fundamentals/Fundamentals_questions.py) AND 2) [utilities.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week2-Fundamentals/utilities.py)
 
 ___
 3- Week 3 (January 20): **Supervised learning algorithms** 
-- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week3_summary.pdf)
+- [Class summary]()
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_questions.ipynb). If you do not want to use colab, here are the two files you need to download: 1) [Fundamentals_questions.ipynb](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/Supervised_questions.ipynb) OR [Fundamentals_questions.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/Supervised_questions.py) AND 2) [utils.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/utils.py)
 
 ___
@@ -32,12 +32,12 @@ ___
 
 ___
 5- Week 5 (February 3): **Neural networks and deep learning** 
-- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week5_summary.pdf)
+- [Class summary]()
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_questions.ipynb)
 
 ___
 6- Week 6 (February 10): **Recurrent Neural networks and Convolutional neural networks** 
-- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week6_summary.pdf)
+- [Class summary]()
 - [Exercises RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Questions.ipynb)
 - [Exercises CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Questions.ipynb)
 
@@ -46,7 +46,7 @@ ___
 
 ___
 7- Week 7 (February 17): **Unsupervised learning** 
-- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week7_summary.pdf)
+- [Class summary]()
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week7-Unsupervised/Unsupervised_questions.ipynb)
 
 
@@ -60,22 +60,22 @@ ___
 
 ___
 10- Week 10 (March 10): **Parallel computational paradigms for large-scale data processing**
-- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week9_summary.pdf)
+- [Class summary]()
 - [Example (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week10-ParallelComputations/CPU_GPU_TPU.ipynb)
 
 ___
 11- Week 11 (March 17): **Trustworthy Machine Learning** 
-- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week11_summary.pdf)
+- [Class summary]()
 
 ___
 12- Week 12 (March 24): **Sequential decision making I** 
-- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week12_summary.pdf)
+- [Class summary]()
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week12-MDPs/value_and_policy_iteration_question.ipynb)
 
 
 ___
 13- Week 13 (March 31): **Sequential decision making II** 
-- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Week13_summary.pdf)
+- [Class summary]()
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Question.ipynb)
 
 
