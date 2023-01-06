@@ -9,7 +9,7 @@ Exclusively in the event that you have a question of a sensitive, personal natur
 
 ### Instructor
 **Golnoosh Farnadi** (Speaks English): 
-- Office hour: Fridays 3:30 pm - 4:30 pm
+- Office hour: Fridays 3:00 pm - 4:00 pm
 - Room: 4.834
 - email: golnoosh[dot]farnadi[at]hec[dot]ca
 
