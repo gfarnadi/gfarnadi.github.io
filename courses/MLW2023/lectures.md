@@ -117,11 +117,13 @@ ___
 - **Reading**: Required reading: Sections 1 through 4 from this [Survey](https://www.jair.org/index.php/jair/article/download/10166/24110/), Chapters 1,3,4, and 6 from [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). Optional: [Demo of the TD algorithm](https://www.cs.toronto.edu/~lcharlin/courses/80-629/reinforcejs/gridworld_td.html) (from Andrej Karpathy)
 
 ___
-14- <span style="font-size:1em;">Week 14 (April 7): **Class Project presentation**</span>
-* Room: TPA
+14- <span style="font-size:1em;">Week 14 (April 7): **Easter Break**</span>
+- No lectures
 
 ___
-15- <span style="font-size:1em;">Week 15 (April 14)</span>
-* Final exam: TBA
+15- <span style="font-size:1em;">Week 14 (April 14): **Class Project presentation**</span>
+
+___
+* Final exam: April 30
 * Past exam examples: [Fall 2018](http://www.cs.toronto.edu/~lcharlin/courses/80-629/exam_80629_A18.pdf), [Fall 2020](http://www.cs.toronto.edu/~lcharlin/courses/80-629/examen_80629_A20.pdf) (French)
 
