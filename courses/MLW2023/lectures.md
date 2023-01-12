@@ -12,7 +12,7 @@ ___
 
 ___
 2- <span style="font-size:1em;">Week 2 (January 13): **Machine learning fundamentals**</span> 
-- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_ml-fundamentals.pdf)
+- **Lecture**: [Slides](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_ml-fundamentals.pdf)
 - **Capsules**:  
   * [Learning Problem](https://youtu.be/XHjYLAooCQI) [14:40]
   * [Types of Experiences](https://youtu.be/bUrw6MWiI7E) [13:15]
@@ -26,7 +26,7 @@ ___
   
 ___
 3- <span style="font-size:1em;">Week 3 (January 20): **Supervised learning algorithms**</span> 
-- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_supervised.pdf)
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_supervised.pdf)
 - **Capsules**: 
   * [Nearest Neighbor](https://youtu.be/wrpB9mxmhJc) [19:05]
   * [Linear Classification](https://youtu.be/Kv8Ab2I_7CM) [15:26]
@@ -43,7 +43,7 @@ ___
 
 ___
 5- <span style="font-size:1em;">Week 5 (February 3): **Neural networks and deep learning**</span> 
-- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_nn.pdf)
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_nn.pdf)
 - **Capsules**: 
   * [From linear classification to neural networks](https://youtu.be/Bs6NA2gGz78) [19:28]
   * [Training neural networks](https://youtu.be/c47a3YxIG7k) [20:14]
@@ -56,7 +56,7 @@ ___
 
 ___
 6- <span style="font-size:1em;">Week 6 (February 10): **Recurrent Neural networks and Convolutional neural networks**</span> 
-- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rnn-cnn.pdf)
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rnn-cnn.pdf)
 - **Capsules**: 
   * [Modelling Sequential Data](https://youtu.be/Ra_n9vJ89wM) [8:42]
   * [Practical Overview of RNNs](https://youtu.be/2euWyjhO0GM) [29:32]
@@ -68,7 +68,7 @@ ___
 
 ___
 7- <span style="font-size:1em;">Week 7 (February 17): **Unsupervised learning**</span> 
-- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_unsupervised.pdf)
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_unsupervised.pdf)
 - **Capsules**: 
   * [Introduction to unsupervised learning](https://youtu.be/z_PcTBDHvOs) [8:17]
   * [K-means clustering](https://youtu.be/9EFWKAQ3TSs) [41:58] (there's a natural break at 22:28)
@@ -86,7 +86,7 @@ ___
 
 ___
 10- <span style="font-size:1em;">Week 10 (March 10): **Parallel computational paradigms for large-scale data processing**</span>
-- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_largeScale.pdf)
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_largeScale.pdf)
 - **Capsules**: 
   * [Introduction to Distributed Computing for ML](https://youtu.be/CtYOBS9pDvg) [19:35]
   * [MapReduce](https://youtu.be/U3FLRYH3R5Q) [17:41]
@@ -99,7 +99,7 @@ ___
 
 ___
 12- <span style="font-size:1em;">Week 12 (March 24): **Sequential decision making I**</span> 
-- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rl.pdf)
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl.pdf)
 - **Capsules**: 
   * [Motivating RL](https://youtu.be/V2WrKWyiPoQ) [8:22]
   * [Planning with MDPs](https://youtu.be/FwQQCSL5I_Y) [12:16]
@@ -109,7 +109,7 @@ ___
 
 ___
 13- <span style="font-size:1em;">Week 13 (March 31): **Sequential decision making II**</span> 
-- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rl2.pdf)
+- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl2.pdf)
 - **Capsules**: 
   * [Introduction to RL](https://www.youtube.com/watch?v=VnZ4558bXys) [13:31]
   * [A first RL algorithm](https://www.youtube.com/watch?v=EYeACgMxHVk) [17:13]
