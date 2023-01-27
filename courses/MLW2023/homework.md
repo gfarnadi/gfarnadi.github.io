@@ -32,7 +32,7 @@ Homework assignments are count for 20% of your final grade.
 - **Assignment 1**: due **February 17, 2023**. Upload the answers (Code and PDF) to your gradescope account. 
 Late policy with 30% penalty per day.
 
-* [Assignment 1: Questions]()
+* [Assignment 1: Questions](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/MATH80629A_W2023_Assignment_1.pdf)
 
 - **Assignment 2**: due **March 10, 2023**. Upload the answers (Code and PDF) to your gradescope account. 
 Late policy with 30% penalty per day.
