@@ -37,7 +37,7 @@ Late policy with 30% penalty per day.
 - **Assignment 2**: due **March 10, 2023**. Upload the answers (Code and PDF) to your gradescope account. 
 Late policy with 30% penalty per day.
 
-* [Assignment 2: Questions]()
+* Assignment 2: Questions: TBD
 
 
 - **Assignment 3**: Case study on Recommender Systems: answer question 1, due **March 16, 2023**. Upload the PDF to your gradescope account.
