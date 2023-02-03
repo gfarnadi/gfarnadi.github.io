@@ -26,16 +26,18 @@ ___
 - [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/lecture_files/Week3_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_questions.ipynb). If you do not want to use colab, here are the two files you need to download: 1) [Fundamentals_questions.ipynb](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/Supervised_questions.ipynb) OR [Fundamentals_questions.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/Supervised_questions.py) AND 2) [utils.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/utils.py)
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_answers.ipynb)
-
+- [Solution (colab)]
 ___
 
 4- Week 4 (January 27): **Python for scientific computations and machine learning** 
 - [Tutorial (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML.ipynb)
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction_to_ML_Solutions.ipynb)
 
 ___
 5- Week 5 (February 3): **Neural networks and deep learning** 
-- [Class summary]()
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/lecture_files/Week5_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_questions.ipynb)
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_answers.ipynb)
 
 ___
 6- Week 6 (February 10): **Recurrent Neural networks and Convolutional neural networks** 
