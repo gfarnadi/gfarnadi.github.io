@@ -26,7 +26,7 @@ ___
 - [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/lecture_files/Week3_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_questions.ipynb). If you do not want to use colab, here are the two files you need to download: 1) [Fundamentals_questions.ipynb](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/Supervised_questions.ipynb) OR [Fundamentals_questions.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/Supervised_questions.py) AND 2) [utils.py](https://raw.githubusercontent.com/lcharlin/80-629/master/week3-Supervised/utils.py)
 - [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_answers.ipynb)
-- [Solution (colab)]
+
 ___
 
 4- Week 4 (January 27): **Python for scientific computations and machine learning** 
