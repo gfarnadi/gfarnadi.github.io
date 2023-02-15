@@ -41,10 +41,11 @@ ___
 
 ___
 6- Week 6 (February 10): **Recurrent Neural networks and Convolutional neural networks** 
-- [Class summary]()
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/lecture_files/Week6_summary.pdf)
 - [Exercises RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Questions.ipynb)
 - [Exercises CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Questions.ipynb)
-
+- [Solution RNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Answers.ipynb)
+- [Solution CNNs (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/CNNs_Answers.ipynb)
 
 - Optional: if you are intrested to learn more, this [Exercises CNNs: Pytorch (colab)](https://towardsdatascience.com/pytorch-basics-how-to-train-your-neural-net-intro-to-cnn-26a14c2ea29) is an example of CNNs implemented in [Pytorch](https://pytorch.org/). 
 
