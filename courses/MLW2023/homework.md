@@ -29,18 +29,21 @@ Homework assignments are count for 20% of your final grade.
 - Code will be graded according to style in addition to functionality.
 
 #### Assignments
-- **Assignment 1**: due **February 17, 2023**. Upload the answers (Code and PDF) to your gradescope account. 
+- **Assignment 1**: due **February 17, 2023**. Upload the answers (Code and PDF) to your gradescope account. (9%)
 Late policy with 30% penalty per day.
 
 * [Assignment 1: Questions](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/MATH80629A_W2023_Assignment_1.pdf)
 
-- **Assignment 2**: due **March 10, 2023**. Upload the answers (Code and PDF) to your gradescope account. 
+- **Assignment 2**: due **March 11, 2023**. Upload the answers (Code and PDF) to your gradescope account. (10%)
 Late policy with 30% penalty per day.
 
-* Assignment 2: Questions: TBD
+* [Assignment 2]: (https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/MATH80629A_W2023_Assignment_2.pdf)
+* [CNN data: Weather Dataset](https://drive.google.com/file/d/1GeMabghHqPqPc6EwcITMEPqEWcoJoJ0P/view?usp=sharing)
+* [RNN data: CoNLL2000Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/)
+* [Colab](https://drive.google.com/file/d/1d-snchdfEJSMRFDqNNVgYkpboSAwAC4j/view?usp=share_link)
 
 
-- **Assignment 3**: Case study on Recommender Systems: answer question 1, due **March 16, 2023**. Upload the PDF to your gradescope account.
+- **Assignment 3**: Case study on Recommender Systems: answer question 1, due **March 16, 2023**. Upload the PDF to your gradescope account. (1%)
 
 * [Assignment 3: Questions](http://www.cs.toronto.edu/~lcharlin/courses/80-629/case_Decathlon-preparation.pdf)
 
