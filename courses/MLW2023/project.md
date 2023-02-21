@@ -21,8 +21,8 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - [Team Registration](https://forms.gle/K3HjNaBoJjTvbm5z8), due: **January 20, 2023**. Fill this [form](https://forms.gle/jnwjMkkSXYiZShqE9).
 - [Study plan](assignments/Project%20assignment%201_study%20plan.pdf), due: **March 1, 2023** (by the end of the day EDT). Upload the PDF of the proposal to [gradescope]) by the head of the team (one upload per each team).
 - Project meeting, **March 3, 2023** 
-- [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **April 14, 2023 (4 pm EST)**. Upload the PDF of your poster/slides to [gradescope]() by the head of the team (one upload per each team).
-- In-class Presentation, on **April 7, 2023**.
+- [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **April 13, 2023 (4 pm EST)**. Upload the PDF of your poster/slides to [gradescope]() by the head of the team (one upload per each team).
+- In-class Presentation, on **April 14, 2023**.
 - [Final group report](assignments/Project%20assignment%203_group%20report.pdf), due: **April 23, 2023** (by the end of the day EDT). Upload the PDF of the final group report to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team. And Upload the PDF of the final group report to [gradescope]() by the head of the team (one upload per each team).
 - [Final individual report](assignments/Project%20assignment%204_individual%20report.pdf), due: **April 23, 2023** (by the end of the day EDT). Upload the PDF of the final individual report to [gradescope](https://www.gradescope.ca/courses/6006) (per each team member).
 - [Final code](), due: **April 23, 2023** (by the end of the day EDT). Upload the zip file of the final project code to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team (one upload per each team).
