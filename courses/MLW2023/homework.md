@@ -34,7 +34,7 @@ Late policy with 30% penalty per day.
 
 * [Assignment 1: Questions](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/MATH80629A_W2023_Assignment_1.pdf)
 
-- **Assignment 2**: due **March 11, 2023**. Upload the answers (Code and PDF) to your gradescope account. 
+- **Assignment 2**: due **March 12, 2023**. Upload the answers (Code and PDF) to your gradescope account. 
 Late policy with 30% penalty per day.
 
 * [Assignment 2]: (https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/MATH80629A_W2023_Assignment_2.pdf)
@@ -44,7 +44,7 @@ Late policy with 30% penalty per day.
 
 - **Assignment 3**: Case study on Recommender Systems: answer question 1, due **March 16, 2023**. Upload the PDF to your gradescope account. 
 
-* [Assignment 3: Questions](http://www.cs.toronto.edu/~lcharlin/courses/80-629/case_Decathlon-preparation.pdf)
+* [Assignment 3: Questions](http://www.cs.toronto.edu/~lcharlin/courses/60629/case_Decathlon-preparation.pdf)
 
 
 
