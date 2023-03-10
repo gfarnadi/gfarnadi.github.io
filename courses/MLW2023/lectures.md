@@ -125,5 +125,5 @@ ___
 
 ___
 * Final exam: April 30
-* Past exam examples: [Fall 2018](http://www.cs.toronto.edu/~lcharlin/courses/80-629/exam_80629_A18.pdf), [Fall 2020](http://www.cs.toronto.edu/~lcharlin/courses/80-629/examen_80629_A20.pdf) (French)
+* Past exam examples: [Fall 2018](http://www.cs.toronto.edu/~lcharlin/courses/80-629/exam_80629_A18.pdf), [Fall 2020](http://www.cs.toronto.edu/~lcharlin/courses/60629/examen_80629A_F20.pdf) (French) Solutions (http://www.cs.toronto.edu/~lcharlin/courses/60629/examen_80629A_F20_solutions.pdf)
 
