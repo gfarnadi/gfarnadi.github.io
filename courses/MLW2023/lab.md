@@ -65,7 +65,7 @@ ___
 
 ___
 10- Week 10 (March 10): **Parallel computational paradigms for large-scale data processing**
-- [Class summary]()
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/lecture_files/Week10_summary.pdf)
 - [CNN+ Fine tuning Exercises (colab)](https://colab.research.google.com/drive/1MhJp0QeEWZgT-H1pCP6dYqfa0C3YGlLL?usp=sharing)
 
 ___
