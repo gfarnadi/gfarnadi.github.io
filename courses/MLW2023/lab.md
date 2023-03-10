@@ -66,7 +66,7 @@ ___
 ___
 10- Week 10 (March 10): **Parallel computational paradigms for large-scale data processing**
 - [Class summary]()
-- [CNN+ Fine tuning Exercises (colab)]()
+- [CNN+ Fine tuning Exercises (colab)](https://colab.research.google.com/drive/1MhJp0QeEWZgT-H1pCP6dYqfa0C3YGlLL?usp=sharing)
 
 ___
 11- Week 11 (March 17): **Trustworthy Machine Learning** 
