@@ -66,7 +66,6 @@ ___
 ___
 10- Week 10 (March 10): **Parallel computational paradigms for large-scale data processing**
 - [Class summary]()
-- [Example (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week10-ParallelComputations/CPU_GPU_TPU.ipynb)
 
 ___
 11- Week 11 (March 17): **Trustworthy Machine Learning** 
