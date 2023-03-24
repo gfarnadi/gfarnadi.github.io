@@ -76,7 +76,7 @@ ___
 12- Week 12 (March 24): **Sequential decision making I** 
 - [Class summary]()
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week12-MDPs/value_and_policy_iteration_question.ipynb)
-
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week12-MDPs/value_and_policy_iteration_solution.ipynb)
 
 ___
 13- Week 13 (March 31): **Sequential decision making II** 
