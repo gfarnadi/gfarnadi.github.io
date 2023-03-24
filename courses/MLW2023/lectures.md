@@ -105,7 +105,7 @@ ___
   * [Planning with MDPs](https://youtu.be/FwQQCSL5I_Y) [12:16]
   * [MDP objective](https://youtu.be/3vX-J61A8NQ) [14:16]
   * [Algorithms for solving MDPs](https://youtu.be/HBTyOjt4QBk) [17:51]: Note: In this capsule, there is a mistake in the second equation of the policy iteration algorithm (the transition should be given a and not π(s)), the slides have been corrected (see slides 47 and 48)
-- **Reading**: Optional: [Demo of the policy iteration algorithm](https://www.cs.toronto.edu/~lcharlin/courses/80-629/reinforcejs/gridworld_dp.html) (from Andrej Karpathy)
+- **Reading**: Optional: [Demo of the policy iteration algorithm](http://www.cs.toronto.edu/~lcharlin/courses/60629/reinforcejs/gridworld_dp.html) (from Andrej Karpathy)
 
 ___
 13- <span style="font-size:1em;">Week 13 (March 31): **Sequential decision making II**</span> 
@@ -114,7 +114,7 @@ ___
   * [Introduction to RL](https://www.youtube.com/watch?v=VnZ4558bXys) [13:31]
   * [A first RL algorithm](https://www.youtube.com/watch?v=EYeACgMxHVk) [17:13]
   * [RL Algorithms for Control](https://www.youtube.com/watch?v=PeGnFc5S-f4) [21:10]
-- **Reading**: Required reading: Sections 1 through 4 from this [Survey](https://www.jair.org/index.php/jair/article/download/10166/24110/), Chapters 1,3,4, and 6 from [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). Optional: [Demo of the TD algorithm](https://www.cs.toronto.edu/~lcharlin/courses/80-629/reinforcejs/gridworld_td.html) (from Andrej Karpathy)
+- **Reading**: Required reading: Sections 1 through 4 from this [Survey](https://www.jair.org/index.php/jair/article/download/10166/24110/), Chapters 1,3,4, and 6 from [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). Optional: [Demo of the TD algorithm](http://www.cs.toronto.edu/~lcharlin/courses/60629/reinforcejs/gridworld_td.html) (from Andrej Karpathy)
 
 ___
 14- <span style="font-size:1em;">Week 14 (April 7): **Easter Break**</span>
@@ -125,5 +125,5 @@ ___
 
 ___
 * Final exam: April 30
-* Past exam examples: [Fall 2018](http://www.cs.toronto.edu/~lcharlin/courses/80-629/exam_80629_A18.pdf), [Fall 2020](http://www.cs.toronto.edu/~lcharlin/courses/60629/examen_80629A_F20.pdf) (French) [Solutions](http://www.cs.toronto.edu/~lcharlin/courses/60629/examen_80629A_F20_solutions.pdf)
+* Past exam examples: [Fall 2018](http://www.cs.toronto.edu/~lcharlin/courses/60629/exam_80629_A18.pdf), [Fall 2020](http://www.cs.toronto.edu/~lcharlin/courses/60629/examen_80629A_F20.pdf) (French) [Solutions](http://www.cs.toronto.edu/~lcharlin/courses/60629/examen_80629A_F20_solutions.pdf)
 
