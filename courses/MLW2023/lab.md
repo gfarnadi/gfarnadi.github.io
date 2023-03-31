@@ -80,9 +80,9 @@ ___
 
 ___
 13- Week 13 (March 31): **Sequential decision making II** 
-- [Class summary]()
+- [Class summary](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/lecture_files/Week13_summary.pdf)
 - [Exercises (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Question.ipynb)
-
+- [Solution (colab)](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Solution.ipynb)
 
 ___
 14- Week 14 (April 7): **Easter Break**
