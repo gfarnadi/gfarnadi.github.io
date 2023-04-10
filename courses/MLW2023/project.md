@@ -23,9 +23,9 @@ This project will be worth 40% of your final grade. You must work in teams of tw
 - Project meeting, **March 3, 2023** 
 - [Project Presentation](assignments/Project%20assignment%202_presentation.pdf), due: **April 13, 2023 (4 pm EST)**. Upload the PDF of your poster/slides to [gradescope]() by the head of the team (one upload per each team).
 - In-class Presentation, on **April 14, 2023**.
-- [Final group report](assignments/Project%20assignment%203_group%20report.pdf), due: **April 23, 2023** (by the end of the day EDT). Upload the PDF of the final group report to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team. And Upload the PDF of the final group report to [gradescope]() by the head of the team (one upload per each team).
-- [Final individual report](assignments/Project%20assignment%204_individual%20report.pdf), due: **April 23, 2023** (by the end of the day EDT). Upload the PDF of the final individual report to [gradescope](https://www.gradescope.ca/courses/6006) (per each team member).
-- [Final code](), due: **April 23, 2023** (by the end of the day EDT). Upload the zip file of the final project code to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team (one upload per each team).
+- [Final group report](assignments/Project%20assignment%203_group%20report.pdf), due: **April 30, 2023** (by the end of the day EDT). Upload the PDF of the final group report to [gradescope](https://www.gradescope.ca/courses/6006) by the head of the team. And Upload the PDF of the final group report to [gradescope]() by the head of the team (one upload per each team).
+- [Final individual report](assignments/Project%20assignment%204_individual%20report.pdf), due: **April 30, 2023** (by the end of the day EDT). Upload the PDF of the final individual report to [gradescope](https://www.gradescope.ca/courses/6006) (per each team member).
+- [Final code](), due: **April 30, 2023** (by the end of the day EDT). Upload the zip file of the final project code to [google form](https://forms.gle/FoqGXvxiGSHE5XXf8) by the head of the team (one upload per each team).
 
 ## Goals
 
@@ -59,4 +59,3 @@ To find interesting datasets for your project, you can check:
 - [Kaggle](https://www.kaggle.com/competitions)
 - [UCI: Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
 - [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
-- [presentations](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2022/lecture_files/Project_presentation.pdf)
