@@ -55,7 +55,7 @@ Be modest! Don't pick a project that is way too hard. Usually, if you select the
 
 **Intresting dataset**
 To find interesting datasets for your project, you can check: 
-
+- [Presentations](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/MLW2023/assignments/Machine_Learning_Presentation.pdf)
 - [Kaggle](https://www.kaggle.com/competitions)
 - [UCI: Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
 - [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
