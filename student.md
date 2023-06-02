@@ -26,7 +26,7 @@ If you are interested to join the lab, please follow the application instruction
 - [Jia Ao Sun](), MSc, UdeM, Fall 2020 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
 
 ### Research Intern
-- [Saber](), Full-time Intern, Summer 2023
+- [Saber Malekmohammadi](), Full-time Intern, Summer 2023
 - [Mina Arzaghi](), Full-time Intern, Summer 2023
 - [Khaoula Chehbouni](), Full-time Intern, Winter 2023
 
