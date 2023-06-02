@@ -32,7 +32,7 @@ If you are interested to join the lab, please follow the application instruction
 
 
 ## Previous students
-- [Maricarmen Arenas](), MSc, HEC, Fall 2020 - Winter 2023 (co-supervision with [Reihaneh Rabbany](http://www.reirab.com/))
+- [Maricarmen Arenas](), MSc, HEC, Fall 2020 - Fall 2022 (co-supervision with [Reihaneh Rabbany](http://www.reirab.com/))
 - [Sikha Pentyala](), Full-time Intern, Fall 2021 - Summer 2022 (co-supervision with [Martine De Cock](http://faculty.washington.edu/mdecock/))
 - [Khaoula Chehbouni](), MSc, HEC, Fall 2020 - Summer 2022 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
 - [Maryam Molamohammadi](), Full-time Intern, Fall 2021 - Spring 2022 (co-supervision with [Nicolas Le Roux](http://nicolas.le-roux.name/))
