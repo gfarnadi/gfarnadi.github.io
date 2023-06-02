@@ -11,25 +11,29 @@ If you are interested to join the lab, please follow the application instruction
 - [Afaf Taik](), Post-doc, Mila, Fall 2022
 
 ### PhD
+- [Prakhar Ganesh](https://prakharg24.github.io/), PhD, UdeM, Fall 2023
 - [Raesetje Sefala](https://sefalab.github.io/), PhD, McGill, Fall 2022 (co-supervision with [AJung Moon](https://www.ajungmoon.com/))
 - [William St-Arnaud](), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 
 ### MSc
+- [Yash More](), MSc, UdeM, Fall 2023
 - [Armin Moradi](), MSc, UdeM, Winter 2023
 - [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
 - [Jesse Thibodeau](), MSc, HEC, Fall 2021
 - [Kiarash Mohammadi](https://sites.google.com/view/kiarashinho), MSc, UdeM, Fall 2021
 - [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021
-- [Maricarmen Arenas](), MSc, HEC, Fall 2020 (co-supervision with [Reihaneh Rabbany](http://www.reirab.com/))
 - [Jia Ao Sun](), MSc, UdeM, Fall 2020 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
 
 ### Research Intern
+- [Saber](), Full-time Intern, Summer 2023
+- [Mina Arzaghi](), Full-time Intern, Summer 2023
 - [Khaoula Chehbouni](), Full-time Intern, Winter 2023
-- [Sikha Pentyala](), Full-time Intern, Fall 2021 (co-supervision with [Martine De Cock](http://faculty.washington.edu/mdecock/))
-- [Maryam Molamohammadi](), Part-time Intern, Fall 2022
+
 
 ## Previous students
+- [Maricarmen Arenas](), MSc, HEC, Fall 2020 - Winter 2023 (co-supervision with [Reihaneh Rabbany](http://www.reirab.com/))
+- [Sikha Pentyala](), Full-time Intern, Fall 2021 - Summer 2022 (co-supervision with [Martine De Cock](http://faculty.washington.edu/mdecock/))
 - [Khaoula Chehbouni](), MSc, HEC, Fall 2020 - Summer 2022 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
 - [Maryam Molamohammadi](), Full-time Intern, Fall 2021 - Spring 2022 (co-supervision with [Nicolas Le Roux](http://nicolas.le-roux.name/))
 - [Giulia Occhini](https://www.turing.ac.uk/people/doctoral-students/giulia-occhini), Part-time Intern,  Winter - Spring 2022 (co-supervision with [David Rolnick](https://davidrolnick.com/))
