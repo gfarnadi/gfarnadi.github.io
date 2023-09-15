@@ -1,6 +1,7 @@
 | [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
 
-# Research Group
+# EQUAL Lab: 
+I am directing the EQUAL Lab (**EQ**uity & **EQ**uality **U**sing **A**I and **L**earning algorithms).
 
 ## Open Opportunities
 I have one PhD position at McGill for Fall 2023. If you are interested to work on algorithmic fairness and interested to join my lab, please follow the application instructions bellow.
