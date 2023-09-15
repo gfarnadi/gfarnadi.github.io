@@ -1,54 +1,24 @@
 | [Home](index.md) | [Publications](https://scholar.google.com/citations?user=4Vjp6hwAAAAJ&hl=en) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [EQUAL Lab](student.md) | 
 
-## News
+## Interviews & Media
 
-## 2021
-- (December 21) Three workshop papers from our lab got accepted at AAAI2022!
+- Subject of an article entitled “Making AI Fairer: How Golnoosh Farnadi Tackles Biases”, Mila, 2023 [more info](https://mila.quebec/en/making-ai-fairer-how-golnoosh-farnadi-tackles-biases/)
 
-- (December 13) I organized the 2nd edition of the Neurips workshop on Algorithmic Fairness through the Lens of Causality and Robustness, online, [more info](https://www.afciworkshop.org/)
+- Interview with Simon Lord of La Presse, “Fidèle à ses convictions”, 2023, [more info](https://www.lapresse.ca/affaires/portfolio/2023-02-17/intelligence-artificielle/fidele-a-ses-convictions.php)
 
-- (August 19) I've been invited as a panelist at **VLDB 2021 roundtable session on Responsible AI Systems and Experiences**, online, [more info](https://vldb.org/2021/?program-schedule-roundtable)
+- Work cited in an article entitled “AI and Cities: UN-Habitat and Mila launch a collaborative White Paper on the use and potential challenges of AI to support the development of people-centered sustainable cities and settlements”, CISION, 2022 [more info](https:// www.newswire.ca/news-releases/ai-and-cities-un-habitat-and-mila-launch-a-collaborative-white-paper-on-the-use-and-potential-challenges-of-ai- to-support-the-development-of-people-centered-sustainable-cities-and-settlements-877938898.html)
 
-- (July 30) Our Neurips workshop on **Algorithmic Fairness through the Lens of Causality and Robustness** got accepted! [moreinfo](https://www.afciworkshop.org/)
+- Interview with CIFAR's Krista Davidson, “Reducing discrimination and bias in AI: Q&A with Golnoosh Farnadi,” 2021 [more info](https://cifar.ca/cifarnews/2021/11/17/reducing-discrimination-and-bias-in-ai -qa-with-golnoosh-farnadi/)
 
-- (July 23) I've been invited as a speaker at **ICML 2021 workshop on Workshop on Representation Learning for Finance and e-Commerce Applications**, online, [more info](https://sites.google.com/view/rlfeca2021)
+- Interview with Jean-François Venne published by Le Devoir, “Humaine, artificial intelligence too human?”, 2021 [more info](https://www.ledevoir.com/societe/science/597968/ humaine-trop- humaine-l-intelligence- artificial)
 
-- (July 20) Our proposal (with my co-PI [Martine De Cock](http://faculty.washington.edu/mdecock/)) won the **Facebook 2021 Research Award for Privacy Enhancing Technologies** (104k USD), [more info](https://research.fb.com/blog/2021/07/investing-in-academic-research-to-improve-our-privacy-technology-our-approach-and-recent-rfp-winners/)! 
+- Subject of an article entitled “Golnoosh Farnadi Receives Google AI 2021 Research Scholar Award”, Mila, 2021 [more info](https://mila.quebec/en/golnoosh-farnadi-receives-google-ai-2021-research-scholar-award/)
 
-- (April 27) I've been invited as a keynote speaker at Symposium on Intelligent Data Analysis (**IDA 2021**), [more info](https://ida2021.org/)
+- Interview with Emmanuel Delacour of CScience IA, “Making AI fairer, one algorithm at a time”, 2021 [more info](http://www.cscience.ca/2021/03/04/rendre-lia-plus-juste-un -algorithm-at-a-time/)
 
-- (April 26) I've been invited as a lecturer at the 6th edition of **MILA/IVADO summer school on Deep Learning**, Vancouver, [more info](https://ivado.ca/en/events/6th-ivado-mila-deep-learning-school/)
+- Works cited in an article entitled “10 best free online Responsible AI courses in 2021”, The good AI, 2021 [more info](https://thegoodai.co/2021/02/18/10-best-free-online-responsible-ai-courses -in-2021/)
 
-- (April 23) I've been invited as a speaker at **TechAide 2021** conference, [more info](https://mila.quebec/en/techaide-ai-conference/)
+- Work cited in an article on CIFAR AI chair, HEC Montréal, “A Canada-CIFAR chair in artificial intelligence awarded to Golnoosh Farnadi”, 2021 [more info](https://www.hec.ca/nouvelles/2021/une-chaire-en-intelligence -artificial-Canada-CIFAR-attributed-to-Golnoosh-Farnadi.html)
 
-- (March 10) I've been selected to receive **Google scholar Award** (60k USD), Thank you Google! 
+- Interview with Chloe Gibert from CScience IA, “Bias and discrimination: training to the rescue”, 2020 [more info](https://www.cscience.ca/2020/09/09/biais-et-discriminations-une-formation-a- the rescue/)
 
-- (January 20) I've been appointed one of the **Canada CIFAR AI (CCAI) Chairs**! Thank you CIFAR and MILA!, [more info](https://www.hec.ca/nouvelles/2021/une-chaire-en-intelligence-artificielle-Canada-CIFAR-attribuee-a-Golnoosh-Farnadi.html)
-
-- (January 19) I've been invited as a panelist at **AICAN panel** discussion on policy innovation for responsible AI, [more info](https://events.cifar.ca/website/18516/eng/agenda/tw)
-
-## 2020
-
-- (September 18) I've been invited as a panelist at Gender gap in Data science, HEC Montreal, Montreal, Canada
-
-- (September 3) I've been invited as a panelist at Picture a Scientist, MILA
-
-- (August 21) I've been invited as a plenary talk speaket at NAFIPS2020, Seattle, USA,  Bias and Discrimination in machine learning, [more info](https://nafips2020.digipen.edu/speakers/) 
-
-- (June 18)I've been invited as a panelist at ICESCO Webinar on Artificial Intelligence and Education
-
-- (June. 17) I've been invited as a speaker at NextAI, Montreal, Canada, 17 June, 2020}, Bias and Discrimination in machine learning
-
-
-## 2019
-- (December 6) I will be giving an invited talk on "Bias and Discrimination in AI" at the 5th edition of MILA/IVADO summer school on Deep Learning, Vancouver, [more info](https://ivado.ca/en/trainings/schools/ivado-mila-deep-learning-school-5th-edition-2/)
-
-- (November 14) I will be giving an invited talk on "Deep Individual Fairness Verification" at WiMLDS meetup, Montreal
-
-- (October 30) I will be giving an invited talk on "Learning Fair Naive Bayes Classifiers by Discovering and Eliminating Discrimination Patterns" at Trustworthy AI Symposium at Columbia University, New York, US, [more info](https://datascience.columbia.edu/trustworthy-ai-symposium)
-
-- (September 16) I will present our work on "Fairness through Constrained Optimization" at Microsoft Research's AI Breakthroughs workshop, Redmond, US, [more info](https://www.microsoft.com/en-us/research/event/ai-breakthroughs-2019/)
-
-- (September 13) I will be giving an invited talk on "Bias and Discrimination in AI" at the MILA/IVADO summer school on Deep Learning, Montreal, [more info](https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/)
-
-- (September 6) I will present our recent work on "Verifying Individual Fairness in Neural Networks" at Montreal AI Symposium 2019 (MAIS), [more info](http://montrealaisymposium.com/)
