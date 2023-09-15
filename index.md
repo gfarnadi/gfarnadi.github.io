@@ -1,6 +1,9 @@
 | [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
 
 ## Assistant Professor at McGill University/University of Montréal/MILA
+
+![alt text](https://github.com/gfarnadi/?raw=true)
+
 I am an Assistant Professor of the School of Computer Science at McGill University, and Adjunct professor at University Montréal. I am a core faculty member at MILA (Quebec Institute for Learning Algorithms) and hold Canada CIFAR AI chair.
 
 Prior to this, I hold a similar position at HEC Montréal (U. Montreal's business school) and from 2018-2020, I was a a post-doctoral IVADO fellow at University of Montreal and MILA working on fairness-aware sequential decision making under uncertainty with [professor Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/) and [professor Michel Gendreau](https://www.polymtl.ca/expertises/en/gendreau-michel). From 2017-2018, I was a postdoc researcher of the Statistical Relational Learning Group (LINQS) of [professor Lise Getoor](https://getoor.soe.ucsc.edu/home) at the University of California, Santa Cruz. 
