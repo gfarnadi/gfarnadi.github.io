@@ -2,7 +2,7 @@
 
 ## Assistant Professor at McGill University/University of Montréal/MILA
 <div align="center">
-    <img src="Golnoosh_Farnadi.jpg" width="350">
+    <img src="Golnoosh_Farnadi.jpg" width="300">
 </div>
 
 Dr. Golnoosh Farnadi is an Assistant Professor of the School of Computer Science at McGill University, and Adjunct professor at University Montréal. She is a core faculty member at MILA (Quebec Institute for Learning Algorithms) and hold Canada CIFAR AI chair. She is the Director of the [EQUAL lab](student.md) at McGill University. EQUAL lab (**EQ**uity & **EQ**uality **U**sing **A**I and **L**earning algorithms) is a cutting-edge research laboratory dedicated to advancing the fields of algorithmic fairness and responsible AI. With a mission to promote equity and equality in AI systems, Equal Lab harnesses the power of advanced learning algorithms and AI technologies to tackle the pressing issues surrounding bias and discrimination in AI and machine learning models.
