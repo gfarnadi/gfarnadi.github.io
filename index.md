@@ -1,4 +1,4 @@
-| [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
+| [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [EQUAL Lab](student.md) | 
 
 ## Assistant Professor at McGill University/University of Montréal/MILA
 <div align="center">
