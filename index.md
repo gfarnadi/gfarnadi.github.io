@@ -1,4 +1,4 @@
-| [About me](aboutme.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
+| [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Interviews & Media](News.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
 
 ## Assistant Professor at McGill University/University of Montréal/MILA
 I am an Assistant Professor of the School of Computer Science at McGill University, and Adjunct professor at University Montréal. I am a core faculty member at MILA (Quebec Institute for Learning Algorithms) and hold Canada CIFAR AI chair.
