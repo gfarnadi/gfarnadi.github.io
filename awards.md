@@ -2,7 +2,9 @@
 
 ## Honors and Awards 
 
-- **Google Facultly award**, 60,000 USD, 2021
+- **Facebook Privacy Enhancing Technologies Award**, 2021, [more info](https://research.facebook.com/research-awards/2021-privacy-enhancing-technologies-request-for-proposals/)
+
+- **Google Facultly award**, 2021 [more info](https://blog.research.google/2021/04/announcing-2021-research-scholar.html)
 
 - ML with Guarantees **Travel Grant Winner** (covering travel and accommodation in Vancouver), 2019
 
