@@ -1,4 +1,4 @@
-| [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
+| [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [EQUAL Lab](student.md) | 
 
 # EQUAL Lab 
 EQUAL Lab (**EQ**uity & **EQ**uality **U**sing **A**I and **L**earning algorithms) is a cutting-edge research laboratory dedicated to advancing the fields of algorithmic fairness and responsible artificial intelligence (AI). With a mission to promote equity and equality in AI systems, Equal Lab harnesses the power of advanced learning algorithms and AI technologies to tackle the pressing issues surrounding bias and discrimination in machine learning models.
