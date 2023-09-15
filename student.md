@@ -1,7 +1,11 @@
 | [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
 
 # EQUAL Lab: 
-I am directing the EQUAL Lab (**EQ**uity & **EQ**uality **U**sing **A**I and **L**earning algorithms).
+EQUAL Lab (**EQ**uity & **EQ**uality **U**sing **A**I and **L**earning algorithms). Equal Lab is a cutting-edge research laboratory dedicated to advancing the fields of algorithmic fairness and responsible artificial intelligence (AI). With a mission to promote equity and equality in AI systems, Equal Lab harnesses the power of advanced learning algorithms and AI technologies to tackle the pressing issues surrounding bias and discrimination in machine learning models.
+
+At Equal Lab, a team of multidisciplinary experts collaborates to develop innovative solutions that address algorithmic biases and ensure fair and ethical AI outcomes. Through rigorous research, data analysis, and the application of state-of-the-art techniques, the lab is at the forefront of reshaping the AI landscape to create more equitable and just algorithms.
+
+Equal Lab's research initiatives extend to various domains, including healthcare, finance, and beyond. By actively promoting transparency, accountability, and responsible AI practices, Equal Lab is paving the way for a future where AI technologies benefit all members of society, irrespective of their backgrounds or characteristics.
 
 ## Open Opportunities
 I have one PhD position at McGill for Fall 2023. If you are interested to work on algorithmic fairness and interested to join my lab, please follow the application instructions bellow.
