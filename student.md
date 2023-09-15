@@ -1,6 +1,6 @@
 | [Home](index.md) | [Publications](https://scholar.google.com/citations?user=4Vjp6hwAAAAJ&hl=en) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [EQUAL Lab](student.md) | 
 
-# EQUAL Lab 
+## EQUAL Lab 
 
 <div align="center">
     <img src="equallab.png" width="400">
