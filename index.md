@@ -11,12 +11,11 @@ In 2021, I won Google Scholar Award and Facebook Research Award and was named on
 
 ### Research Interest
 
-- Fairness-aware AI
+- Algorithmic Fairness
 - Privacy-preserving Machine Learning
-- Constrained Optimization
-- Deep Learning
-- Probabilistic Graphical Models
-- Social Network Analysis
+- Responsible AI 
+- Optimization
+- Deep Learning and Generative AI
 
 ## Contact
 
