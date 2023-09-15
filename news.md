@@ -25,12 +25,15 @@
 ## Videos
 
 - The Walrus Talk by Dr. Golnoosh Farnadi: Inequality and AI
+
 [![](https://markdown-videos-api.jorgenkh.no/youtube/ww5a6sFENkA?si=kbH2r-9eq9dyWeNf)](https://youtu.be/ww5a6sFENkA?si=kbH2r-9eq9dyWeNf)
 
 - Bias and Discrimination in AI l UMontrealX on edX org
+
 [![](https://markdown-videos-api.jorgenkh.no/youtube/DR1gLslKKeI?si=dobz8gppF8skqGH)](https://youtu.be/DR1gLslKKeI?si=dobz8gppF8skqGH)
 
 - Canada's Leadership in AI Policy / Le leadership du Canada en matière de politiques relatives à l’IA
+
 [![](https://markdown-videos-api.jorgenkh.no/youtube/ieMRp--C_eM?si=D6VhueEnAFcCO7gt)](https://youtu.be/ieMRp--C_eM?si=D6VhueEnAFcCO7gt)
 
 
