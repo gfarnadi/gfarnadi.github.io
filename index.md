@@ -2,7 +2,7 @@
 
 ## Assistant Professor at McGill University/University of Montréal/MILA
 
-![](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/Golnoosh_Farnadi.jpg?raw=true)
+![](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/Golnoosh_Farnadi.jpg?raw=true| width=100)
 
 I am an Assistant Professor of the School of Computer Science at McGill University, and Adjunct professor at University Montréal. I am a core faculty member at MILA (Quebec Institute for Learning Algorithms) and hold Canada CIFAR AI chair.
 
