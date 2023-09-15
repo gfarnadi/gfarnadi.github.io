@@ -3,15 +3,18 @@
 # Research Group
 
 ## Open Opportunities
-If you are interested to join the lab, please follow the application instructions bellow.
+I have one PhD position at McGill for Fall 2023. If you are interested to work on algorithmic fairness and interested to join my lab, please follow the application instructions bellow.
+
 
 ## Current students
 
 ### Post-doc
+- [Milan van den Heuvel](https://www.milanvandenheuvel.com/), Post-doc visitor, Mila, Fall 2023
 - [Afaf Taik](), Post-doc, Mila, Fall 2022
 
 ### PhD
 - [Prakhar Ganesh](https://prakharg24.github.io/), PhD, UdeM, Fall 2023
+- [Khaoula Chehbouni](), PhD, McGill, Fall 2023
 - [Raesetje Sefala](https://sefalab.github.io/), PhD, McGill, Fall 2022 (co-supervision with [AJung Moon](https://www.ajungmoon.com/))
 - [William St-Arnaud](), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 
@@ -28,10 +31,11 @@ If you are interested to join the lab, please follow the application instruction
 ### Research Intern
 - [Saber Malekmohammadi](), Full-time Intern, Summer 2023
 - [Mina Arzaghi](), Full-time Intern, Summer 2023
-- [Khaoula Chehbouni](), Full-time Intern, Winter 2023
+
 
 
 ## Previous students
+- [Khaoula Chehbouni](), Full-time Intern, Winter 2023 - Summer 2023
 - [Maricarmen Arenas](), MSc, HEC, Fall 2020 - Fall 2022 (co-supervision with [Reihaneh Rabbany](http://www.reirab.com/))
 - [Sikha Pentyala](), Full-time Intern, Fall 2021 - Summer 2022 (co-supervision with [Martine De Cock](http://faculty.washington.edu/mdecock/))
 - [Khaoula Chehbouni](), MSc, HEC, Fall 2020 - Summer 2022 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
@@ -51,7 +55,7 @@ I am always looking for students to work with me in the areas of trustworthy mac
 Note that it's very important that you and I are a good match. Once we start working together, we will be working very closely for at least 2 yrs (for M.Sc.) and 4 years (for Ph.D.).
 
 I hire students at:
-- the [Department of Decision Sciences](https://www.hec.ca/en/decision-sciences/) at [HEC Montreal](https://www.hec.ca/en/)(bussiness school of University of Montreal) 
+- the [School of Computer Science](https://www.cs.mcgill.ca/) at [McGill University](https://www.mcgill.ca/)
 - the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/)(DIRO) at [University of Montreal](https://www.umontreal.ca/)
 
 First, check the department's application deadline and make sure the start time you are about to email me for is still feasible. For Fall semester, if you are interested in doing a PhD, Master or internship with me, please apply **first** through the [Mila admission website](https://mila.quebec/en/cours/supervision/) and put in your selection there that you are interested in working with me (Deadline December 1, 2021). If your application is succesful and pass the internal evaluation, I will contact you and invite you for an interview.
