@@ -2,6 +2,9 @@
 
 ## Teaching 
 
+**Responsible AI (Winter 2024), McGill University/Mila**
+- Coming soon!
+
 **Machine Learning 1 (Winter 2023), HEC Montreal/Mila**
 
 - All materials and details are avaialble at the [machine learning course webpage: Winter 2023](courses/MLW2023/main.md).
