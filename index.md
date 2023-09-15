@@ -1,6 +1,6 @@
 | [Home](index.md) | [Publications](https://scholar.google.com/citations?user=4Vjp6hwAAAAJ&hl=en) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [EQUAL Lab](student.md) | 
 
-## Assistant Professor at McGill University/University of Montréal/MILA
+## Assistant Professor at McGill University/University of Montréal/MILA/Canada CIFAR AI Chair
 <div align="center">
     <img src="Golnoosh_Farnadi.jpg" width="300">
 </div>
