@@ -1,6 +1,9 @@
 | [Home](index.md) | [Publications](https://scholar.google.com/citations?user=4Vjp6hwAAAAJ&hl=en) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [EQUAL Lab](student.md) | 
 
 ## Invited Talks
+
+### 2023
+
 - **Tripods Workshop**, Invited Speaker, October 19, 2023, Santa Cruz, USA
 
 - **Scale AI: ALL IN 2023**, Invited Speaker, September, 2023, Montreal, Canada
@@ -27,6 +30,8 @@
 
 - **University of Washington Tacoma**, Invited Speaker, 23 February 2023, Tacoma, USA
 
+### 2022
+
 - **4th Urban Economy Forum**, Panelist, 4 October 2022
 
 - **Google**, AI for Good or Good AI, Invited Speaker, 26 July 2022
@@ -34,6 +39,8 @@
 - **Mila-Microsoft Research workshop**, AI for Good or Good AI, Invited Speaker, 4 October 2022
 
 - **Artificial intelligence, the brain and society Workshop**, AI for Good or Good AI, Invited Speaker, Paris, France, 20 April 2022
+
+### 2021
 
 - **47th International Conference on Very Large Data Bases (VLDB) panel on Responsible AI Systems and Experiences** panelist, 19 August 2021
 
@@ -51,6 +58,8 @@
 
 - **AICan Panel: Canada's Leadership in Responsible AI Policy**, 19 January, 2021, Panelist
 
+### 2020
+
 - **Gender gap in Data science, HEC Montreal, Montreal, Canada, 18 September, 2020**, Panelist
 
 - **Picture a Scientist**, MILA, 3 September, 2020, Panelist
@@ -60,6 +69,8 @@
 - **ICESCO Webinar on Artificial Intelligence and Education, 18 June, 2020**, Panelist 
 
 - **NextAI, Montreal, Canada, 17 June, 2020**, Bias and Discrimination in machine learning
+
+### 2019
 
 - **The 5th edition of MILA/IVADO summer school on Deep Learning**, Vancouver, Canada, December 6, 2019, **Bias and Discrimination in AI**, [more info](https://ivado.ca/en/trainings/schools/ivado-mila-deep-learning-school-5th-edition-2/)
 
@@ -78,9 +89,13 @@
 
 - **Optimization Days**, Montreal, Canada, 14 May, 2019, **Fairness-aware Influence Maximization**
 
+### 2018
+
 - **UAI Tutorial**, Monterey, USA, 6 August, 2018, **Collective classification and Link Prediction with Probabilistic Soft Logic**
 
 - **University of Washington, Tacoma**, USA, March 28, 2018, **Computational Social Science: Opportunities and Challenges**
+
+## 2016
 
 - **Microsoft Research Asia**, China, November 16, 2016, **Social Media Users Modeling towards Personalized Advertisement**
 
@@ -93,6 +108,8 @@
 - **PARIS workshop**, Belgium, May 10, 2016, **Why advertisers should know your age, gender and personality?**, [Info](http://www.parisproject.be/workshop/workshop_schedule.html)
 
 - **University of Washington, Tacoma**, USA, March 9, 2016, **Social Media Users Modeling towards Personalized Advertisement**, [Info](http://cwds.uw.edu/research-talk/social-media-users-modeling-towards-personalized-advertisement)
+
+### 2014
 
 - **Vlerick Leuven Gent Management School**, Belgium, September 22, 2014 , **Mining of Social Media**
 
