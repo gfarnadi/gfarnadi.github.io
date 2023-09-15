@@ -8,7 +8,7 @@ At Equal Lab, a team of multidisciplinary experts collaborates to develop innova
 Equal Lab's research initiatives extend to various domains, including healthcare, finance, and beyond. By actively promoting transparency, accountability, and responsible AI practices, Equal Lab is paving the way for a future where AI technologies benefit all members of society, irrespective of their backgrounds or characteristics.
 
 ## Open Opportunities
-I have one PhD position at McGill for Fall 2023. If you are interested to work on algorithmic fairness and interested to join my lab, please follow the application instructions bellow.
+EQUAL lab has one open PhD position at McGill for Fall 2024. If you are interested to work on algorithmic fairness and interested to join the lab, please follow the application instructions bellow.
 
 
 ## Current students
