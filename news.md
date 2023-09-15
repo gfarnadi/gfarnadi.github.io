@@ -6,7 +6,7 @@
 
 - Interview with Simon Lord of La Presse, “Fidèle à ses convictions”, 2023, [more info](https://www.lapresse.ca/affaires/portfolio/2023-02-17/intelligence-artificielle/fidele-a-ses-convictions.php)
 
-- Work cited in an article entitled “AI and Cities: UN-Habitat and Mila launch a collaborative White Paper on the use and potential challenges of AI to support the development of people-centered sustainable cities and settlements”, CISION, 2022 [more info](https:// www.newswire.ca/news-releases/ai-and-cities-un-habitat-and-mila-launch-a-collaborative-white-paper-on-the-use-and-potential-challenges-of-ai- to-support-the-development-of-people-centered-sustainable-cities-and-settlements-877938898.html)
+- Work cited in an article entitled “AI and Cities: UN-Habitat and Mila launch a collaborative White Paper on the use and potential challenges of AI to support the development of people-centered sustainable cities and settlements”, CISION, 2022 [more info](https://www.newswire.ca/news-releases/ai-and-cities-un-habitat-and-mila-launch-a-collaborative-white-paper-on-the-use-and-potential-challenges-of-ai- to-support-the-development-of-people-centered-sustainable-cities-and-settlements-877938898.html)
 
 - Interview with CIFAR's Krista Davidson, “Reducing discrimination and bias in AI: Q&A with Golnoosh Farnadi,” 2021 [more info](https://cifar.ca/cifarnews/2021/11/17/reducing-discrimination-and-bias-in-ai -qa-with-golnoosh-farnadi/)
 
