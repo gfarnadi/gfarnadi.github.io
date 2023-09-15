@@ -1,4 +1,4 @@
-| [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
+| [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Interviews & Media](News.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
 
 ## Honors and Awards 
 
