@@ -22,3 +22,8 @@
 
 - Interview with Chloe Gibert from CScience IA, “Bias and discrimination: training to the rescue”, 2020 [more info](https://www.cscience.ca/2020/09/09/biais-et-discriminations-une-formation-a- the rescue/)
 
+## Videos
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/ww5a6sFENkA?si=kbH2r-9eq9dyWeNf)](https://youtu.be/ww5a6sFENkA?si=kbH2r-9eq9dyWeNf)
+
+
