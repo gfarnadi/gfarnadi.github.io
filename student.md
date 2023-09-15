@@ -24,17 +24,15 @@ I have one PhD position at McGill for Fall 2023. If you are interested to work o
 - [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
 - [Jesse Thibodeau](), MSc, HEC, Fall 2021
-- [Kiarash Mohammadi](https://sites.google.com/view/kiarashinho), MSc, UdeM, Fall 2021
 - [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021
-- [Jia Ao Sun](), MSc, UdeM, Fall 2020 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
 
 ### Research Intern
 - [Saber Malekmohammadi](), Full-time Intern, Summer 2023
 - [Mina Arzaghi](), Full-time Intern, Summer 2023
 
-
-
 ## Previous students
+- [Kiarash Mohammadi](https://sites.google.com/view/kiarashinho), MSc, UdeM, Fall 2021 - Summer 2023
+- [Jia Ao Sun](), MSc, UdeM, Fall 2020 - Summer 2023 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
 - [Khaoula Chehbouni](), Full-time Intern, Winter 2023 - Summer 2023
 - [Maricarmen Arenas](), MSc, HEC, Fall 2020 - Fall 2022 (co-supervision with [Reihaneh Rabbany](http://www.reirab.com/))
 - [Sikha Pentyala](), Full-time Intern, Fall 2021 - Summer 2022 (co-supervision with [Martine De Cock](http://faculty.washington.edu/mdecock/))
