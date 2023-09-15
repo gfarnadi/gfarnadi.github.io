@@ -1,6 +1,65 @@
 | [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
 
 ## Invited Talks
+- **Tripods Workshop**, Invited Speaker, October 19, 2023, Santa Cruz, USA
+
+- **Scale AI: ALL IN 2023**, Invited Speaker, September, 2023, Montreal, Canada
+
+- **Anticipating AI’s Major Risks for Society organized by Mila, IVADO and OBVIA**, Panelist, August 14, 2023, Montreal, Canada
+
+- **TedXMontreal**, Invited Speaker, July 20, 2023, Montreal, Canada
+
+- **CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School**, Invited Speaker, July 18, 2023, Montreal, Canada
+
+- **The Walrus Talks Artificial Intelligence**, Invited Speaker, 28 June 2023, Toronto, Canada
+
+- **Mozilla Responsible AI Challenge**, Invited workshop organizer, 31 May 2023, San Francisco, USA
+
+- **Mila Partners symposium**, Invited workshop organizer, 31 May 2023
+
+- **NextAI**, Invited Speaker, 9 May 2023, Montreal, Canada
+
+- **Planetary Politics Initiative at New America**, Invited Participates of the AI working group for Mapping Our Global Digital Future: A Symposium on Examining Digital Harms & Pathways to Tech Governance, May 2-3, Washington DC, USA
+
+- **World Summit AI Americas**, Invited Speaker, April 25, 2023, Montreal, Canada
+
+- **Concordia University**, Invited Speaker, 28 March 2023, Montreal, Canada
+
+- **University of Washington Tacoma**, Invited Speaker, 23 February 2023, Tacoma, USA
+
+- **4th Urban Economy Forum**, Panelist, 4 October 2022
+
+- **Google**, AI for Good or Good AI, Invited Speaker, 26 July 2022
+
+- **Mila-Microsoft Research workshop**, AI for Good or Good AI, Invited Speaker, 4 October 2022
+
+- **Artificial intelligence, the brain and society Workshop**, AI for Good or Good AI, Invited Speaker, Paris, France, 20 April 2022
+
+- **47th International Conference on Very Large Data Bases (VLDB) panel on Responsible AI Systems and Experiences** panelist, 19 August 2021
+
+- **ICML 2021 Workshop on Representation Learning for Finance and e-Commerce Applications**, invited speaker, 21 July 2021
+
+- **SICSS-Montreal**, invited speaker, June 14, 2021
+
+- **6th edition of MILA/IVADO summer school on Deep Learning**, Contextualizing ethics in AI, invited speaker, 27 April 2021
+
+- **Keynote speaker at Symposium on Intelligent Data Analysis (IDA 2021)**, Mitigating Algorithmic Discrimination in Machine Learning, 26 April 2021
+
+- **TechAide 2021 conference**, 23 April 2021, invited speaker
+
+- **KCJ panel on AI ethics**, panelist, 21 April 2021
+
+- **AICan Panel: Canada's Leadership in Responsible AI Policy**, 19 January, 2021, Panelist
+
+- **Gender gap in Data science, HEC Montreal, Montreal, Canada, 18 September, 2020**, Panelist
+
+- **Picture a Scientist**, MILA, 3 September, 2020, Panelist
+
+- **Plenary talk at NAFIPS2020, Seattle, USA, 21 August, 2020**, Bias and Discrimination in machine learning
+
+- **ICESCO Webinar on Artificial Intelligence and Education, 18 June, 2020**, Panelist 
+
+- **NextAI, Montreal, Canada, 17 June, 2020**, Bias and Discrimination in machine learning
 
 - **The 5th edition of MILA/IVADO summer school on Deep Learning**, Vancouver, Canada, December 6, 2019, **Bias and Discrimination in AI**, [more info](https://ivado.ca/en/trainings/schools/ivado-mila-deep-learning-school-5th-edition-2/)
 
