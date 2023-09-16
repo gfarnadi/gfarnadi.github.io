@@ -4,9 +4,17 @@
 
 ### 2023
 
+- **World Cities Day: CIFAR talks on Future Cities**, Invited Speaker, October 31, 2023
+
 - **Tripods Workshop**, Invited Speaker, October 19, 2023, Santa Cruz, USA
 
-- **Scale AI: ALL IN 2023**, Invited Speaker, September, 2023, Montreal, Canada
+- **Scale AI: ALL IN 2023**, Invited Speaker and Panelist, September 28, 2023, Montreal, Canada
+
+- **McGill University**, Invited Lecturer, September 12, 2023
+
+- **McGill: Lightening talk**, Invited Speaker, September 8, 2023
+
+- **Facebook (Meta): Women in AI talk**, Invited Speaker, August 30, 2023
 
 - **Anticipating AI’s Major Risks for Society organized by Mila, IVADO and OBVIA**, Panelist, August 14, 2023, Montreal, Canada
 
@@ -32,13 +40,15 @@
 
 ### 2022
 
-- **4th Urban Economy Forum**, Panelist, 4 October 2022
+- **McGill University**, Invited Lecturer, November 15, 2023
 
-- **Google**, AI for Good or Good AI, Invited Speaker, 26 July 2022
+- **4th Urban Economy Forum**, Panelist, October 4, 2022
 
-- **Mila-Microsoft Research workshop**, AI for Good or Good AI, Invited Speaker, 4 October 2022
+- **Google**, AI for Good or Good AI, Invited Speaker, July 26, 2022
 
-- **Artificial intelligence, the brain and society Workshop**, AI for Good or Good AI, Invited Speaker, Paris, France, 20 April 2022
+- **Mila-Microsoft Research workshop**, AI for Good or Good AI, Invited Speaker, October 4, 2022
+
+- **Artificial intelligence, the brain and society Workshop**, AI for Good or Good AI, Invited Speaker, Paris, France, April 20, 2022
 
 ### 2021
 
