@@ -15,7 +15,7 @@ Equal Lab's research initiatives extend to various domains, including healthcare
 [EQUAL Lab Wiki]()
 
 ## Open Opportunities
-EQUAL lab has one open PhD position at McGill for Fall 2024. If you are interested to work on algorithmic fairness and interested to join the lab, please follow the application instructions bellow.
+EQUAL lab has one open **PhD position at McGill university for Fall 2024**. If you have a solid background and a keen interest in algorithmic fairness, and you're enthusiastic about joining our lab, please follow the application instructions outlined below.
 
 
 ## Current students
@@ -68,7 +68,7 @@ I hire students at:
 - the [School of Computer Science](https://www.cs.mcgill.ca/) at [McGill University](https://www.mcgill.ca/)
 - the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/)(DIRO) at [University of Montreal](https://www.umontreal.ca/)
 
-First, check the department's application deadline and make sure the start time you are about to email me for is still feasible. For Fall semester, if you are interested in doing a PhD, Master or internship with me, please apply **first** through the [Mila admission website](https://mila.quebec/en/cours/supervision/) and put in your selection there that you are interested in working with me (Deadline December 1, 2021). If your application is succesful and pass the internal evaluation, I will contact you and invite you for an interview.
+First, check the department's application deadline and make sure the start time you are about to email me for is still feasible. For Fall semester, if you are interested in doing a PhD, Master or internship with me, please apply **first** through the [Mila admission website](https://mila.quebec/en/cours/supervision/) and put in your selection there that you are interested in working with me (Deadline December 1st). If your application is succesful and pass the internal evaluation, I will contact you and invite you for an interview.
 
 Second, note that it's hard to evaluate your application by just looking at your CV. In your email to express your interest in applying to work with me, please do the following. 
 
