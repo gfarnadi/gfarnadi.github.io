@@ -10,9 +10,11 @@
 
 - **Scale AI: ALL IN 2023**, Invited Speaker and Panelist, September 28, 2023, Montreal, Canada
 
-- **McGill University**, Invited Lecturer, September 12, 2023
+- **Soup and Science at McGill university**, Invited speaker, September 26, 2023, Montreal, Canada
 
-- **McGill: Lightening talk**, Invited Speaker, September 8, 2023
+- **McGill University**, Invited Lecturer, September 12, 2023, Montreal, Canada
+
+- **McGill: Lightening talk**, Invited Speaker, September 8, 2023, Montreal, Canada
 
 - **Facebook (Meta): Women in AI talk**, Invited Speaker, August 30, 2023
 
