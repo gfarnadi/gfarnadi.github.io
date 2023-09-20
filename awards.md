@@ -2,7 +2,7 @@
 
 ## Honors and Awards 
 
-- **Women in AI Awards North America 2023 Finalist, Responsible AI Leader of the year**, 2023, [more info](https://www.womeninai.co/post/finalists-and-special-jury-recognitions-announced-for-women-in-ai-awards-north-america-2023)
+- **Women in AI Awards North America Finalist, Responsible AI Leader of the year**, 2023, [more info](https://www.womeninai.co/post/finalists-and-special-jury-recognitions-announced-for-women-in-ai-awards-north-america-2023)
 
 - **Google Research Excellence Award**, 2022.
 
