@@ -6,7 +6,7 @@
 
 - **Google Research Excellence Award**, 2022.
 
-- **Rising Stars in AI Ethics**, 2021, [more info](https://womeninaiethics.org/the-list/rising-stars/)
+- **Rising Stars in AI Ethics**, 2022, [more info](https://womeninaiethics.org/the-list/rising-stars/)
 
 - **Facebook Privacy Enhancing Technologies Award**, 2021, [more info](https://research.facebook.com/research-awards/2021-privacy-enhancing-technologies-request-for-proposals/)
 
