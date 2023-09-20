@@ -2,7 +2,11 @@
 
 ## Honors and Awards 
 
+- **WAI North America Finalist, Responsible AI Leader of the year**, 2023
+
 - **Google Research Excellence Award**, 2022.
+
+- **Rising Stars, a list of 20 promising new diverse talents in AI Ethics**, 2021.
 
 - **Facebook Privacy Enhancing Technologies Award**, 2021, [more info](https://research.facebook.com/research-awards/2021-privacy-enhancing-technologies-request-for-proposals/)
 
