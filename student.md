@@ -15,7 +15,7 @@ Equal Lab's research initiatives extend to various domains, including healthcare
 [EQUAL Lab Wiki]()
 
 ## Open Opportunities
-EQUAL lab has one open **PhD position at McGill University for Fall 2024**, focusing on fairness and privacy auditing of Generaative AI. If you have a solid background and keen interest in responsible AI and are enthusiastic about joining our lab, please follow the application instructions outlined below.
+EQUAL lab has one open **PhD position at McGill University for Fall 2024**, focusing on fairness and privacy auditing of generative models. If you have a solid background and keen interest in responsible AI and are enthusiastic about joining our lab, please follow the application instructions outlined below.
 
 
 ## Current students
