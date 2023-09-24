@@ -8,14 +8,14 @@
 
 EQUAL Lab (**EQ**uity & **EQ**uality **U**sing **A**I and **L**earning algorithms) is a cutting-edge research laboratory dedicated to advancing the fields of algorithmic fairness and responsible artificial intelligence (AI). With a mission to promote equity and equality in AI systems, Equal Lab harnesses the power of advanced learning algorithms and AI technologies to tackle the pressing issues surrounding bias and discrimination in machine learning models.
 
-At Equal Lab, a team of multidisciplinary experts collaborates to develop innovative solutions that address algorithmic biases and ensure fair and ethical AI outcomes. Through rigorous research, and the application of state-of-the-art techniques, the lab is at the forefront of reshaping the AI landscape to create more equitable and just algorithms.
+At Equal Lab, a team of multidisciplinary experts collaborates to develop innovative solutions that address algorithmic biases and ensure fair and ethical AI outcomes. Through rigorous research and the application of state-of-the-art techniques, the lab is at the forefront of reshaping the AI landscape to create more equitable and just algorithms.
 
 Equal Lab's research initiatives extend to various domains, including healthcare, finance, and beyond. By actively promoting privacy, transparency, accountability, interpretability and responsible AI practices, Equal Lab is paving the way for a future where AI technologies benefit all members of society, irrespective of their backgrounds or characteristics.
 
 [EQUAL Lab Wiki]()
 
 ## Open Opportunities
-EQUAL lab has one open **PhD position at McGill university for Fall 2024**. If you have a solid background and a keen interest in algorithmic fairness, and you're enthusiastic about joining our lab, please follow the application instructions outlined below.
+EQUAL lab has one open **PhD position at McGill University for Fall 2024**, focusing on fairness and privacy auditing of Generaative AI. If you have a solid background and keen interest in responsible AI and are enthusiastic about joining our lab, please follow the application instructions outlined below.
 
 
 ## Current students
