@@ -12,7 +12,7 @@ At Equal Lab, a team of multidisciplinary experts collaborates to develop innova
 
 Equal Lab's research initiatives extend to various domains, including healthcare, finance, and beyond. By actively promoting privacy, transparency, accountability, interpretability and responsible AI practices, Equal Lab is paving the way for a future where AI technologies benefit all members of society, irrespective of their backgrounds or characteristics.
 
-[EQUAL Lab Wiki]()
+[EQUAL Lab Wiki](https://equallab.notion.site/equallab/Welcome-to-EQUAL-Lab-462877a5e7434f778fadb101d2b70144)
 
 ## Open Opportunities
 EQUAL lab has one open **PhD position at McGill University for Fall 2024**, focusing on fairness and privacy auditing of generative models. If you have a solid background and keen interest in responsible AI and are enthusiastic about joining our lab, please follow the application instructions outlined below.
