@@ -36,13 +36,13 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
 - [Jesse Thibodeau](), MSc, HEC, Fall 2021
-- [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021
 
 ### Research Intern
 - [Saber Malekmohammadi](), Full-time Intern, Summer 2023
 - [Mina Arzaghi](), Full-time Intern, Summer 2023
 
 ## Previous students
+- [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021 - Fall 2023
 - [Kiarash Mohammadi](https://sites.google.com/view/kiarashinho), MSc, UdeM, Fall 2021 - Summer 2023
 - [Jia Ao Sun](), MSc, UdeM, Fall 2020 - Summer 2023 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
 - [Khaoula Chehbouni](), Full-time Intern, Winter 2023 - Summer 2023
