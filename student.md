@@ -49,10 +49,9 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021 - Fall 2023
 - [Kiarash Mohammadi](https://sites.google.com/view/kiarashinho), MSc, UdeM, Fall 2021 - Summer 2023
 - [Jia Ao Sun](), MSc, UdeM, Fall 2020 - Summer 2023 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
-- [Khaoula Chehbouni](), Full-time Intern, Winter 2023 - Summer 2023
 - [Maricarmen Arenas](), MSc, HEC, Fall 2020 - Fall 2022 (co-supervision with [Reihaneh Rabbany](http://www.reirab.com/))
 - [Sikha Pentyala](), Full-time Intern, Fall 2021 - Summer 2022 (co-supervision with [Martine De Cock](http://faculty.washington.edu/mdecock/))
-- [Khaoula Chehbouni](), MSc, HEC, Fall 2020 - Summer 2022 (co-supervision with [Gilles Caporossi](https://www.hec.ca/en/profs/gilles.caporossi.html))
+- [Khaoula Chehbouni](), MSc, HEC, Fall 2020 - Summer 2022 (co-supervision with [Gilles Caporossi], Full-time Intern, Winter 2023 - Summer 2023(https://www.hec.ca/en/profs/gilles.caporossi.html))
 - [Maryam Molamohammadi](), Full-time Intern, Fall 2021 - Spring 2022 (co-supervision with [Nicolas Le Roux](http://nicolas.le-roux.name/))
 - [Giulia Occhini](https://www.turing.ac.uk/people/doctoral-students/giulia-occhini), Part-time Intern,  Winter - Spring 2022 (co-supervision with [David Rolnick](https://davidrolnick.com/))
 - [Raesetje Sefala](), Part-time Intern, Winter - Spring 2022
