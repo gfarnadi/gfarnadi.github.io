@@ -27,20 +27,20 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 
 ### PhD
 - [Prakhar Ganesh](https://prakharg24.github.io/), PhD, McGill, Winter 2023
-- [Khaoula Chehbouni](), PhD, McGill, Fall 2023
-- [William St-Arnaud](), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
+- [Khaoula Chehbouni](https://khaoulachehbouni.github.io/), PhD, McGill, Fall 2023
+- [William St-Arnaud](https://williamstarnaud.com/), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 
 ### MSc
 - [Yash More](), MSc, McGill, Fall 2023
 - [Elahe Rahmati](), MSc, Polytechnique Montreal, Fall 2022 (co-supervision with [Thibaut Vidal](https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html))
-- [Armin Moradi](), MSc, UdeM, Winter 2023
+- [Armin Moradi](linkedin.com/in/arminmoradi9), MSc, UdeM, Winter 2023
 - [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022
 - [Jesse Thibodeau](), MSc, HEC, Fall 2021
 
 ### Research Intern
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/),Full-time Intern, Winter 2023
-- [Saber Malekmohammadi](), Full-time Intern, Summer 2023
-- [Mina Arzaghi](), Full-time Intern, Summer 2023
+- [Saber Malekmohammadi](https://www.linkedin.com/in/saber-mm/), Full-time Intern, Summer 2023
+- [Mina Arzaghi](https://minaarzaghi.github.io/), Full-time Intern, Summer 2023
 
 ## Previous students
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022 - Fall 2023
