@@ -21,27 +21,28 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 ## Current students
 
 ### Post-doc
-- [Milan van den Heuvel](https://www.milanvandenheuvel.com/), Post-doc visitor, Mila, Fall 2023
 - [Afaf Taik](), Post-doc, Mila, Fall 2022
 
 ### PhD
-- [Prakhar Ganesh](https://prakharg24.github.io/), PhD, UdeM, Fall 2023
+- [Prakhar Ganesh](https://prakharg24.github.io/), PhD, McGill, Winter 2023
 - [Khaoula Chehbouni](), PhD, McGill, Fall 2023
-- [Raesetje Sefala](https://sefalab.github.io/), PhD, McGill, Fall 2022 (co-supervision with [AJung Moon](https://www.ajungmoon.com/))
 - [William St-Arnaud](), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 
 ### MSc
-- [Yash More](), MSc, UdeM, Fall 2023
+- [Yash More](), MSc, McGill, Fall 2023
 - [Armin Moradi](), MSc, UdeM, Winter 2023
 - [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022
-- [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022
 - [Jesse Thibodeau](), MSc, HEC, Fall 2021
 
 ### Research Intern
+- [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/),Full-time Intern, Winter 2023
 - [Saber Malekmohammadi](), Full-time Intern, Summer 2023
 - [Mina Arzaghi](), Full-time Intern, Summer 2023
 
 ## Previous students
+- [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022 - Fall 2023
+- [Milan van den Heuvel](https://www.milanvandenheuvel.com/), Post-doc visitor, Mila, Fall 2023
+- [Raesetje Sefala](https://sefalab.github.io/), Intern, McGill, Fall 2022 - Fall 2023 (co-supervision with [AJung Moon](https://www.ajungmoon.com/))
 - [Rebecca Salganik](https://www.rebeccasalganik.com/), MSc, UdeM, Fall 2021 - Fall 2023
 - [Kiarash Mohammadi](https://sites.google.com/view/kiarashinho), MSc, UdeM, Fall 2021 - Summer 2023
 - [Jia Ao Sun](), MSc, UdeM, Fall 2020 - Summer 2023 (co-supervision with [Esma Aïmeur](http://www.iro.umontreal.ca/~aimeur/))
