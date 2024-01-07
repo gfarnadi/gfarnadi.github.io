@@ -12,7 +12,7 @@ Prior to this, Golnoosh hold a similar position at HEC Montréal (U. Montreal's 
 
 Golnoosh obtained her Ph.D. in Computer science from KU Leuven and Ghent University in 2017 with a dissertation on user modeling in social media under the supervision of [professor Martine de Cock](http://faculty.washington.edu/mdecock/) and [professor Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). During her PhD, she was a visiting scholar at UCLA, University of Washington, Tacoma, Tsinguha University, and Microsoft research, Redmond. 
 
-In 2021, she won Google Scholar Award and Facebook Research Award and was named one of the Rising Stars, a list of 20 promising new diverse talents in AI Ethics.
+In 2021, she won Google Scholar Award and Facebook Research Award and was named one of the Rising Stars, a list of 20 promising new diverse talents in AI Ethics. In 2023, Golnoosh won a Google award for inclusion research, and was a finalist of WAI responsible AI leader of the year award and named one of the 100 Brilliant Women in AI Ethics.
 
 ### Research Interest
 
