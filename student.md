@@ -33,8 +33,8 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [William St-Arnaud](https://williamstarnaud.com/), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 
 ### MSc
-- [Alireza Farashah], MSc, McGill, Fall 2024 (co-supervision with [Negar Rostamzadeh](https://negar-rostamzadeh.github.io/))
-- [Marylou Fauchard], MSc, UdeM, Fall 2024 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
+- [Alireza Farashah](), MSc, McGill, Fall 2024 (co-supervision with [Negar Rostamzadeh](https://negar-rostamzadeh.github.io/))
+- [Marylou Fauchard](), MSc, UdeM, Fall 2024 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 - [Yash More](), MSc, McGill, Fall 2023
 - [Elahe Rahmati](), MSc, Polytechnique Montreal, Fall 2022 (co-supervision with [Thibaut Vidal](https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html))
 - [Armin Moradi](linkedin.com/in/arminmoradi9), MSc, UdeM, Winter 2023
