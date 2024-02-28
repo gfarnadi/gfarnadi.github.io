@@ -29,7 +29,6 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [Prakhar Ganesh](https://prakharg24.github.io/), PhD, McGill, Winter 2023
 - [Mina Arzaghi](https://minaarzaghi.github.io/), PhD, HEC Montreal, Fall 2023 (co-supervision with [Jean-François Plante](https://www.hec.ca/en/profs/jfplante.html))
 - [Khaoula Chehbouni](https://khaoulachehbouni.github.io/), PhD, McGill, Fall 2023
-- [Raesetje Sefala](https://sefalab.github.io/), PhD, McGill, Fall 2022 (co-supervision with [AJung Moon](https://www.ajungmoon.com/))
 - [William St-Arnaud](https://williamstarnaud.com/), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 
 ### MSc
@@ -46,6 +45,7 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [Saber Malekmohammadi](https://www.linkedin.com/in/saber-mm/), Full-time Intern, Summer 2023
 
 ## Previous students
+- [Raesetje Sefala](https://sefalab.github.io/), RA, McGill, Fall 2022 (co-supervision with [AJung Moon](https://www.ajungmoon.com/))
 - [Mina Arzaghi](https://minaarzaghi.github.io/), Full-time Intern, Summer 2023
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022 - Fall 2023
 - [Milan van den Heuvel](https://www.milanvandenheuvel.com/), Post-doc visitor, Mila, Fall 2023
