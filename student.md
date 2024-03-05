@@ -26,7 +26,7 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [Meghdad Kurmanji](https://meghdadk.github.io/), Post-doc, McGill, Spring 2023
 
 ### PhD
-- [Aditi Khandelwal](), PhD, McGill, Fall 2024
+- [Aditi Khandelwal](https://www.linkedin.com/in/aditi-khandelwal-991b1b19b/), PhD, McGill, Fall 2024 (co-supervision with [Siva Reddy](https://sivareddy.in/))
 - [Prakhar Ganesh](https://prakharg24.github.io/), PhD, McGill, Winter 2023
 - [Mina Arzaghi](https://minaarzaghi.github.io/), PhD, HEC Montreal, Fall 2023 (co-supervision with [Jean-François Plante](https://www.hec.ca/en/profs/jfplante.html))
 - [Khaoula Chehbouni](https://khaoulachehbouni.github.io/), PhD, McGill, Fall 2023
