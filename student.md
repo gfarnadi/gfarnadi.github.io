@@ -21,7 +21,7 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 ## Current students
 
 ### Post-doc
-- [Afaf Taik](), Post-doc, Mila, Fall 2022
+- [Afaf Taik](https://afaf-taik.github.io/), Post-doc, Mila, Fall 2022
 - [Florian Carichon](https://ca.linkedin.com/in/florian-carichon-5a798681), Post-doc, McGill, Spring 2023
 - [Meghdad Kurmanji](https://meghdadk.github.io/), Post-doc, McGill, Spring 2023
 
@@ -39,7 +39,7 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [Armin Moradi](linkedin.com/in/arminmoradi9), MSc, UdeM, Winter 2023
 - [Elahe Rahmati](), MSc, Polytechnique Montreal, Fall 2022 (co-supervision with [Thibaut Vidal](https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html))
 - [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022
-- [Jesse Thibodeau](), MSc, HEC, Fall 2021
+- [Jesse Thibodeau](https://sites.google.com/view/jesse-thibodeau/), MSc, HEC, Fall 2021
 
 ### Research Intern
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/),Full-time Intern, Winter 2023
