@@ -22,7 +22,7 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 
 ### Post-doc
 - [Afaf Taik](https://afaf-taik.github.io/), Post-doc, Mila, Fall 2022
-- [Florian Carichon](https://ca.linkedin.com/in/florian-carichon-5a798681), Post-doc, McGill, JulyY 2024
+- [Florian Carichon](https://ca.linkedin.com/in/florian-carichon-5a798681), Post-doc, McGill, Summer 2024
 
 ### PhD
 - [Aditi Khandelwal](https://www.linkedin.com/in/aditi-khandelwal-991b1b19b/), PhD, McGill, Fall 2024 (co-supervision with [Siva Reddy](https://sivareddy.in/))
@@ -38,16 +38,17 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [Armin Moradi](linkedin.com/in/arminmoradi9), MSc, UdeM, Winter 2023
 - [Elahe Rahmati](), MSc, Polytechnique Montreal, Fall 2022 (co-supervision with [Thibaut Vidal](https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html))
 - [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022
-- [Jesse Thibodeau](https://sites.google.com/view/jesse-thibodeau/), MSc, HEC, Fall 2021
+
 
 ### Research Intern
-- [Cléa Chataigner](), Full-time Intern, Summer 2024
 - [Sebastian Reinhardt ](), Full-time Intern, Summer 2024
-- [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/),Full-time Intern, Winter 2023
 - [Saber Malekmohammadi](https://www.linkedin.com/in/saber-mm/), Full-time Intern, Summer 2023
 
 
 ## Previous students
+- [Cléa Chataigner](), Full-time Intern, Summer 2024
+- [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/),Full-time Intern, Winter 2024 - Spring 2024
+- [Jesse Thibodeau](https://sites.google.com/view/jesse-thibodeau/), MSc, HEC, Fall 2021 - Summer 2024
 - [Raesetje Sefala](https://sefalab.github.io/), RA, McGill, Fall 2022 (co-supervision with [AJung Moon](https://www.ajungmoon.com/))
 - [Mina Arzaghi](https://minaarzaghi.github.io/), Full-time Intern, Summer 2023
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), MSc, UdeM, Winter 2022 - Fall 2023
