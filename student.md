@@ -15,7 +15,7 @@ Equal Lab's research initiatives extend to various domains, including healthcare
 [EQUAL Lab Wiki](https://equallab.notion.site/equallab/Welcome-to-EQUAL-Lab-462877a5e7434f778fadb101d2b70144)
 
 ## Open Opportunities
-The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for Fall 2024**, focusing on **algorithmic fairness and privacy of deep learning and generative models**. If you have a solid background and keen interest in **responsible AI** and are excited about joining our lab, please follow the application instructions below.
+The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for Fall 2025**, focusing on **algorithmic fairness and privacy of deep learning and generative models**. I do not hire master students for Fall 2025. If you have a solid background and keen interest in **responsible AI** and are excited about joining our lab, please apply through [MILA’s request for supervision](https://mila.quebec/en/supervision-requests/) (deadline Decemeber 1, 2024)
 
 
 ## Current students
