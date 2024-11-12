@@ -44,10 +44,9 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [Aly M. Kassem](https://github.com/Alymostafa), Full-time Intern, Winter 2025
 - [Sebastian Reinhardt ](), Full-time Intern, Summer 2024
 - [Saber Malekmohammadi](https://www.linkedin.com/in/saber-mm/), Full-time Intern, Summer 2023
-
+- [Cléa Chataigner](), Full-time Intern, Summer 2024
 
 ## Previous students
-- [Cléa Chataigner](), Full-time Intern, Summer 2024
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/),Full-time Intern, Winter 2024 - Spring 2024
 - [Jesse Thibodeau](https://sites.google.com/view/jesse-thibodeau/), MSc, HEC, Fall 2021 - Summer 2024
 - [Raesetje Sefala](https://sefalab.github.io/), RA, McGill, Fall 2022 (co-supervision with [AJung Moon](https://www.ajungmoon.com/))
