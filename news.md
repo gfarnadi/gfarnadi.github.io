@@ -24,6 +24,9 @@
 
 ## Videos
 
+- CIFAR AI annual event
+[![](https://markdown-videos-api.jorgenkh.no/youtube/upwjjYAPiek?si=jEEm4DolSr4TNa3e)](https://youtu.be/upwjjYAPiek?si=jEEm4DolSr4TNa3e)
+
 - The Walrus Talk by Dr. Golnoosh Farnadi: Inequality and AI
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/ww5a6sFENkA?si=kbH2r-9eq9dyWeNf)](https://youtu.be/ww5a6sFENkA?si=kbH2r-9eq9dyWeNf)
