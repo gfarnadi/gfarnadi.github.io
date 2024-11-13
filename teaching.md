@@ -2,28 +2,31 @@
 
 ## Teaching 
 
+**Artificial Intelligence (Fall 2024), McGill University/Mila**
+- All materials and details are available at [MyCourses at McGill](https://mycourses2.mcgill.ca/d2l/home).
+
 **Responsible AI (Winter 2024), McGill University/Mila**
-- All materials and details are avaialble at [MyCourses at McGill](https://mycourses2.mcgill.ca/d2l/home). The list of readings is avaiable [here](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ResponsibleAI2024/papers.pdf).
+- All materials and details are available at [MyCourses at McGill](https://mycourses2.mcgill.ca/d2l/home). The list of readings is available [here](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ResponsibleAI2024/papers.pdf).
 
 **Machine Learning 1 (Winter 2023), HEC Montreal/Mila**
 
-- All materials and details are avaialble at the [machine learning course webpage: Winter 2023](courses/MLW2023/main.md).
+- All materials and details are available at the [machine learning course webpage: Winter 2023](courses/MLW2023/main.md).
 
 **Trustworthy Machine Learning (Fall 2022), HEC Montreal/Mila**
 
-- All materials and details are avaialble at the [turstworthy machine learning course webpage: Fall 2022](courses/TrustworthyMLF22/main.md).
+- All materials and details are available at the [turstworthy machine learning course webpage: Fall 2022](courses/TrustworthyMLF22/main.md).
 
 **Machine Learning 1 (Winter 2022), HEC Montreal/Mila**
 
-- All materials and details are avaialble at the [machine learning course webpage: Winter 2022](courses/MLW2022/main.md).
+- All materials and details are available at the [machine learning course webpage: Winter 2022](courses/MLW2022/main.md).
 
 **Machine Learning 1 (Fall 2021), HEC Montreal/Mila**
 
-- All materials and details are avaialble at the [machine learning course webpage: Fall 2021](courses/ML/main.md).
+- All materials and details are available at the [machine learning course webpage: Fall 2021](courses/ML/main.md).
 
 **Data Science (Fall 2019), Mila**
 
-- All materials and details are avaialble at the [data science course webpage: Fall 2019](https://ift6758.github.io/).
+- All materials and details are available at the [data science course webpage: Fall 2019](https://ift6758.github.io/).
 
 ## Teaching Assistant
 
