@@ -21,32 +21,37 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 ## Current students
 
 ### Post-doc
-- [Afaf Taik](https://afaf-taik.github.io/), Post-doc, Mila, Fall 2022
-- [Florian Carichon](https://ca.linkedin.com/in/florian-carichon-5a798681), Post-doc, McGill, Summer 2024
+- [Zhuan Shi](https://scholar.google.com/citations?user=Ref14osAAAAJ&hl=zh-CN),  Post-doc, McGill/Mila, Spring 2025
+- [Florian Carichon](https://ca.linkedin.com/in/florian-carichon-5a798681), Post-doc, McGill/Mila, Summer 2024
+- [Afaf Taik](https://afaf-taik.github.io/), Post-doc, UdeM/Mila, Fall 2022
+
 
 ### PhD
+- [Cléa Chataigner](), PhD, McGill, Fall 2025 (co-supervision with [Pablo Piantanida](https://sites.google.com/mila.quebec/pablo-piantanida/home))
+- [Aly M. Kassem](https://github.com/Alymostafa), PhD, McGill, Fall 2025
 - [Aditi Khandelwal](https://www.linkedin.com/in/aditi-khandelwal-991b1b19b/), PhD, McGill, Fall 2024 (co-supervision with [Siva Reddy](https://sivareddy.in/))
 - [Prakhar Ganesh](https://prakharg24.github.io/), PhD, McGill, Winter 2023
 - [Mina Arzaghi](https://minaarzaghi.github.io/), PhD, HEC Montreal, Fall 2023 (co-supervision with [Jean-François Plante](https://www.hec.ca/en/profs/jfplante.html))
-- [Khaoula Chehbouni](https://khaoulachehbouni.github.io/), PhD, McGill, Fall 2023
+- [Khaoula Chehbouni](https://khaoulachehbouni.github.io/), PhD, McGill, Fall 2023 (co-supervision with [Jackie Cheung]())
 - [William St-Arnaud](https://williamstarnaud.com/), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 
 ### MSc
+- [Hesam Asadollahzadeh](https://hesamasad.github.io/), MSc, McGill, Fall 2025
 - [Alireza Farashah](), MSc, McGill, Fall 2024 (co-supervision with [Negar Rostamzadeh](https://negar-rostamzadeh.github.io/))
 - [Marylou Fauchard](), MSc, UdeM, Fall 2024 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 - [Yash More](), MSc, McGill, Fall 2023
-- [Armin Moradi](linkedin.com/in/arminmoradi9), MSc, UdeM, Winter 2023
 - [Elahe Rahmati](), MSc, Polytechnique Montreal, Fall 2022 (co-supervision with [Thibaut Vidal](https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html))
-- [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022
-
 
 ### Research Intern
 - [Aly M. Kassem](https://github.com/Alymostafa), Full-time Intern, Winter 2025
-- [Sebastian Reinhardt ](), Full-time Intern, Summer 2024
 - [Saber Malekmohammadi](https://www.linkedin.com/in/saber-mm/), Full-time Intern, Summer 2023
-- [Cléa Chataigner](), Full-time Intern, Summer 2024
+
 
 ## Previous students
+- [Armin Moradi](linkedin.com/in/arminmoradi9), MSc, UdeM, Winter 2023 - Fall 2024
+- [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022 - Fall 2024
+- [Cléa Chataigner](), Full-time Intern, Summer 2024
+- [Sebastian Reinhardt ](), Full-time Intern, Summer 2024
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/),Full-time Intern, Winter 2024 - Spring 2024
 - [Jesse Thibodeau](https://sites.google.com/view/jesse-thibodeau/), MSc, HEC, Fall 2021 - Summer 2024
 - [Raesetje Sefala](https://sefalab.github.io/), RA, McGill, Fall 2022 (co-supervision with [AJung Moon](https://www.ajungmoon.com/))
