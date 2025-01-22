@@ -1,6 +1,8 @@
 | [Home](index.md) | [Publications](https://scholar.google.com/citations?user=4Vjp6hwAAAAJ&hl=en) | [Talks](talks.md) | [Interviews & Media](news.md) | [Awards](awards.md) | [Teaching](teaching.md) | [EQUAL Lab](student.md) | 
 
 ## Teaching 
+**Responsible AI (Winter 2025), McGill University/Mila**
+- All materials and details are available at [MyCourses at McGill](https://mycourses2.mcgill.ca/d2l/home).
 
 **Artificial Intelligence (Fall 2024), McGill University/Mila**
 - All materials and details are available at [MyCourses at McGill](https://mycourses2.mcgill.ca/d2l/home).
