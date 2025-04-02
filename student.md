@@ -29,6 +29,7 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 ### PhD
 - [Cléa Chataigner](), PhD, McGill, Fall 2025 (co-supervision with [Pablo Piantanida](https://sites.google.com/mila.quebec/pablo-piantanida/home))
 - [Aly M. Kassem](https://github.com/Alymostafa), PhD, McGill, Fall 2025
+- [Alireza Farashah](), PhD, McGill, Fall 2024 (co-supervision with [Negar Rostamzadeh](https://negar-rostamzadeh.github.io/))
 - [Aditi Khandelwal](https://www.linkedin.com/in/aditi-khandelwal-991b1b19b/), PhD, McGill, Fall 2024 (co-supervision with [Siva Reddy](https://sivareddy.in/))
 - [Prakhar Ganesh](https://prakharg24.github.io/), PhD, McGill, Winter 2023
 - [Mina Arzaghi](https://minaarzaghi.github.io/), PhD, HEC Montreal, Fall 2023 (co-supervision with [Jean-François Plante](https://www.hec.ca/en/profs/jfplante.html))
@@ -36,7 +37,6 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [William St-Arnaud](https://williamstarnaud.com/), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 
 ### MSc
-- [Alireza Farashah](), MSc, McGill, Fall 2024 (co-supervision with [Negar Rostamzadeh](https://negar-rostamzadeh.github.io/))
 - [Marylou Fauchard](), MSc, UdeM, Fall 2024 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 - [Yash More](), MSc, McGill, Fall 2023
 - [Elahe Rahmati](), MSc, Polytechnique Montreal, Fall 2022 (co-supervision with [Thibaut Vidal](https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html))
