@@ -38,8 +38,6 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 
 ### MSc
 - [Marylou Fauchard](), MSc, UdeM, Fall 2024 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
-- [Yash More](), MSc, McGill, Fall 2023
-- [Elahe Rahmati](), MSc, Polytechnique Montreal, Fall 2022 (co-supervision with [Thibaut Vidal](https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html))
 
 ### Research Intern
 - [Aly M. Kassem](https://github.com/Alymostafa), Full-time Intern, Winter 2025
@@ -47,6 +45,8 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [Saber Malekmohammadi](https://www.linkedin.com/in/saber-mm/), Full-time Intern, Summer 2023
 
 ## Previous students
+- [Yash More](), MSc, McGill, Fall 2023 - Spring 2025
+- [Elahe Rahmati](), MSc, Polytechnique Montreal, Fall 2022 - Spring 2025 (co-supervision with [Thibaut Vidal](https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html))
 - [Armin Moradi](linkedin.com/in/arminmoradi9), MSc, UdeM, Winter 2023 - Fall 2024
 - [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022 - Fall 2024
 - [Cléa Chataigner](), Full-time Intern, Summer 2024
