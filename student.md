@@ -23,7 +23,6 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 ### Post-doc
 - [Zhuan Shi](https://scholar.google.com/citations?user=Ref14osAAAAJ&hl=zh-CN),  Post-doc, McGill/Mila, Spring 2025
 - [Florian Carichon](https://ca.linkedin.com/in/florian-carichon-5a798681), Post-doc, McGill/Mila, Summer 2024
-- [Afaf Taik](https://afaf-taik.github.io/), Post-doc, UdeM/Mila, Fall 2022
 
 
 ### PhD
@@ -41,18 +40,23 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [Marylou Fauchard](), MSc, UdeM, Fall 2024 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
 
 ### Research Intern
+- [Edie Pearman](), Full-time Intern, Fall 2025
+- [Sophia Osborne](), Part-time Intern, Fall 2025
+- [Mira Kandlikar-Bloch](), Part-time Intern, Fall 2025
+- [Semin Omur](), Part-time Intern, Summer 2025
 - [Nahian Rahman](), Full-time Intern, Summer 2025 (co-supervision with [Eric Hehman](https://erichehman.com/))
 - [Paul Ellement](), Full-time Intern, Summer 2025
 - [Aly M. Kassem](https://github.com/Alymostafa), Full-time Intern, Winter 2025
-- [Cléa Chataigner](), Full-time Intern, Winter 2025
 - [Saber Malekmohammadi](https://www.linkedin.com/in/saber-mm/), Full-time Intern, Summer 2023
 
+
 ## Previous students
+- [Afaf Taik](https://afaf-taik.github.io/), Post-doc, UdeM/Mila, Fall 2022 - Summer 2025 (Assitant Professor at USherbrooke)
 - [Yash More](), MSc, McGill, Fall 2023 - Spring 2025
 - [Elahe Rahmati](), MSc, Polytechnique Montreal, Fall 2022 - Spring 2025 (co-supervision with [Thibaut Vidal](https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html))
 - [Armin Moradi](linkedin.com/in/arminmoradi9), MSc, UdeM, Winter 2023 - Fall 2024
 - [Rohan Sukumaran](https://rsk97.github.io/), MSc, UdeM, Fall 2022 - Fall 2024
-- [Cléa Chataigner](), Full-time Intern, Summer 2024
+- [Cléa Chataigner](), Full-time Intern, Summer 2024, Winter 2025
 - [Sebastian Reinhardt ](), Full-time Intern, Summer 2024
 - [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/),Full-time Intern, Winter 2024 - Spring 2024
 - [Jesse Thibodeau](https://sites.google.com/view/jesse-thibodeau/), MSc, HEC, Fall 2021 - Summer 2024
