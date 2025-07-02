@@ -26,9 +26,9 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 
 
 ### PhD
+- [Aly M. Kassem](https://github.com/Alymostafa), PhD, McGill, Winter 2026
 - [Soumya Sharma](), PhD, McGill, Fall 2025 (co-supervision with [Adriana Romero Soriano](https://sites.google.com/site/adriromsor/home))
 - [Cléa Chataigner](), PhD, McGill, Fall 2025 (co-supervision with [Pablo Piantanida](https://sites.google.com/mila.quebec/pablo-piantanida/home))
-- [Aly M. Kassem](https://github.com/Alymostafa), PhD, McGill, Fall 2025
 - [Alireza Farashah](), PhD, McGill, Fall 2024 (co-supervision with [Negar Rostamzadeh](https://negar-rostamzadeh.github.io/))
 - [Aditi Khandelwal](https://www.linkedin.com/in/aditi-khandelwal-991b1b19b/), PhD, McGill, Fall 2024 (co-supervision with [Siva Reddy](https://sivareddy.in/))
 - [Prakhar Ganesh](https://prakharg24.github.io/), PhD, McGill, Winter 2024
