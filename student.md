@@ -31,7 +31,7 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [Aly M. Kassem](https://github.com/Alymostafa), PhD, McGill, Fall 2025
 - [Alireza Farashah](), PhD, McGill, Fall 2024 (co-supervision with [Negar Rostamzadeh](https://negar-rostamzadeh.github.io/))
 - [Aditi Khandelwal](https://www.linkedin.com/in/aditi-khandelwal-991b1b19b/), PhD, McGill, Fall 2024 (co-supervision with [Siva Reddy](https://sivareddy.in/))
-- [Prakhar Ganesh](https://prakharg24.github.io/), PhD, McGill, Winter 2023
+- [Prakhar Ganesh](https://prakharg24.github.io/), PhD, McGill, Winter 2024
 - [Mina Arzaghi](https://minaarzaghi.github.io/), PhD, HEC Montreal, Fall 2023 (co-supervision with [Jean-François Plante](https://www.hec.ca/en/profs/jfplante.html))
 - [Khaoula Chehbouni](https://khaoulachehbouni.github.io/), PhD, McGill, Fall 2023 (co-supervision with [Jackie Cheung]())
 - [William St-Arnaud](https://williamstarnaud.com/), PhD, UdeM, Fall 2021 (co-supervision with [Margarida Carvalho](http://margaridacarvalho.org/))
