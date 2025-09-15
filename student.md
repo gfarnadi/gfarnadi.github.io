@@ -44,13 +44,13 @@ The EQUAL lab has **two Ph.D. and one post-doc position at McGill University for
 - [Edie Pearman](), Full-time Intern, Fall 2025
 - [Sophia Osborne](), Part-time Intern, Fall 2025
 - [Mira Kandlikar-Bloch](), Part-time Intern, Fall 2025
-- [Semin Omur](), Full-time Intern, Fall 2025
+- [Selin Omur](), Full-time Intern, Fall 2025
 - [Nahian Rahman](), Full-time Intern, Fall 2025 
 - [Aly M. Kassem](https://github.com/Alymostafa), Full-time Intern, Winter 2025
 
 ## Previous students
 - [Saber Malekmohammadi](https://www.linkedin.com/in/saber-mm/), Full-time Intern, Summer 2023 - Summer 2025
-- [Semin Omur](), Part-time Intern, Summer 2025
+- [Selin Omur](), Part-time Intern, Summer 2025
 - [Nahian Rahman](), Full-time Intern, Summer 2025 (co-supervision with [Eric Hehman](https://erichehman.com/))
 - [Paul Ellement](), Full-time Intern, Summer 2025
 - [Afaf Taik](https://afaf-taik.github.io/), Post-doc, UdeM/Mila, Fall 2022 - Summer 2025 (Assitant Professor at USherbrooke)
